@@ -22,11 +22,6 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data - large files (re-download or re-generate on Kaggle)
-data/raw/
-data/indices/
-data/results/
-corpus_cleaned.csv
 
 # Models
 models/

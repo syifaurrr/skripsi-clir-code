@@ -1,0 +1,120 @@
+Ditemukan Error dalam Struktur Halaman:
+================================================================================
+
+         type                                                           msg                                          pos
+  MISSING_GAP    Halaman lompat. Dari 31 langsung ke 34. (Hilang 2 halaman)                                   Index 4298
+  MISSING_GAP    Halaman lompat. Dari 36 langsung ke 38. (Hilang 1 halaman)                                   Index 8379
+  MISSING_GAP    Halaman lompat. Dari 38 langsung ke 40. (Hilang 1 halaman)                                   Index 9933
+  MISSING_GAP    Halaman lompat. Dari 41 langsung ke 44. (Hilang 2 halaman)                                  Index 13835
+  MISSING_GAP    Halaman lompat. Dari 44 langsung ke 46. (Hilang 1 halaman)                                  Index 15920
+  MISSING_GAP    Halaman lompat. Dari 47 langsung ke 51. (Hilang 3 halaman)                                  Index 20521
+  MISSING_GAP    Halaman lompat. Dari 52 langsung ke 55. (Hilang 2 halaman)                                  Index 24239
+  MISSING_GAP    Halaman lompat. Dari 55 langsung ke 57. (Hilang 1 halaman)                                  Index 26277
+  MISSING_GAP    Halaman lompat. Dari 68 langsung ke 71. (Hilang 2 halaman)                                  Index 39641
+  MISSING_GAP    Halaman lompat. Dari 76 langsung ke 78. (Hilang 1 halaman)                                  Index 46394
+  MISSING_GAP    Halaman lompat. Dari 78 langsung ke 81. (Hilang 2 halaman)                                  Index 49055
+  MISSING_GAP    Halaman lompat. Dari 82 langsung ke 84. (Hilang 1 halaman)                                  Index 52008
+  MISSING_GAP    Halaman lompat. Dari 90 langsung ke 92. (Hilang 1 halaman)                                  Index 60165
+  MISSING_GAP  Halaman lompat. Dari 105 langsung ke 107. (Hilang 1 halaman)                                  Index 75095
+  MISSING_GAP  Halaman lompat. Dari 118 langsung ke 120. (Hilang 1 halaman)                                  Index 88301
+  MISSING_GAP  Halaman lompat. Dari 126 langsung ke 129. (Hilang 2 halaman)                                  Index 96846
+  MISSING_GAP  Halaman lompat. Dari 139 langsung ke 141. (Hilang 1 halaman)                                 Index 108922
+    DUPLICATE                                     Halaman 142 muncul ganda. Tag 1 di index 109376, Tag 2 di index 109786
+  MISSING_GAP  Halaman lompat. Dari 146 langsung ke 148. (Hilang 1 halaman)                                 Index 115941
+    DUPLICATE                                     Halaman 149 muncul ganda. Tag 1 di index 116493, Tag 2 di index 116749
+  MISSING_GAP  Halaman lompat. Dari 153 langsung ke 155. (Hilang 1 halaman)                                 Index 122498
+    DUPLICATE                                     Halaman 157 muncul ganda. Tag 1 di index 124162, Tag 2 di index 124345
+    DUPLICATE                                     Halaman 170 muncul ganda. Tag 1 di index 137569, Tag 2 di index 137920
+  MISSING_GAP  Halaman lompat. Dari 184 langsung ke 186. (Hilang 1 halaman)                                 Index 154752
+  MISSING_GAP  Halaman lompat. Dari 196 langsung ke 198. (Hilang 1 halaman)                                 Index 166967
+  MISSING_GAP  Halaman lompat. Dari 205 langsung ke 207. (Hilang 1 halaman)                                 Index 175640
+  MISSING_GAP  Halaman lompat. Dari 208 langsung ke 210. (Hilang 1 halaman)                                 Index 178922
+  MISSING_GAP  Halaman lompat. Dari 211 langsung ke 213. (Hilang 1 halaman)                                 Index 182146
+    DUPLICATE                                     Halaman 214 muncul ganda. Tag 1 di index 182527, Tag 2 di index 183099
+  MISSING_GAP  Halaman lompat. Dari 216 langsung ke 218. (Hilang 1 halaman)                                 Index 187063
+  MISSING_GAP  Halaman lompat. Dari 225 langsung ke 227. (Hilang 1 halaman)                                 Index 196321
+  MISSING_GAP  Halaman lompat. Dari 230 langsung ke 232. (Hilang 1 halaman)                                 Index 201018
+  MISSING_GAP  Halaman lompat. Dari 234 langsung ke 236. (Hilang 1 halaman)                                 Index 204517
+  MISSING_GAP  Halaman lompat. Dari 236 langsung ke 238. (Hilang 1 halaman)                                 Index 206446
+  MISSING_GAP  Halaman lompat. Dari 238 langsung ke 243. (Hilang 4 halaman)                                 Index 210772
+  MISSING_GAP  Halaman lompat. Dari 256 langsung ke 258. (Hilang 1 halaman)                                 Index 225517
+  MISSING_GAP  Halaman lompat. Dari 262 langsung ke 264. (Hilang 1 halaman)                                 Index 231423
+  MISSING_GAP  Halaman lompat. Dari 267 langsung ke 273. (Hilang 5 halaman)                                 Index 239880
+  MISSING_GAP  Halaman lompat. Dari 275 langsung ke 277. (Hilang 1 halaman)                                 Index 243924
+  MISSING_GAP  Halaman lompat. Dari 282 langsung ke 284. (Hilang 1 halaman)                                 Index 249524
+  MISSING_GAP  Halaman lompat. Dari 284 langsung ke 286. (Hilang 1 halaman)                                 Index 251452
+  MISSING_GAP  Halaman lompat. Dari 286 langsung ke 288. (Hilang 1 halaman)                                 Index 252376
+  MISSING_GAP  Halaman lompat. Dari 288 langsung ke 290. (Hilang 1 halaman)                                 Index 254258
+  MISSING_GAP  Halaman lompat. Dari 291 langsung ke 298. (Hilang 6 halaman)                                 Index 257958
+  MISSING_GAP  Halaman lompat. Dari 299 langsung ke 302. (Hilang 2 halaman)                                 Index 262184
+  MISSING_GAP  Halaman lompat. Dari 306 langsung ke 308. (Hilang 1 halaman)                                 Index 268303
+  MISSING_GAP  Halaman lompat. Dari 312 langsung ke 314. (Hilang 1 halaman)                                 Index 274344
+    DUPLICATE                                     Halaman 316 muncul ganda. Tag 1 di index 276139, Tag 2 di index 276395
+  MISSING_GAP  Halaman lompat. Dari 321 langsung ke 323. (Hilang 1 halaman)                                 Index 283329
+  MISSING_GAP  Halaman lompat. Dari 325 langsung ke 327. (Hilang 1 halaman)                                 Index 287245
+  MISSING_GAP  Halaman lompat. Dari 328 langsung ke 330. (Hilang 1 halaman)                                 Index 288903
+BACKWARD_JUMP                               Urutan mundur! Dari 332 ke 239.                                 Index 292191
+  MISSING_GAP Halaman lompat. Dari 239 langsung ke 333. (Hilang 93 halaman)                                 Index 293209
+    DUPLICATE                                     Halaman 339 muncul ganda. Tag 1 di index 299167, Tag 2 di index 299290
+  MISSING_GAP  Halaman lompat. Dari 344 langsung ke 346. (Hilang 1 halaman)                                 Index 306535
+    DUPLICATE                                     Halaman 351 muncul ganda. Tag 1 di index 311008, Tag 2 di index 311662
+  MISSING_GAP  Halaman lompat. Dari 352 langsung ke 354. (Hilang 1 halaman)                                 Index 314347
+    DUPLICATE                                     Halaman 354 muncul ganda. Tag 1 di index 314347, Tag 2 di index 314586
+  MISSING_GAP  Halaman lompat. Dari 355 langsung ke 357. (Hilang 1 halaman)                                 Index 317730
+  MISSING_GAP  Halaman lompat. Dari 361 langsung ke 364. (Hilang 2 halaman)                                 Index 324844
+  MISSING_GAP  Halaman lompat. Dari 365 langsung ke 367. (Hilang 1 halaman)                                 Index 327548
+    DUPLICATE                                     Halaman 384 muncul ganda. Tag 1 di index 344934, Tag 2 di index 345622
+  MISSING_GAP  Halaman lompat. Dari 388 langsung ke 390. (Hilang 1 halaman)                                 Index 351191
+  MISSING_GAP  Halaman lompat. Dari 391 langsung ke 393. (Hilang 1 halaman)                                 Index 354075
+  MISSING_GAP  Halaman lompat. Dari 395 langsung ke 397. (Hilang 1 halaman)                                 Index 358043
+  MISSING_GAP  Halaman lompat. Dari 397 langsung ke 399. (Hilang 1 halaman)                                 Index 360117
+    DUPLICATE                                     Halaman 400 muncul ganda. Tag 1 di index 360619, Tag 2 di index 361111
+  MISSING_GAP  Halaman lompat. Dari 403 langsung ke 405. (Hilang 1 halaman)                                 Index 366153
+  MISSING_GAP  Halaman lompat. Dari 406 langsung ke 409. (Hilang 2 halaman)                                 Index 370217
+  MISSING_GAP  Halaman lompat. Dari 411 langsung ke 413. (Hilang 1 halaman)                                 Index 374540
+  MISSING_GAP  Halaman lompat. Dari 413 langsung ke 415. (Hilang 1 halaman)                                 Index 376645
+    DUPLICATE                                     Halaman 417 muncul ganda. Tag 1 di index 378298, Tag 2 di index 378555
+  MISSING_GAP  Halaman lompat. Dari 427 langsung ke 429. (Hilang 1 halaman)                                 Index 390734
+  MISSING_GAP  Halaman lompat. Dari 434 langsung ke 436. (Hilang 1 halaman)                                 Index 397936
+    DUPLICATE                                     Halaman 438 muncul ganda. Tag 1 di index 399831, Tag 2 di index 400070
+    DUPLICATE                                     Halaman 441 muncul ganda. Tag 1 di index 402755, Tag 2 di index 403516
+    DUPLICATE                                     Halaman 444 muncul ganda. Tag 1 di index 405819, Tag 2 di index 406256
+  MISSING_GAP  Halaman lompat. Dari 444 langsung ke 446. (Hilang 1 halaman)                                 Index 408058
+  MISSING_GAP  Halaman lompat. Dari 454 langsung ke 456. (Hilang 1 halaman)                                 Index 417508
+  MISSING_GAP  Halaman lompat. Dari 458 langsung ke 460. (Hilang 1 halaman)                                 Index 421632
+    DUPLICATE                                     Halaman 478 muncul ganda. Tag 1 di index 440034, Tag 2 di index 440600
+    DUPLICATE                                     Halaman 485 muncul ganda. Tag 1 di index 447061, Tag 2 di index 447348
+  MISSING_GAP  Halaman lompat. Dari 485 langsung ke 487. (Hilang 1 halaman)                                 Index 449369
+  MISSING_GAP  Halaman lompat. Dari 489 langsung ke 491. (Hilang 1 halaman)                                 Index 453606
+    DUPLICATE                                     Halaman 495 muncul ganda. Tag 1 di index 457293, Tag 2 di index 457680
+    DUPLICATE                                     Halaman 499 muncul ganda. Tag 1 di index 461107, Tag 2 di index 461587
+    DUPLICATE                                     Halaman 505 muncul ganda. Tag 1 di index 467514, Tag 2 di index 467906
+  MISSING_GAP  Halaman lompat. Dari 505 langsung ke 507. (Hilang 1 halaman)                                 Index 469874
+  MISSING_GAP  Halaman lompat. Dari 516 langsung ke 518. (Hilang 1 halaman)                                 Index 480515
+    DUPLICATE                                     Halaman 520 muncul ganda. Tag 1 di index 482061, Tag 2 di index 482397
+    DUPLICATE                                     Halaman 522 muncul ganda. Tag 1 di index 483895, Tag 2 di index 484323
+BACKWARD_JUMP                               Urutan mundur! Dari 534 ke 523.                                 Index 495555
+  MISSING_GAP Halaman lompat. Dari 523 langsung ke 534. (Hilang 10 halaman)                                 Index 495690
+  MISSING_GAP  Halaman lompat. Dari 534 langsung ke 539. (Hilang 4 halaman)                                 Index 500443
+  MISSING_GAP  Halaman lompat. Dari 541 langsung ke 543. (Hilang 1 halaman)                                 Index 504488
+  MISSING_GAP  Halaman lompat. Dari 548 langsung ke 550. (Hilang 1 halaman)                                 Index 511132
+    DUPLICATE                                     Halaman 559 muncul ganda. Tag 1 di index 520097, Tag 2 di index 520628
+  MISSING_GAP  Halaman lompat. Dari 559 langsung ke 562. (Hilang 2 halaman)                                 Index 523506
+    DUPLICATE                                     Halaman 574 muncul ganda. Tag 1 di index 535363, Tag 2 di index 535562
+  MISSING_GAP  Halaman lompat. Dari 581 langsung ke 583. (Hilang 1 halaman)                                 Index 544498
+    DUPLICATE                                     Halaman 593 muncul ganda. Tag 1 di index 553726, Tag 2 di index 554340
+    DUPLICATE                                     Halaman 608 muncul ganda. Tag 1 di index 569643, Tag 2 di index 570292
+  MISSING_GAP  Halaman lompat. Dari 612 langsung ke 614. (Hilang 1 halaman)                                 Index 576749
+  MISSING_GAP  Halaman lompat. Dari 614 langsung ke 616. (Hilang 1 halaman)                                 Index 579116
+  MISSING_GAP  Halaman lompat. Dari 627 langsung ke 630. (Hilang 2 halaman)                                 Index 593342
+    DUPLICATE                                     Halaman 630 muncul ganda. Tag 1 di index 593342, Tag 2 di index 593985
+    DUPLICATE                                     Halaman 636 muncul ganda. Tag 1 di index 599729, Tag 2 di index 600390
+  MISSING_GAP  Halaman lompat. Dari 636 langsung ke 638. (Hilang 1 halaman)                                 Index 602582
+  MISSING_GAP  Halaman lompat. Dari 639 langsung ke 641. (Hilang 1 halaman)                                 Index 605991
+  MISSING_GAP  Halaman lompat. Dari 643 langsung ke 647. (Hilang 3 halaman)                                 Index 611693
+  MISSING_GAP  Halaman lompat. Dari 654 langsung ke 656. (Hilang 1 halaman)                                 Index 620830
+  MISSING_GAP  Halaman lompat. Dari 657 langsung ke 659. (Hilang 1 halaman)                                 Index 623922
+  MISSING_GAP  Halaman lompat. Dari 662 langsung ke 666. (Hilang 3 halaman)                                 Index 630983
+
+================================================================================
+Total errors ditemukan: 113

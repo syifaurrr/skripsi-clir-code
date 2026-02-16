@@ -1,0 +1,7 @@
+type,msg,pos
+MISSING_GAP,Halaman lompat. Dari 286 langsung ke 288. (Hilang 1 halaman),Index 252392
+MISSING_GAP,Halaman lompat. Dari 292 langsung ke 294. (Hilang 1 halaman),Index 256793
+MISSING_GAP,Halaman lompat. Dari 294 langsung ke 296. (Hilang 1 halaman),Index 257632
+MISSING_GAP,Halaman lompat. Dari 296 langsung ke 298. (Hilang 1 halaman),Index 257986
+DUPLICATE,Halaman 298 muncul ganda.,"Tag 1 di index 257986, Tag 2 di index 258478"
+MISSING_GAP,Halaman lompat. Dari 361 langsung ke 363. (Hilang 1 halaman),Index 323683
