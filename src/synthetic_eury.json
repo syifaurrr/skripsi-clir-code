@@ -1,0 +1,3044 @@
+[
+{
+"pos_id": "Page_V01P117",
+"neg_id": "Page_V01P118",
+"tipe_1": [
+"Durasi duduk di antara dua sujud",
+"Batas lama duduk antara sujud"
+],
+"tipe_2": [
+"Apakah shalat batal jika kita duduk terlalu lama di antara dua sujud?",
+"Berapa lama batas maksimal kita boleh duduk di antara dua sujud?",
+"Bolehkah memperlama duduk di antara dua sujud melebihi durasi tahiyat minimal?"
+]
+},
+{
+"pos_id": "Page_V01P388",
+"neg_id": "Page_V01P387",
+"tipe_1": [
+"Tanggung jawab peminjam barang hilang",
+"Hukum memperbaiki kesalahan tulis mushaf pinjaman"
+],
+"tipe_2": [
+"Siapa yang harus ganti rugi kalau barang yang dipinjam hilang saat dititipkan ke orang lain?",
+"Kalau saya pinjam buku Quran dan ada salah tulis apakah saya boleh membetulkannya?",
+"Bagaimana hukumnya jika teko yang saya pinjam pecah sebelum saya sempat minum?"
+]
+},
+{
+"pos_id": "Page_V01P605",
+"neg_id": "Page_V01P604",
+"tipe_1": [
+"Dampak masuk Islam sebelum tertawan",
+"Status pernikahan tawanan perang"
+],
+"tipe_2": [
+"Apakah harta orang kafir tetap aman kalau dia masuk Islam sebelum ditangkap?",
+"Bagaimana nasib pernikahan suami istri yang keduanya ditangkap sebagai tawanan?",
+"Apa yang terjadi dengan status perkawinan jika seorang istri ditawan oleh musuh?"
+]
+},
+{
+"pos_id": "Page_V01P243",
+"neg_id": "Page_V01P248",
+"tipe_1": [
+"Kewajiban membayar zakat segera",
+"Ganti rugi zakat yang hilang setelah haul"
+],
+"tipe_2": [
+"Apakah kita berdosa jika menunda bayar zakat padahal uang dan penerimanya sudah ada?",
+"Siapa yang harus tanggung jawab kalau uang zakat hilang karena kita tunda pembayarannya?",
+"Bolehkah menunda bayar zakat demi menunggu kerabat yang lebih membutuhkan?"
+]
+},
+{
+"pos_id": "Page_V01P661",
+"neg_id": "Page_V01P660",
+"tipe_1": [
+"Syarat penggabungan saksi utang piutang",
+"Hukum kesaksian yang tidak sinkron"
+],
+"tipe_2": [
+"Bisakah kesaksian satu orang tentang utang digabung dengan saksi lain tentang pembebasan utang?",
+"Bagaimana jika dua saksi memberikan keterangan berbeda tentang satu transaksi jual beli?",
+"Apakah sah saksi yang satu bilang si A berutang tapi saksi lain bilang si A sudah bayar?"
+]
+},
+{
+"pos_id": "Page_V01P583",
+"neg_id": "Page_V01P584",
+"tipe_1": [
+"Potong tangan pencuri harta wakaf",
+"Hukum mencuri barang masjid"
+],
+"tipe_2": [
+"Apakah orang yang mencuri karpet masjid bisa dikenai hukuman potong tangan?",
+"Bagaimana hukumnya jika suami mencuri harta milik istrinya sendiri?",
+"Apakah pencuri harta sedekah yang diperuntukkan bagi kemaslahatan umum tetap dipotong tangannya?"
+]
+},
+{
+"pos_id": "Page_V01P062",
+"neg_id": "Page_V01P061",
+"tipe_1": [
+"Syarat batal wudhu persentuhan kulit",
+"Hukum menyentuh kulit hewan"
+],
+"tipe_2": [
+"Apakah wudhu kita batal kalau tidak sengaja bersentuhan kulit dengan lawan jenis?",
+"Mengapa menyentuh kulit binatang tidak membatalkan wudhu?",
+"Apakah persentuhan kulit dengan perempuan yang sudah meninggal tetap membatalkan wudhu?"
+]
+},
+{
+"pos_id": "Page_V01P575",
+"neg_id": "Page_V01P576",
+"tipe_1": [
+"Hukuman pezina ghairu muhshan",
+"Durasi pengasingan pezina"
+],
+"tipe_2": [
+"Apa hukuman bagi orang yang belum pernah menikah tapi melakukan zina?",
+"Berapa lama seorang pezina yang belum menikah harus diasingkan dari daerahnya?",
+"Apakah pezina tetap dihukum jika dia mengira pasangannya adalah istrinya yang sah?"
+]
+},
+{
+"pos_id": "Page_V01P234",
+"neg_id": "Page_V01P319",
+"tipe_1": [
+"Larangan menjadikan koin emas sebagai timbangan",
+"Hukum berat timbangan dinar"
+],
+"tipe_2": [
+"Mengapa kita dilarang menggunakan kepingan emas sebagai alat timbangan?",
+"Apa hukumnya menggunakan uang logam sebagai pemberat timbangan?",
+"Apakah boleh menimbang barang dengan menggunakan perhiasan emas?"
+]
+},
+{
+"pos_id": "Page_V01P267",
+"neg_id": "Page_V01P266",
+"tipe_1": [
+"Hukum menelan ludah bercampur zat lain",
+"Syarat ludah yang tidak membatalkan puasa"
+],
+"tipe_2": [
+"Apakah puasa batal jika menelan ludah yang sudah berubah warna karena sisa makanan?",
+"Bagaimana jika ada sisa sirup merah di ludah lalu tertelan saat puasa?",
+"Bolehkah menelan ludah yang sudah tercampur dengan benda suci lainnya?"
+]
+},
+{
+"pos_id": "Page_V01P041",
+"neg_id": "Page_V01P044",
+"tipe_1": [
+"Definisi air mustakmal",
+"Syarat air mutlak untuk wudhu"
+],
+"tipe_2": [
+"Apakah air bekas mandi boleh digunakan lagi untuk berwudhu?",
+"Apa yang dimaksud dengan air yang tidak bisa lagi mensucikan meski warnanya tidak berubah?",
+"Bagaimana hukum menggunakan air yang sudah pernah dipakai untuk menghilangkan hadas?"
+]
+},
+{
+"pos_id": "Page_V01P552",
+"neg_id": "Page_V01P550",
+"tipe_1": [
+"Syarat fasakh nikah karena suami miskin",
+"Pembuktian suami tidak mampu memberi nafkah"
+],
+"tipe_2": [
+"Bagaimana cara istri membatalkan pernikahan karena suami tidak mampu memberi nafkah?",
+"Apakah cukup dengan saksi yang bilang suami jatuh miskin di perantauan untuk minta cerai?",
+"Bolehkah hakim memutus cerai jika istri bisa membuktikan suaminya benar-benar tidak punya harta?"
+]
+},
+{
+"pos_id": "Page_V01P347",
+"neg_id": "Page_V01P345",
+"tipe_1": [
+"Penjualan barang jaminan oleh hakim",
+"Hukum eksekusi gadai yang jatuh tempo"
+],
+"tipe_2": [
+"Apa yang harus dilakukan jika orang yang berutang menolak menjual barang jaminannya saat jatuh tempo?",
+"Bolehkah hakim memaksa penjualan barang gadaian untuk melunasi utang?",
+"Siapa yang berhak menjual barang jaminan jika pemiliknya bersikeras tidak mau bayar utang?"
+]
+},
+{
+"pos_id": "Page_V01P627",
+"neg_id": "Page_V01P626",
+"tipe_1": [
+"Prosedur gugatan kepada orang yang tidak ada di tempat",
+"Hukum menuntut harta pada orang yang sudah meninggal"
+],
+"tipe_2": [
+"Bagaimana cara menuntut utang kepada orang yang sedang tidak berada di kota tersebut?",
+"Bisakah kita mengajukan gugatan hukum kepada anak kecil atau orang yang sudah wafat?",
+"Apa syarat agar hakim bisa mengambil harta milik orang yang absen untuk bayar utangnya?"
+]
+},
+{
+"pos_id": "Page_V01P559",
+"neg_id": "Page_V01P561",
+"tipe_1": [
+"Larangan mengadu domba hewan",
+"Hukum memerah susu hewan yang anaknya mati"
+],
+"tipe_2": [
+"Bolehkah kita memerah susu induk hewan jika anaknya sudah mati?",
+"Mengapa agama melarang kita mengadu domba atau memprovokasi binatang agar berkelahi?",
+"Bagaimana hukumnya menggunakan cara tertentu agar susu hewan bisa diperah setelah anaknya tidak ada?"
+]
+},
+{
+"pos_id": "Page_V01P357",
+"neg_id": "Page_V01P368",
+"tipe_1": [
+"Tempat penyerahan orang dalam jaminan kafalah",
+"Syarat lokasi pemenuhan janji penjamin"
+],
+"tipe_2": [
+"Di mana penjamin harus menyerahkan orang yang dijaminnya jika tidak ada kesepakatan tempat?",
+"Apakah sah jika penjamin menyerahkan orang tersebut di luar kota tempat perjanjian dibuat?",
+"Bagaimana jika tempat penyerahan dalam akad kafalah tidak disebutkan secara spesifik?"
+]
+},
+{
+"pos_id": "Page_V01P289",
+"neg_id": "Page_V01P451",
+"tipe_1": [
+"Syarat sah tawaf umrah",
+"Batas awal memulai putaran tawaf"
+],
+"tipe_2": [
+"Apakah orang yang tidak punya wudhu boleh melakukan tawaf?",
+"Dari mana kita harus mulai menghitung putaran saat mengelilingi Ka'bah?",
+"Apa saja hal yang wajib dipenuhi agar tawaf kita dianggap sah menurut syariat?"
+]
+},
+{
+"pos_id": "Page_V01P557",
+"neg_id": "Page_V01P555",
+"tipe_1": [
+"Urutan hak asuh anak setelah cerai",
+"Hak hadhanah kerabat ibu"
+],
+"tipe_2": [
+"Siapa yang paling berhak mengasuh anak jika ibu dan ayahnya berpisah?",
+"Jika ibu meninggal, siapakah kerabat selanjutnya yang berhak membesarkan anak kecil?",
+"Bagaimana urutan prioritas keluarga dalam mendapatkan hak asuh anak menurut fiqih?"
+]
+},
+{
+"pos_id": "Page_V01P369",
+"neg_id": "Page_V01P370",
+"tipe_1": [
+"Syarat modal dalam akad bagi hasil",
+"Hukum qiradh dengan emas batangan"
+],
+"tipe_2": [
+"Apakah boleh modal untuk usaha bagi hasil menggunakan perhiasan yang belum dilebur?",
+"Jenis uang apa yang boleh dijadikan modal dalam kerja sama perdagangan?",
+"Bisakah kita melakukan akad mudharabah dengan modal berupa barang atau harus uang tunai?"
+]
+},
+{
+"pos_id": "Page_V01P121",
+"neg_id": "Page_V01P122",
+"tipe_1": [
+"Posisi duduk tawarruk dalam shalat",
+"Letak jari tangan saat tahiyat"
+],
+"tipe_2": [
+"Bagaimana cara duduk yang benar saat melakukan tahiyat akhir?",
+"Di mana posisi tangan yang tepat saat kita sedang membaca doa tasyahud?",
+"Seperti apa gerakan jari tangan kanan ketika kita bersyahadat dalam shalat?"
+]
+},
+{
+"pos_id": "Page_V01P164",
+"neg_id": "Page_V01P171",
+"tipe_1": [
+"Keutamaan shalat tahiyatul masjid",
+"Waktu afdhal shalat dhuha"
+],
+"tipe_2": [
+"Kapan waktu yang paling utama untuk melaksanakan shalat sunnah dhuha?",
+"Bolehkah kita melakukan shalat penghormatan masjid di rumah?",
+"Apakah tetap disunnahkan shalat tahiyatul masjid bagi orang yang sengaja menunda shalat fardhu?"
+]
+},
+{
+"pos_id": "Page_V01P615",
+"neg_id": "Page_V01P188",
+"tipe_1": [
+"Hukum makmum beda madzhab dengan imam",
+"Syarat sah bermakmum"
+],
+"tipe_2": [
+"Bolehkah kita bermakmum kepada imam yang kita yakini shalatnya tidak sah karena beda paham?",
+"Bagaimana hukum shalat berjamaah jika makmum menganggap rukun imam ada yang kurang?",
+"Apakah shalat jumat tetap sah jika kita mengikuti imam yang memiliki keyakinan berbeda tentang syarat sah shalat?"
+]
+},
+{
+"pos_id": "Page_V01P606",
+"neg_id": "Page_V01P607",
+"tipe_1": [
+"Status utang tawanan perang yang diperbudak",
+"Hukum piutang muslim kepada orang kafir yang ditawan"
+],
+"tipe_2": [
+"Apakah utang seorang kafir kepada orang Islam otomatis lunas jika dia dijadikan budak?",
+"Bagaimana nasib utang piutang antar sesama orang kafir setelah mereka ditangkap dalam perang?",
+"Jika seorang tawanan punya utang pada muslim, apakah hartanya tetap wajib dipakai bayar utang?"
+]
+},
+{
+"pos_id": "Page_V01P631",
+"neg_id": "Page_V01P632",
+"tipe_1": [
+"Hukum mengambil paksa harta dari orang yang menunda utang",
+"Syarat mengambil hak tanpa melalui hakim"
+],
+"tipe_2": [
+"Bolehkah kita mengambil sendiri barang milik orang yang tidak mau bayar utang tanpa lapor polisi?",
+"Apa syaratnya agar kita boleh mengambil harta orang lain sebagai ganti utang yang tidak dibayar?",
+"Bisakah saya mengambil uang teman saya secara diam-diam karena dia sudah lama tidak membayar utangnya?"
+]
+},
+{
+"pos_id": "Page_V01P466",
+"neg_id": "Page_V01P476",
+"tipe_1": [
+"Hak wali mujbir dalam pernikahan",
+"Wewenang ayah menikahkan anak gadis tanpa izin"
+],
+"tipe_2": [
+"Bolehkah seorang ayah menikahkan anak perempuannya yang masih perawan tanpa persetujuannya?",
+"Apakah kakek punya hak untuk memaksa cucu perempuannya menikah dengan orang pilihannya?",
+"Dalam kondisi apa seorang wali boleh menikahkan wanita tanpa meminta izin terlebih dahulu?"
+]
+},
+{
+"pos_id": "Page_V01P100",
+"neg_id": "Page_V01P099",
+"tipe_1": [
+"Hal yang memutus mualat bacaan Al-Fatihah",
+"Hukum menyela bacaan fatihah dengan doa"
+],
+"tipe_2": [
+"Apakah bacaan Fatihah saya harus diulang jika saya berhenti sebentar untuk mengucap amin?",
+"Apa yang terjadi jika di tengah bacaan Fatihah kita berbicara satu kalimat pendek?",
+"Bolehkah makmum memutus bacaan Fatihahnya untuk mengikuti gerakan sujud imam?"
+]
+},
+{
+"pos_id": "Page_V01P141",
+"neg_id": "Page_V01P139",
+"tipe_1": [
+"Kaidah keraguan pada perubahan air",
+"Hukum air yang diragukan kesuciannya"
+],
+"tipe_2": [
+"Bagaimana hukumnya jika kita ragu apakah air sudah berubah atau masih suci seperti aslinya?",
+"Jika saya menemukan air yang warnanya sedikit berbeda tapi tidak tahu sebabnya, apakah air itu tetap suci?",
+"Apa dasar yang digunakan dalam fiqih untuk menentukan status benda yang kita ragukan perubahannya?"
+]
+},
+{
+"pos_id": "Page_V01P516",
+"neg_id": "Page_V01P508",
+"tipe_1": [
+"Hukum memberikan hak talak kepada istri",
+"Syarat sah talak pilihan sendiri bagi wanita"
+],
+"tipe_2": [
+"Bolehkah suami memberikan wewenang kepada istrinya untuk menceraikan dirinya sendiri?",
+"Jika suami bilang \"ceraikanlah dirimu jika mau\", apakah istri harus langsung melakukannya saat itu juga?",
+"Apa syarat yang harus dipenuhi agar ucapan penyerahan hak cerai kepada istri dianggap sah?"
+]
+},
+{
+"pos_id": "Page_V01P591",
+"neg_id": "Page_V01P592",
+"tipe_1": [
+"Batas usia wajib khitan bagi anak",
+"Hukum mencegah kemungkaran hewan"
+],
+"tipe_2": [
+"Kapan batas waktu terakhir seorang anak laki-laki wajib untuk disunat?",
+"Apakah kita wajib menghentikan hewan yang sedang berkelahi atau merusak sesuatu?",
+"Siapa yang berkewajiban membayar biaya sunat bagi seorang anak yatim?"
+]
+},
+{
+"pos_id": "Page_V01P096",
+"neg_id": "Page_V01P221",
+"tipe_1": [
+"Posisi tangan saat berdiri dalam shalat",
+"Hukum bersedekap di bawah dada"
+],
+"tipe_2": [
+"Di mana posisi tangan yang benar saat kita sedang berdiri membaca Al-Fatihah?",
+"Bagaimana cara meletakkan tangan kanan di atas tangan kiri yang sesuai sunnah?",
+"Bolehkah orang yang mampu berdiri melakukan shalat fardhu sambil duduk?"
+]
+},
+{
+"pos_id": "Page_V01P292",
+"neg_id": "Page_V01P301",
+"tipe_1": [
+"Lokasi miqat umrah bagi penduduk Mekkah",
+"Hukum menginap di Muzdalifah dan Mina"
+],
+"tipe_2": [
+"Di mana batas tempat memulai ihram umrah bagi orang yang sudah berada di tanah suci?",
+"Apakah wajib bagi jamaah haji untuk bermalam di Muzdalifah dan Mina?",
+"Ke arah mana penduduk Mekkah harus pergi jika ingin mengambil niat umrah?"
+]
+},
+{
+"pos_id": "Page_V01P086",
+"neg_id": "Page_V01P300",
+"tipe_1": [
+"Batas aurat wanita merdeka dalam shalat",
+"Hukum menutup punggung telapak tangan bagi perempuan"
+],
+"tipe_2": [
+"Bagian tubuh mana saja yang boleh terlihat bagi wanita saat sedang shalat?",
+"Apakah punggung tangan dan telapak kaki termasuk aurat yang harus ditutup saat shalat?",
+"Apa syarat pakaian yang sah untuk menutup aurat bagi seorang perempuan?"
+]
+},
+{
+"pos_id": "Page_V01P251",
+"neg_id": "Page_V01P250",
+"tipe_1": [
+"Syarat penerima zakat kategori gharimin",
+"Hukum memberi zakat untuk mendamaikan sengketa"
+],
+"tipe_2": [
+"Bolehkah orang yang berutang demi mendamaikan dua pihak yang bertikai menerima zakat?",
+"Bagaimana cara menentukan berapa besar zakat yang boleh diberikan kepada orang yang terlilit utang?",
+"Apakah orang yang berutang untuk kepentingan sosial tetap berhak mendapat bantuan dari dana zakat?"
+]
+},
+{
+"pos_id": "Page_V01P331",
+"neg_id": "Page_V01P362",
+"tipe_1": [
+"Syarat pengembalian barang karena cacat",
+"Hukum khiyar aib dalam jual beli"
+],
+"tipe_2": [
+"Apakah pembeli boleh mengembalikan barang jika baru menyadari ada kerusakan setelah sampai rumah?",
+"Bagaimana jika kita tertipu membeli kaca yang dikira permata, apakah transaksi bisa dibatalkan?",
+"Berarti berapa lama batas waktu bagi pembeli untuk komplain terhadap barang yang rusak?"
+]
+},
+{
+"pos_id": "Page_V01P291",
+"neg_id": "Page_V01P180",
+"tipe_1": [
+"Kewajiban haji ihram dari miqat",
+"Hukum mendekat ke Ka'bah saat tawaf"
+],
+"tipe_2": [
+"Apa yang harus dilakukan jika kita lupa memakai ihram dari batas miqat yang ditentukan?",
+"Apakah lebih utama tawaf dekat dengan Ka'bah atau menghindari kerumunan?",
+"Apa saja rukun yang harus dikerjakan agar ibadah haji seseorang menjadi sah?"
+]
+},
+{
+"pos_id": "Page_V01P447",
+"neg_id": "Page_V01P446",
+"tipe_1": [
+"Batas pandangan budak laki-laki kepada majikannya",
+"Hukum melihat lawan jenis karena kebutuhan mendesak"
+],
+"tipe_2": [
+"Bagian tubuh mana yang boleh dilihat oleh seorang budak laki-laki terhadap majikan perempuannya?",
+"Apakah boleh melihat lawan jenis jika memang ada keperluan darurat yang dibenarkan agama?",
+"Bagaimana aturan melihat perempuan yang bukan mahram bagi seorang pelayan laki-laki?"
+]
+},
+{
+"pos_id": "Page_V01P033",
+"neg_id": "Page_V01P119",
+"tipe_1": [
+"Definisi nabi dan rasul dalam islam",
+"Syarat jenis kelamin seorang nabi"
+],
+"tipe_2": [
+"Apa perbedaan antara seorang nabi dengan seorang rasul menurut ulama?",
+"Apakah mungkin ada seorang perempuan atau budak yang diangkat menjadi nabi?",
+"Bagaimana kriteria seseorang sehingga ia bisa disebut sebagai utusan Allah?"
+]
+},
+{
+"pos_id": "Page_V01P326",
+"neg_id": "Page_V01P601",
+"tipe_1": [
+"Hukum menjual barang yang diduga untuk maksiat",
+"Transaksi jual beli yang dilarang karena kecurigaan"
+],
+"tipe_2": [
+"Bolehkah kita menjual anggur kepada orang yang kita duga akan mengolahnya menjadi khamar?",
+"Apa hukumnya menjual senjata kepada orang yang sedang bersengketa dan dikhawatirkan akan membunuh?",
+"Bagaimana pandangan fiqih tentang menjual barang halal yang akan disalahgunakan untuk dosa?"
+]
+},
+{
+"pos_id": "Page_V01P366",
+"neg_id": "Page_V01P367",
+"tipe_1": [
+"Tanggung jawab wakil yang melampaui wewenang",
+"Sengketa pelunasan utang antara wakil dan pengutus"
+],
+"tipe_2": [
+"Siapa yang harus dipercaya jika wakil mengaku sudah bayar utang tapi pemberi piutang membantahnya?",
+"Apakah wakil harus ganti rugi jika ia melakukan transaksi yang tidak diizinkan oleh pemberi kuasa?",
+"Bagaimana jika ada perbedaan pendapat antara orang yang memberi kuasa dan orang yang dikuasakan tentang pengiriman uang?"
+]
+},
+{
+"pos_id": "Page_V01P469",
+"neg_id": "Page_V01P467",
+"tipe_1": [
+"Wewenang hakim dalam wali hakim",
+"Syarat wilayah kekuasaan wali hakim"
+],
+"tipe_2": [
+"Bolehkah seorang hakim menikahkan wanita yang tidak punya wali di luar wilayah tugasnya?",
+"Siapa yang menjadi wali bagi perempuan yang benar-benar tidak memiliki kerabat laki-laki?",
+"Apakah sah pernikahan yang dilakukan wali hakim jika pengantin wanita berada di luar daerah kekuasaan hakim tersebut?"
+]
+}
+]
+[
+{
+"pos_id": "Page_V01P094",
+"neg_id": "Page_V01P109",
+"tipe_1": [
+"Lafadz takbiratul ihram yang sah",
+"Sinkronisasi niat dengan takbir"
+],
+"tipe_2": [
+"Apakah boleh memanjangkan huruf alif pada kata Allah saat memulai shalat?",
+"Apa hukumnya jika kita mengucapkan Allahu Al-Akbar sebagai ganti Allahu Akbar?",
+"Kapan waktu paling lambat kita harus menghadirkan niat saat melakukan takbir pertama?"
+]
+},
+{
+"pos_id": "Page_V01P176",
+"neg_id": "Page_V01P174",
+"tipe_1": [
+"Syarat masbuq mendapat rakaat",
+"Niat takbir makmum masbuq"
+],
+"tipe_2": [
+"Bagaimana cara makmum masbuq agar tetap terhitung mendapatkan satu rakaat saat imam ruku'?",
+"Apakah sah rakaat saya jika saya langsung ruku' mengikuti imam tanpa sempat baca Fatihah?",
+"Bolehkah seorang makmum hanya melakukan satu kali takbir saat mendapati imam sedang ruku'?"
+]
+},
+{
+"pos_id": "Page_V01P246",
+"neg_id": "Page_V01P245",
+"tipe_1": [
+"Waktu niat zakat mal",
+"Niat zakat lewat wakil"
+],
+"tipe_2": [
+"Apakah niat zakat tetap sah jika dilakukan saat kita baru memisahkan uangnya saja di rumah?",
+"Bolehkah saya berniat zakat saat menyerahkan uang kepada orang yang saya suruh untuk membagikannya?",
+"Apakah kita wajib berniat lagi saat uang zakat sudah sampai ke tangan fakir miskin?"
+]
+},
+{
+"pos_id": "Page_V01P339",
+"neg_id": "Page_V01P349",
+"tipe_1": [
+"Sengketa pengembalian barang cacat",
+"Sumpah penjual dalam jual beli"
+],
+"tipe_2": [
+"Siapa yang harus dipercaya jika penjual membantah bahwa barang yang rusak itu berasal dari tokonya?",
+"Bagaimana hukumnya jika pembeli mengembalikan barang tapi penjual bersumpah itu bukan barang yang dijualnya?",
+"Apakah pengakuan pembeli tentang adanya bangkai tikus di dalam barang yang dibeli bisa langsung diterima?"
+]
+},
+{
+"pos_id": "Page_V01P532",
+"neg_id": "Page_V01P671",
+"tipe_1": [
+"Wajib istibra' budak perempuan",
+"Larangan nikah sebelum istibra'"
+],
+"tipe_2": [
+"Apakah orang yang baru membeli budak harus menunggu rahimnya bersih sebelum boleh berhubungan?",
+"Berapa lama masa tunggu bagi budak perempuan yang baru dimerdekakan sebelum ia boleh menikah?",
+"Bolehkah seorang majikan langsung menikahkan budaknya yang baru saja ia beli dari pasar?"
+]
+},
+{
+"pos_id": "Page_V01P585",
+"neg_id": "Page_V01P340",
+"tipe_1": [
+"Hak waris laki-laki",
+"Daftar ahli waris ashabah"
+],
+"tipe_2": [
+"Siapa saja anggota keluarga laki-laki yang berhak mendapatkan harta warisan secara hukum?",
+"Apakah cucu laki-laki dari anak laki-laki termasuk dalam daftar orang yang menerima waris?",
+"Berapa jumlah golongan pria yang diakui sebagai ahli waris dalam ketentuan agama?"
+]
+},
+{
+"pos_id": "Page_V01P373",
+"neg_id": "Page_V01P371",
+"tipe_1": [
+"Syarat nadzar harta",
+"Hukum nadzar barang tak bernilai"
+],
+"tipe_2": [
+"Apakah sah nadzar seseorang untuk memberikan barang yang sebenarnya tidak boleh diperjualbelikan?",
+"Bolehkah kita membatalkan janji kepada orang yang sudah melaksanakan syarat dalam sebuah janji hadiah?",
+"Bagaimana jika seseorang bernadzar memberikan sesuatu tapi dia tidak tahu berapa jumlah pastinya?"
+]
+},
+{
+"pos_id": "Page_V01P268",
+"neg_id": "Page_V01P267",
+"tipe_1": [
+"Batal puasa kemasukan benda",
+"Hukum menelan lalat saat puasa"
+],
+"tipe_2": [
+"Apakah puasa kita batal jika ada lalat yang masuk ke tenggorokan dan sulit dikeluarkan?",
+"Bagaimana hukumnya jika ada air atau benda lain masuk ke dalam telinga saat sedang berpuasa?",
+"Apakah menelan sisa makanan yang ada di antara gigi membatalkan puasa jika kita sanggup membuangnya?"
+]
+},
+{
+"pos_id": "Page_V01P163",
+"neg_id": "Page_V01P162",
+"tipe_1": [
+"Jumlah rakaat shalat dhuha",
+"Dalil shalat isyraq"
+],
+"tipe_2": [
+"Berapa jumlah rakaat minimal dan maksimal yang dianjurkan dalam shalat dhuha?",
+"Apakah shalat isyraq yang dilakukan setelah matahari terbit itu sama dengan shalat dhuha?",
+"Apa dasar hukum pelaksanaan shalat dhuha berdasarkan penjelasan dari para sahabat?"
+]
+},
+{
+"pos_id": "Page_V01P670",
+"neg_id": "Page_V01P669",
+"tipe_1": [
+"Syarat akad kitabah budak",
+"Cicilan tebusan kemerdekaan"
+],
+"tipe_2": [
+"Apa saja syarat yang harus dipenuhi agar perjanjian pembebasan budak dianggap sah secara hukum?",
+"Bolehkah seorang budak mencicil uang tebusan dirinya sebanyak dua kali atau lebih kepada majikan?",
+"Apa kewajiban seorang majikan terkait potongan harga bagi budak yang ingin menebus dirinya?"
+]
+},
+{
+"pos_id": "Page_V01P186",
+"neg_id": "Page_V01P185",
+"tipe_1": [
+"Syarat jenis kelamin imam",
+"Sahnya makmum laki-laki"
+],
+"tipe_2": [
+"Apakah sah shalat seorang laki-laki jika imam yang memimpin adalah seorang wanita?",
+"Bagaimana hukumnya jika seorang pria bermakmum kepada orang yang tidak jelas laki-laki atau perempuannya?",
+"Bolehkah perempuan mengimami jamaah yang di dalamnya terdapat orang dewasa laki-laki?"
+]
+},
+{
+"pos_id": "Page_V01P213",
+"neg_id": "Page_V01P211",
+"tipe_1": [
+"Jumlah jamaah jumat minimal",
+"Syarat penduduk shalat jumat"
+],
+"tipe_2": [
+"Berapa jumlah orang paling sedikit agar pelaksanaan shalat jumat dianggap sah?",
+"Apakah shalat jumat tetap sah jika jamaahnya kurang dari 40 orang yang menetap di sana?",
+"Siapa saja kriteria orang yang dihitung untuk mencukupi syarat jumlah minimal jamaah jumat?"
+]
+},
+{
+"pos_id": "Page_V01P274",
+"neg_id": "Page_V01P273",
+"tipe_1": [
+"Pembatal iktikaf di masjid",
+"Syarat tempat iktikaf"
+],
+"tipe_2": [
+"Apakah iktikaf seseorang langsung batal jika dia keluar dari masjid tanpa alasan yang mendesak?",
+"Di mana sajakah tempat yang diperbolehkan bagi seseorang untuk melakukan ibadah iktikaf?",
+"Bolehkah orang yang sedang iktikaf keluar masjid sebentar untuk sekadar makan atau mandi?"
+]
+},
+{
+"pos_id": "Page_V01P525",
+"neg_id": "Page_V01P521",
+"tipe_1": [
+"Prosedur sumpah lian",
+"Lafadz lian suami istri"
+],
+"tipe_2": [
+"Bagaimana tata cara seorang suami melakukan sumpah lian jika ia menuduh istrinya berzina?",
+"Berapa kali kalimat sumpah harus diucapkan suami dan istri dalam prosesi lian di depan hakim?",
+"Apa dampak hukum bagi hubungan suami istri setelah keduanya selesai melakukan sumpah lian?"
+]
+},
+{
+"pos_id": "Page_V01P330",
+"neg_id": "Page_V01P329",
+"tipe_1": [
+"Larangan jual beli najis",
+"Hukum menjual anjing dan babi"
+],
+"tipe_2": [
+"Mengapa kita dilarang melakukan transaksi jual beli anjing atau babi dalam agama?",
+"Apakah sah jika seseorang menjual khamar atau minuman keras meskipun kepada non-muslim?",
+"Bagaimana hukum menjual kotoran hewan untuk kebutuhan pupuk tanaman menurut aturan fiqih?"
+]
+},
+{
+"pos_id": "Page_V01P053",
+"neg_id": "Page_V01P051",
+"tipe_1": [
+"Durasi mengusap khuf musafir",
+"Syarat sepatu untuk wudhu"
+],
+"tipe_2": [
+"Berapa lama waktu maksimal bagi seorang musafir untuk boleh mengusap sepatu saat berwudhu?",
+"Apakah boleh kita mengusap sepatu jika bagian mata kaki tidak tertutup oleh sepatu tersebut?",
+"Kapan waktu mulai dihitungnya masa berlaku mengusap sepatu bagi orang yang sedang mukim?"
+]
+},
+{
+"pos_id": "Page_V01P402",
+"neg_id": "Page_V01P403",
+"tipe_1": [
+"Syarat sah wakaf harta",
+"Hukum wakaf barang bergerak"
+],
+"tipe_2": [
+"Apakah sah mewakafkan barang yang manfaatnya akan habis dalam waktu singkat?",
+"Bolehkah seseorang mewakafkan bangunan di atas tanah yang statusnya bukan miliknya sendiri?",
+"Apa syarat utama agar pemberian barang untuk kepentingan umum dianggap sebagai wakaf yang sah?"
+]
+},
+{
+"pos_id": "Page_V01P130",
+"neg_id": "Page_V01P131",
+"tipe_1": [
+"Penyebab sujud sahwi",
+"Waktu pelaksanaan sujud sahwi"
+],
+"tipe_2": [
+"Kapan waktu yang tepat bagi seseorang untuk melakukan sujud sahwi dalam shalat?",
+"Apa yang harus dilakukan jika kita lupa melakukan tahiyat awal dalam shalat fardhu?",
+"Apakah shalat tetap sah jika kita ragu jumlah rakaat tapi tidak melakukan sujud sahwi?"
+]
+},
+{
+"pos_id": "Page_V01P228",
+"neg_id": "Page_V01P227",
+"tipe_1": [
+"Syarat shalat jenazah",
+"Posisi imam shalat mayit"
+],
+"tipe_2": [
+"Berapa jumlah takbir yang harus dilakukan dalam pelaksanaan shalat jenazah?",
+"Di mana posisi imam yang paling benar saat menyalatkan jenazah laki-laki?",
+"Apakah sah shalat jenazah jika dilakukan oleh orang yang tidak memiliki hubungan keluarga?"
+]
+},
+{
+"pos_id": "Page_V01P351",
+"neg_id": "Page_V01P350",
+"tipe_1": [
+"Rukun akad hawalah",
+"Syarat pindah utang piutang"
+],
+"tipe_2": [
+"Bagaimana hukumnya memindahkan utang saya kepada orang lain yang juga berutang kepada saya?",
+"Apakah orang yang memindahkan utangnya harus mendapat persetujuan dari orang yang diutangi?",
+"Apa syarat utama agar transaksi pengalihan beban utang dianggap sah dalam agama?"
+]
+},
+{
+"pos_id": "Page_V01P483",
+"neg_id": "Page_V01P484",
+"tipe_1": [
+"Hukum nikah budak perempuan",
+"Syarat pria merdeka nikahi budak"
+],
+"tipe_2": [
+"Kapan seorang pria merdeka diperbolehkan secara hukum untuk menikahi seorang budak perempuan?",
+"Apakah sah pernikahan dengan budak jika pria tersebut sebenarnya masih sanggup menikahi wanita merdeka?",
+"Apa saja kriteria yang membolehkan seseorang untuk mengambil budak sebagai istrinya?"
+]
+},
+{
+"pos_id": "Page_V01P065",
+"neg_id": "Page_V01P067",
+"tipe_1": [
+"Batal wudhu karena tidur",
+"Syarat tidur tidak batal wudhu"
+],
+"tipe_2": [
+"Apakah wudhu saya batal jika saya tidur sebentar sambil duduk tegak di lantai masjid?",
+"Bagaimana hukum wudhu orang yang tertidur saat mendengarkan khutbah jumat dalam posisi duduk?",
+"Mengapa tidur dalam posisi berbaring dianggap membatalkan wudhu sedangkan duduk tidak?"
+]
+},
+{
+"pos_id": "Page_V01P541",
+"neg_id": "Page_V01P543",
+"tipe_1": [
+"Kadar nafkah istri harian",
+"Nafkah suami kategori miskin"
+],
+"tipe_2": [
+"Berapa jumlah beras minimal yang wajib diberikan suami kepada istrinya setiap hari?",
+"Bagaimana aturan pemberian nafkah jika suami sedang dalam kondisi ekonomi yang sangat sulit?",
+"Apakah suami wajib memberikan uang lauk pauk tambahan selain dari makanan pokok?"
+]
+},
+{
+"pos_id": "Page_V01P595",
+"neg_id": "Page_V01P596",
+"tipe_1": [
+"Hukum jihad fardhu ain",
+"Syarat wajib berangkat perang"
+],
+"tipe_2": [
+"Kapan kewajiban membela negara atau jihad menjadi wajib bagi setiap individu muslim?",
+"Apakah anak kecil atau wanita tetap wajib ikut berperang jika musuh sudah masuk ke dalam kota?",
+"Apa kriteria kondisi yang mengharuskan seluruh penduduk kota keluar untuk bertempur?"
+]
+},
+{
+"pos_id": "Page_V01P495",
+"neg_id": "Page_V01P497",
+"tipe_1": [
+"Syarat penentuan mahar",
+"Hukum mas kawin tidak disebut"
+],
+"tipe_2": [
+"Apakah sah sebuah pernikahan jika jumlah maharnya tidak disebutkan sama sekali saat akad?",
+"Bolehkah mas kawin berupa barang yang manfaatnya belum ada saat pernikahan berlangsung?",
+"Bagaimana aturan hukum jika terjadi perselisihan jumlah mahar antara suami dan wali istri?"
+]
+},
+{
+"pos_id": "Page_V01P255",
+"neg_id": "Page_V01P256",
+"tipe_1": [
+"Zakat hasil pertanian",
+"Nisab biji-bijian dan buah"
+],
+"tipe_2": [
+"Berapa batas minimal hasil panen padi agar pemiliknya wajib mengeluarkan zakat?",
+"Apakah ada zakat untuk hasil kebun yang bukan merupakan makanan pokok masyarakat?",
+"Berapa persen zakat yang harus dikeluarkan jika sawah diairi dengan pompa air berbayar?"
+]
+},
+{
+"pos_id": "Page_V01P310",
+"neg_id": "Page_V01P312",
+"tipe_1": [
+"Macam-macam dam haji",
+"Hukum melanggar larangan ihram"
+],
+"tipe_2": [
+"Apa yang harus dilakukan jamaah haji jika tidak sengaja memakai pakaian berjahit saat ihram?",
+"Berapa jumlah denda yang harus dibayar jika seseorang membunuh hewan buruan di tanah suci?",
+"Bolehkah mengganti denda menyembelih kambing dengan melakukan puasa beberapa hari?"
+]
+},
+{
+"pos_id": "Page_V01P115",
+"neg_id": "Page_V01P116",
+"tipe_1": [
+"Anggota sujud yang wajib",
+"Syarat sah sujud shalat"
+],
+"tipe_2": [
+"Bagian tubuh mana saja yang harus menempel di lantai saat kita melakukan sujud?",
+"Apakah sujud tetap sah jika dahi tertutup oleh rambut atau ujung sorban?",
+"Bolehkah kita hanya menempelkan dahi saja tanpa menempelkan lutut saat sujud?"
+]
+},
+{
+"pos_id": "Page_V01P392",
+"neg_id": "Page_V01P391",
+"tipe_1": [
+"Prosedur pengumuman barang temuan",
+"Hak milik atas luqatah"
+],
+"tipe_2": [
+"Berapa lama kita harus mengumumkan barang hilang yang kita temukan sebelum boleh memilikinya?",
+"Apakah kita wajib mengganti barang temuan jika barang tersebut rusak saat kita simpan?",
+"Bolehkah saya langsung memakai uang yang saya temukan di jalan jika jumlahnya sangat sedikit?"
+]
+},
+{
+"pos_id": "Page_V01P047",
+"neg_id": "Page_V01P048",
+"tipe_1": [
+"Cara mensucikan najis mughallazah",
+"Hukum air liur anjing"
+],
+"tipe_2": [
+"Bagaimana cara yang benar untuk membersihkan pakaian yang terkena jilatan anjing?",
+"Apakah benar kita harus mencuci tujuh kali dengan salah satunya menggunakan tanah?",
+"Bagaimana hukumnya jika tanah untuk membersihkan najis anjing tercampur dengan air?"
+]
+},
+{
+"pos_id": "Page_V01P565",
+"neg_id": "Page_V01P563",
+"tipe_1": [
+"Syarat pelaksanaan qishas",
+"Hukum pembunuhan berencana"
+],
+"tipe_2": [
+"Dalam kondisi apa seorang pembunuh tidak dikenai hukuman mati atau qishas?",
+"Apakah orang tua tetap dijatuhi hukuman mati jika dia membunuh anak kandungnya sendiri?",
+"Apa syarat agar hukuman balas pati bisa dilakukan terhadap pelaku kejahatan nyawa?"
+]
+},
+{
+"pos_id": "Page_V01P342",
+"neg_id": "Page_V01P341",
+"tipe_1": [
+"Larangan riba dalam piutang",
+"Hukum pinjaman dengan syarat manfaat"
+],
+"tipe_2": [
+"Bolehkah saya meminjamkan uang dengan syarat si peminjam harus memberi hadiah setiap bulan?",
+"Apakah termasuk riba jika saya meminjamkan motor tapi minta uang bensin sebagai biaya sewa?",
+"Mengapa agama melarang adanya keuntungan tambahan yang disyaratkan dalam akad pinjam meminjam?"
+]
+},
+{
+"pos_id": "Page_V01P145",
+"neg_id": "Page_V01P146",
+"tipe_1": [
+"Tata cara shalat orang sakit",
+"Shalat dengan isyarat mata"
+],
+"tipe_2": [
+"Bagaimana cara shalat yang benar bagi orang yang tidak bisa duduk maupun berbaring?",
+"Bolehkah seseorang shalat hanya dengan menggerakkan kelopak mata jika seluruh tubuhnya lumpuh?",
+"Bagaimana posisi kaki orang yang melakukan shalat sambil tidur menyamping menghadap kiblat?"
+]
+},
+{
+"pos_id": "Page_V01P502",
+"neg_id": "Page_V01P501",
+"tipe_1": [
+"Hukum menghadiri walimah",
+"Syarat wajib datang undangan nikah"
+],
+"tipe_2": [
+"Apakah kita wajib datang ke pesta pernikahan jika yang mengundang adalah orang yang tidak kita kenal?",
+"Bolehkah kita tidak menghadiri undangan nikah jika di tempat tersebut terdapat hal-hal maksiat?",
+"Apa hukumnya jika kita menolak undangan makan-makan setelah acara akad nikah selesai?"
+]
+},
+{
+"pos_id": "Page_V01P655",
+"neg_id": "Page_V01P654",
+"tipe_1": [
+"Syarat adil bagi saksi",
+"Penyebab gugurnya kesaksian"
+],
+"tipe_2": [
+"Kriteria apa saja yang membuat seseorang dianggap layak menjadi saksi di depan pengadilan?",
+"Apakah kesaksian seseorang tetap diterima jika ia pernah melakukan dosa besar di masa lalu?",
+"Mengapa orang yang suka melakukan dosa-dosa kecil secara terang-terangan tidak boleh menjadi saksi?"
+]
+},
+{
+"pos_id": "Page_V01P195",
+"neg_id": "Page_V01P196",
+"tipe_1": [
+"Jarak minimal shalat qashar",
+"Syarat perjalanan boleh jamak"
+],
+"tipe_2": [
+"Berapa kilometer jarak minimal perjalanan agar kita diperbolehkan meringkas shalat?",
+"Apakah boleh kita menjamak shalat jika tujuan perjalanan kita adalah untuk hal yang maksiat?",
+"Kapan kita mulai diperbolehkan meringkas shalat saat baru akan berangkat bepergian?"
+]
+},
+{
+"pos_id": "Page_V01P285",
+"neg_id": "Page_V01P286",
+"tipe_1": [
+"Larangan pakaian ihram pria",
+"Hukum menutup kepala saat haji"
+],
+"tipe_2": [
+"Apakah jamaah haji laki-laki boleh memakai celana dalam saat sedang dalam keadaan ihram?",
+"Bolehkah seorang pria memakai topi atau sorban untuk melindungi kepala dari panas saat haji?",
+"Apa konsekuensinya jika seorang pria memakai baju berjahit saat sedang menjalankan ibadah umrah?"
+]
+},
+{
+"pos_id": "Page_V01P355",
+"neg_id": "Page_V01P356",
+"tipe_1": [
+"Syarat sah penjaminan utang",
+"Rukun akad kafalah badan"
+],
+"tipe_2": [
+"Apakah sah jika seseorang menjamin orang lain untuk hadir di pengadilan dalam kasus pidana?",
+"Apa syarat yang harus dipenuhi agar tanggung jawab utang seseorang bisa diambil alih oleh penjamin?",
+"Bolehkah seorang anak kecil menjadi penjamin bagi utang yang dimiliki oleh orang tuanya?"
+]
+},
+{
+"pos_id": "Page_V01P075",
+"neg_id": "Page_V01P076",
+"tipe_1": [
+"Rukun mandi wajib",
+"Niat mandi besar"
+],
+"tipe_2": [
+"Bagian mana saja yang harus terkena air agar mandi wajib kita dianggap sah?",
+"Apakah mandi wajib tetap sah jika kita tidak menggunakan sabun atau sampo sama sekali?",
+"Bagaimana hukum mandi besar jika ada sisa cat atau lem yang menghalangi air ke kulit?"
+]
+},
+{
+"pos_id": "Page_V01P475",
+"neg_id": "Page_V01P474",
+"tipe_1": [
+"Syarat saksi nikah",
+"Hukum menikah tanpa saksi"
+],
+"tipe_2": [
+"Berapa jumlah saksi minimal yang harus hadir agar sebuah pernikahan dianggap sah?",
+"Apakah boleh seorang wanita menjadi saksi dalam akad nikah menurut madzhab Syafii?",
+"Apa syarat kelayakan bagi orang yang ditunjuk menjadi saksi dalam prosesi ijab kabul?"
+]
+}
+]
+[
+{
+"pos_id": "Page_V01P087",
+"neg_id": "Page_V01P089",
+"tipe_1": [
+"Batas waktu shalat lima waktu",
+"Penentuan waktu dhuhur dan ashar"
+],
+"tipe_2": [
+"Kapan waktu shalat dhuhur berakhir dan kapan waktu ashar dimulai?",
+"Bagaimana cara menentukan waktu shalat maghrib berdasarkan warna awan di langit?",
+"Sampai kapan batas waktu kita boleh mengerjakan shalat isya menurut hitungan syariat?"
+]
+},
+{
+"pos_id": "Page_V01P461",
+"neg_id": "Page_V01P464",
+"tipe_1": [
+"Larangan poligami dengan saudara istri",
+"Syarat keabsahan saksi nikah"
+],
+"tipe_2": [
+"Bolehkah seorang laki-laki menikahi adik iparnya sementara dia masih terikat pernikahan dengan kakaknya?",
+"Apakah sah pernikahan jika suami menikahi bibi dari istrinya yang sekarang?",
+"Apa syarat yang harus dipenuhi oleh seorang suami terkait hubungan kekerabatan calon istrinya?"
+]
+},
+{
+"pos_id": "Page_V01P194",
+"neg_id": "Page_V01P036",
+"tipe_1": [
+"Syarat wajib shalat jumat",
+"Kriteria penduduk wajib jumat"
+],
+"tipe_2": [
+"Siapa saja orang yang diwajibkan untuk melaksanakan ibadah shalat jumat setiap pekannya?",
+"Apakah shalat jumat tetap wajib bagi laki-laki yang berstatus sebagai penduduk tetap di suatu daerah?",
+"Bagaimana hukum shalat jumat bagi laki-laki merdeka yang tidak memiliki uzur syar'i?"
+]
+},
+{
+"pos_id": "Page_V01P294",
+"neg_id": "Page_V01P288",
+"tipe_1": [
+"Hukum tawaf wada bagi wanita haid",
+"Waktu lempar jumrah aqabah"
+],
+"tipe_2": [
+"Apakah wanita yang sedang haid tetap diwajibkan melakukan tawaf perpisahan sebelum meninggalkan Mekkah?",
+"Kapan waktu paling awal jamaah haji boleh mulai melemparkan batu ke jembatan jumrah aqabah?",
+"Bolehkah penduduk Mekkah yang tidak berniat pergi meninggalkan kotanya melewatkan tawaf wada?"
+]
+},
+{
+"pos_id": "Page_V01P223",
+"neg_id": "Page_V01P178",
+"tipe_1": [
+"Doa shalat jenazah anak zina",
+"Rukun terakhir shalat mayit"
+],
+"tipe_2": [
+"Bagaimana bunyi doa khusus yang dibaca saat menyalatkan jenazah anak yang lahir di luar nikah?",
+"Apakah kita harus mengubah dhomir atau kata ganti dalam doa shalat jenazah jika mayitnya adalah perempuan?",
+"Apa yang harus diucapkan pada takbir keempat sebelum mengakhiri shalat jenazah dengan salam?"
+]
+},
+{
+"pos_id": "Page_V01P055",
+"neg_id": "Page_V01P050",
+"tipe_1": [
+"Kesunahan membasuh lengan saat wudhu",
+"Batas membasuh kaki untuk tahjil"
+],
+"tipe_2": [
+"Sampai mana batas basuhan tangan yang dianjurkan agar mendapatkan keutamaan cahaya di hari kiamat?",
+"Bolehkah kita membasuh kaki hingga ke bagian betis saat sedang berwudhu?",
+"Apa yang dimaksud dengan memanjangkan basuhan pada anggota wudhu selain wajah?"
+]
+},
+{
+"pos_id": "Page_V01P670",
+"neg_id": "Page_V01P477",
+"tipe_1": [
+"Hak pembatalan akad kitabah",
+"Larangan nikah budak tanpa izin"
+],
+"tipe_2": [
+"Kapan seorang majikan diperbolehkan membatalkan perjanjian kemerdekaan dengan budaknya?",
+"Bolehkah seorang budak yang sedang mencicil kemerdekaannya membeli budak lain untuk diperdagangkan?",
+"Apakah seorang majikan boleh melakukan hubungan suami istri dengan budak perempuannya yang sedang proses menebus diri?"
+]
+},
+{
+"pos_id": "Page_V01P205",
+"neg_id": "Page_V01P216",
+"tipe_1": [
+"Hukum laki-laki memakai pakaian sutra",
+"Kadar campuran sutra pada pakaian"
+],
+"tipe_2": [
+"Bolehkah seorang laki-laki memakai baju yang ada campuran kain sutranya?",
+"Bagaimana aturan hukumnya jika berat benang sutra pada sebuah pakaian lebih sedikit dibanding bahan lainnya?",
+"Apakah pakaian yang dicat dengan warna merah tetap boleh dipakai oleh laki-laki menurut syariat?"
+]
+},
+{
+"pos_id": "Page_V01P648",
+"neg_id": "Page_V01P352",
+"tipe_1": [
+"Definisi keadilan saksi",
+"Hukum saksi pelaku dosa kecil"
+],
+"tipe_2": [
+"Apakah orang yang sering melakukan dosa kecil tapi tidak terus-menerus tetap dianggap adil sebagai saksi?",
+"Apa syarat utama agar seseorang dianggap memiliki sifat adil yang sah dalam persidangan?",
+"Bagaimana status kesaksian orang yang pernah melakukan satu kali dosa besar namun sudah bertaubat?"
+]
+},
+{
+"pos_id": "Page_V01P113",
+"neg_id": "Page_V01P120",
+"tipe_1": [
+"Lafadz doa qunut shubuh",
+"Makna permohonan perlindungan dalam qunut"
+],
+"tipe_2": [
+"Apa doa yang dianjurkan untuk dibaca saat berdiri setelah ruku' pada rakaat kedua shalat subuh?",
+"Bagaimana bunyi kalimat permohonan agar dijauhkan dari keburukan takdir dalam doa qunut?",
+"Apakah kita perlu menambahkan doa keberkahan atas segala pemberian Allah saat melakukan qunut?"
+]
+},
+{
+"pos_id": "Page_V01P500",
+"neg_id": "Page_V01P501",
+"tipe_1": [
+"Prosedur khulu dengan عوض",
+"Syarat kesegeraan qabul dalam khulu"
+],
+"tipe_2": [
+"Apa yang harus dilakukan istri jika ingin menggugat cerai dengan memberikan ganti rugi kepada suami?",
+"Berapa lama batas waktu bagi istri untuk menyetujui tawaran cerai berbayar dari suaminya?",
+"Apakah sah permintaan cerai istri jika nilai ganti rugi yang dijanjikan belum ditentukan jumlahnya?"
+]
+},
+{
+"pos_id": "Page_V01P547",
+"neg_id": "Page_V01P553",
+"tipe_1": [
+"Hak suami melarang istri keluar rumah",
+"Hukum istri menjenguk orang tua sakit"
+],
+"tipe_2": [
+"Bolehkah suami melarang istrinya keluar rumah untuk melayat jenazah orang tuanya sendiri?",
+"Apakah istri berdosa jika tetap keluar rumah meskipun dilarang oleh suaminya demi urusan keluarga?",
+"Berapa jumlah pelayan atau tamu yang boleh diizinkan suami masuk ke dalam rumahnya?"
+]
+},
+{
+"pos_id": "Page_V01P101",
+"neg_id": "Page_V01P105",
+"tipe_1": [
+"Hukum diam lama saat baca fatihah",
+"Pengaruh ragu huruf fatihah"
+],
+"tipe_2": [
+"Apakah shalat saya batal jika saya terdiam sangat lama di tengah-tengah membaca surat Al-Fatihah?",
+"Bagaimana jika setelah selesai membaca Fatihah saya ragu apakah ada satu huruf yang terlewat?",
+"Bolehkah makmum membetulkan bacaan imam yang salah saat sedang shalat berjamaah?"
+]
+},
+{
+"pos_id": "Page_V01P417",
+"neg_id": "Page_V01P423",
+"tipe_1": [
+"Upah nazhir wakaf",
+"Syarat keadilan pengelola wakaf"
+],
+"tipe_2": [
+"Bolehkah pengelola harta wakaf mengambil gaji lebih besar dari standar gaji pada umumnya?",
+"Apa syarat yang harus dipenuhi oleh seseorang agar boleh ditunjuk sebagai pengawas harta wakaf?",
+"Bagaimana aturan pengambilan upah bagi pengelola wakaf jika pemberi wakaf tidak menetapkan jumlahnya?"
+]
+},
+{
+"pos_id": "Page_V01P672",
+"neg_id": "Page_V01P227",
+"tipe_1": [
+"Sengketa harta budak mukatab",
+"Hak milik budak yang menebus diri"
+],
+"tipe_2": [
+"Siapa yang harus dipercaya jika ahli waris majikan mengaku punya uang di tangan budak yang sedang merdeka?",
+"Bagaimana hukumnya jika budak yang sedang mencicil kemerdekaan mengaku hartanya hilang sebelum majikannya wafat?",
+"Bolehkah seorang budak yang sedang dalam proses merdeka menjual dirinya sendiri untuk melunasi cicilan?"
+]
+},
+{
+"pos_id": "Page_V01P140",
+"neg_id": "Page_V01P160",
+"tipe_1": [
+"Pengaruh ragu niat setelah salam",
+"Hukum teringat tertinggal rukun shalat"
+],
+"tipe_2": [
+"Apa yang harus saya lakukan jika setelah salam saya yakin ada satu rukun shalat yang terlewat?",
+"Apakah shalat tetap sah jika setelah selesai saya baru ragu apakah tadi sudah berniat atau belum?",
+"Berapa lama batas waktu kita boleh langsung menyambung shalat jika sadar ada rukun yang ketinggalan?"
+]
+},
+{
+"pos_id": "Page_V01P529",
+"neg_id": "Page_V01P519",
+"tipe_1": [
+"Masa iddah dengan hitungan suci",
+"Pengakuan wanita tentang selesainya masa tunggu"
+],
+"tipe_2": [
+"Apakah ucapan seorang wanita tentang selesainya masa iddah bisa dipercaya meskipun waktunya terasa sangat singkat?",
+"Berapa lama waktu minimal yang dibutuhkan seorang wanita untuk menyelesaikan masa iddah dengan hitungan haid?",
+"Bolehkah wanita yang sudah menikah lagi mengklaim bahwa iddah dari suami sebelumnya belum selesai?"
+]
+},
+{
+"pos_id": "Page_V01P091",
+"neg_id": "Page_V01P148",
+"tipe_1": [
+"Larangan banyak gerakan dalam shalat",
+"Hukum menginjak najis kering saat shalat"
+],
+"tipe_2": [
+"Berapa kali gerakan kaki yang diperbolehkan dalam shalat sebelum dianggap membatalkan shalat tersebut?",
+"Apakah shalat saya batal jika tidak sengaja menginjak kotoran kering di jalan saat sedang shalat?",
+"Bolehkah kita berjalan sedikit ke arah kiblat demi menghindari tempat yang kotor saat sedang shalat?"
+]
+},
+{
+"pos_id": "Page_V01P390",
+"neg_id": "Page_V01P386",
+"tipe_1": [
+"Ganti rugi barang pinjaman jenis mitsli",
+"Lokasi penyerahan barang pengganti"
+],
+"tipe_2": [
+"Bagaimana cara mengganti barang pinjaman yang hilang jika barang tersebut memiliki banyak padanan di pasar?",
+"Apakah saya wajib mengganti barang yang hilang di lokasi tempat saya meminjamnya atau boleh di tempat lain?",
+"Bagaimana aturan menghitung nilai ganti rugi jika barang yang dipinjam tidak ada lagi di pasaran?"
+]
+},
+{
+"pos_id": "Page_V01P212",
+"neg_id": "Page_V01P213",
+"tipe_1": [
+"Larangan safar hari jumat",
+"Safar setelah waktu fajar jumat"
+],
+"tipe_2": [
+"Bolehkah kita berangkat bepergian jauh setelah masuk waktu subuh di hari jumat?",
+"Apa hukumnya melakukan perjalanan yang membuat kita akan melewatkan shalat jumat di jalan?",
+"Apakah tetap dilarang bepergian di hari jumat meskipun tujuannya adalah untuk ibadah umrah atau haji?"
+]
+},
+{
+"pos_id": "Page_V01P463",
+"neg_id": "Page_V01P470",
+"tipe_1": [
+"Pembatalan nikah karena cacat akad",
+"Pengaruh pengakuan suami istri atas beralasannya nikah"
+],
+"tipe_2": [
+"Apa yang terjadi pada status pernikahan jika suami istri sama-sama mengaku ada syarat sah yang tidak terpenuhi?",
+"Apakah kesaksian satu orang saksi adil cukup untuk membatalkan sebuah ikatan pernikahan?",
+"Bagaimana hukum pernikahan seseorang yang baru bertaubat dari kefasikan menurut aturan perwalian?"
+]
+},
+{
+"pos_id": "Page_V01P303",
+"neg_id": "Page_V01P315",
+"tipe_1": [
+"Syarat umur hewan kurban",
+"Waktu penyembelihan kurban"
+],
+"tipe_2": [
+"Berapa usia minimal kambing atau domba agar boleh dijadikan sebagai hewan kurban?",
+"Kapan waktu paling awal dan paling akhir kita diperbolehkan untuk menyembelih hewan kurban?",
+"Apakah sah kurban seseorang jika ia belum berniat saat menyerahkan hewannya kepada panitia?"
+]
+},
+{
+"pos_id": "Page_V01P442",
+"neg_id": "Page_V01P407",
+"tipe_1": [
+"Sumpah penerima titipan dalam sengketa",
+"Hukum pengakuan pengembalian titipan"
+],
+"tipe_2": [
+"Siapa yang harus dipercaya jika orang yang dititipi barang mengaku sudah mengembalikannya tapi pemiliknya membantah?",
+"Apa yang harus dilakukan jika barang yang kita titipkan hilang karena dicuri tanpa ada unsur kelalaian?",
+"Apakah penerima titipan tetap harus bertanggung jawab jika barang rusak karena kejadian yang tidak terduga?"
+]
+},
+{
+"pos_id": "Page_V01P468",
+"neg_id": "Page_V01P438",
+"tipe_1": [
+"Urutan wali nikah ashabah",
+"Izin nikah wanita janda"
+],
+"tipe_2": [
+"Siapa yang berhak menjadi wali nikah jika ayah dan kakek dari pengantin wanita sudah meninggal dunia?",
+"Bolehkah saudara laki-laki seayah menjadi wali nikah bagi adik perempuannya?",
+"Apakah diamnya seorang gadis perawan saat diminta izin menikah sudah dianggap sebagai persetujuan?"
+]
+},
+{
+"pos_id": "Page_V01P399",
+"neg_id": "Page_V01P410",
+"tipe_1": [
+"Hak kepemilikan hadiah khitanan",
+"Kewajiban ayah terhadap hadiah anak"
+],
+"tipe_2": [
+"Siapakah yang sebenarnya berhak memiliki uang atau hadiah yang diberikan tamu saat acara sunatan anak?",
+"Bolehkah seorang ayah menggunakan uang pemberian orang lain untuk anaknya demi keperluan sehari-hari?",
+"Bagaimana aturan pembagian hadiah jika pemberi tidak menyebutkan secara spesifik hadiah itu untuk siapa?"
+]
+},
+{
+"pos_id": "Page_V01P258",
+"neg_id": "Page_V01P621",
+"tipe_1": [
+"Prioritas penerima sedekah sunnah",
+"Hukum sedekah saat butuh nafkah"
+],
+"tipe_2": [
+"Manakah yang lebih utama, memberikan sedekah kepada tetangga atau kepada keluarga yang jauh?",
+"Bolehkah kita bersedekah dalam jumlah banyak padahal kita sendiri masih sangat membutuhkan uang itu?",
+"Apa hukumnya menyedekahkan harta yang seharusnya digunakan untuk membiayai kebutuhan pokok anak istri?"
+]
+},
+{
+"pos_id": "Page_V01P471",
+"neg_id": "Page_V01P472",
+"tipe_1": [
+"Sebab perpindahan wali ke hakim",
+"Hukum wali yang menolak menikahkan"
+],
+"tipe_2": [
+"Bagaimana prosedur menikah jika wali nasab secara sengaja menolak menikahkan wanita dengan pria yang sekufu?",
+"Bolehkah wali hakim menikahkan seorang wanita jika keberadaan wali aslinya tidak diketahui rimbanya?",
+"Apa yang harus dilakukan wanita jika walinya sedang ditawan musuh atau berada di kapal yang pecah?"
+]
+},
+{
+"pos_id": "Page_V01P060",
+"neg_id": "Page_V01P065",
+"tipe_1": [
+"Penyebab batal wudhu buang angin",
+"Batal wudhu karena hilang akal"
+],
+"tipe_2": [
+"Apakah wudhu saya otomatis batal jika keluar sesuatu dari salah satu lubang kemaluan, meskipun hanya sedikit?",
+"Bagaimana hukum wudhu seseorang yang pingsan atau tertidur sangat lelap hingga tidak sadar diri?",
+"Apakah penyakit ambeien yang keluar dari dubur termasuk hal yang membatalkan wudhu seseorang?"
+]
+},
+{
+"pos_id": "Page_V01P518",
+"neg_id": "Page_V01P530",
+"tipe_1": [
+"Hukum nikah kembali setelah talak tiga",
+"Syarat muhallil nikah"
+],
+"tipe_2": [
+"Apa syaratnya agar seorang suami boleh menikahi kembali mantan istrinya yang sudah ia cerai tiga kali?",
+"Apakah sah kembalinya suami pertama jika istri hanya menikah formalitas tanpa melakukan hubungan dengan suami kedua?",
+"Bagaimana aturan hukum jika seorang wanita mengaku sudah berhubungan dengan suami barunya agar bisa balik ke mantan suaminya?"
+]
+},
+{
+"pos_id": "Page_V01P244",
+"neg_id": "Page_V01P247",
+"tipe_1": [
+"Zakat piutang yang macet",
+"Kewajiban zakat mahar naskah"
+],
+"tipe_2": [
+"Apakah kita tetap wajib membayar zakat atas uang yang sedang dipinjam orang lain dan sulit ditagih?",
+"Kapan waktu wajib membayar zakat bagi seorang istri yang mendapatkan mahar berupa uang tunai dalam jumlah besar?",
+"Bagaimana hukum zakat bagi orang yang memiliki harta dalam jumlah nisab tapi hartanya sedang digosob orang lain?"
+]
+},
+{
+"pos_id": "Page_V01P460",
+"neg_id": "Page_V01P528",
+"tipe_1": [
+"Syarat nikah wanita ahli kitab",
+"Hukum menikahi non-muslim"
+],
+"tipe_2": [
+"Wanita non-muslim kategori seperti apa yang diperbolehkan untuk dinikahi oleh seorang laki-laki muslim?",
+"Apa syarat agar seorang wanita dari kalangan Yahudi atau Nasrani dianggap sebagai ahli kitab yang sah dinikahi?",
+"Bolehkah kita menikahi wanita penyembah berhala atau yang tidak memiliki kitab suci menurut syariat?"
+]
+},
+{
+"pos_id": "Page_V01P275",
+"neg_id": "Page_V01P406",
+"tipe_1": [
+"Amalan sunnah di bulan Ramadhan",
+"Etika lisan saat berpuasa"
+],
+"tipe_2": [
+"Hal baik apa saja yang sangat dianjurkan untuk diperbanyak intensitasnya selama bulan suci Ramadhan?",
+"Apakah mencaci maki atau bertengkar dengan orang lain bisa membatalkan pahala puasa kita?",
+"Berapa kali sebaiknya kita mengkhatamkan Al-Qur'an selama menjalankan ibadah puasa di bulan Ramadhan?"
+]
+},
+{
+"pos_id": "Page_V01P415",
+"neg_id": "Page_V01P416",
+"tipe_1": [
+"Hukum wakaf untuk anak cucu",
+"Pengelolaan harta wakaf keluarga"
+],
+"tipe_2": [
+"Bolehkah seseorang mewakafkan rumahnya khusus untuk ditempati oleh anak keturunannya saja?",
+"Bagaimana pembagian manfaat wakaf jika dalam ikrarnya hanya disebutkan untuk anak laki-laki?",
+"Apakah sah wakaf yang ditujukan bagi keturunan yang saat ini belum lahir atau belum ada?"
+]
+},
+{
+"pos_id": "Page_V01P058",
+"neg_id": "Page_V01P056",
+"tipe_1": [
+"Syarat sah penggunaan debu tayamum",
+"Hukum tayamum dengan tanah bercampur"
+],
+"tipe_2": [
+"Jenis tanah atau debu seperti apa yang boleh digunakan untuk melakukan ibadah tayamum?",
+"Apakah tetap sah tayamum kita jika debu yang digunakan sudah tercampur dengan butiran pasir atau tepung?",
+"Bolehkah kita bertayamum menggunakan debu yang sudah pernah dipakai untuk tayamum sebelumnya?"
+]
+},
+{
+"pos_id": "Page_V01P150",
+"neg_id": "Page_V01P152",
+"tipe_1": [
+"Larangan shalat di waktu haram",
+"Waktu terlarang shalat sunnah"
+],
+"tipe_2": [
+"Kapan sajakah waktu dalam sehari yang kita dilarang secara mutlak untuk mengerjakan shalat sunnah?",
+"Bolehkah kita melakukan shalat sunnah tepat saat matahari berada di tengah-tengah langit?",
+"Apakah shalat tahiyatul masjid tetap boleh dilakukan meskipun di waktu yang biasanya dilarang untuk shalat?"
+]
+},
+{
+"pos_id": "Page_V01P261",
+"neg_id": "Page_V01P260",
+"tipe_1": [
+"Syarat niat puasa fardhu",
+"Kewajiban tabyit niat ramadhan"
+],
+"tipe_2": [
+"Apakah sah puasa Ramadhan seseorang jika ia baru berniat setelah masuk waktu subuh?",
+"Kapan waktu yang paling tepat untuk mengucapkan niat puasa agar ibadah kita dianggap sah?",
+"Bolehkah kita berniat puasa untuk satu bulan penuh sekaligus di awal malam pertama Ramadhan?"
+]
+},
+{
+"pos_id": "Page_V01P379",
+"neg_id": "Page_V01P378",
+"tipe_1": [
+"Syarat sah pemberian hibah",
+"Hukum hibah tanpa serah terima"
+],
+"tipe_2": [
+"Apakah sebuah pemberian atau hadiah sudah dianggap sah meskipun barangnya belum berpindah tangan?",
+"Apa syarat utama agar status kepemilikan barang hibah secara resmi berpindah kepada penerima?",
+"Bolehkah kita menarik kembali barang yang sudah kita berikan kepada orang lain sebagai hadiah?"
+]
+},
+{
+"pos_id": "Page_V01P043",
+"neg_id": "Page_V01P042",
+"tipe_1": [
+"Ukuran dua kullah air",
+"Hukum air yang berubah karena lama diam"
+],
+"tipe_2": [
+"Berapa liter jumlah minimal air agar tidak dianggap najis meskipun terkena sedikit kotoran?",
+"Apakah air yang berubah warnanya karena terlalu lama didiamkan dalam wadah tetap suci untuk wudhu?",
+"Bagaimana cara mengukur volume air dua kullah jika menggunakan bak mandi berbentuk kotak?"
+]
+},
+{
+"pos_id": "Page_V01P570",
+"neg_id": "Page_V01P571",
+"tipe_1": [
+"Hukum memotong anggota tubuh sebagai qishas",
+"Syarat balas luka dalam hukum islam"
+],
+"tipe_2": [
+"Apakah pelaku penganiayaan yang mematahkan tangan orang lain juga harus dipatahkan tangannya?",
+"Dalam kasus apa hukum balas luka atau qishas anggota badan tidak boleh dilaksanakan oleh hakim?",
+"Bagaimana aturan penggantian denda jika luka yang diderita korban tidak memungkinkan untuk dibalas serupa?"
+]
+},
+{
+"pos_id": "Page_V01P587",
+"neg_id": "Page_V01P588",
+"tipe_1": [
+"Wewenang orang tua memukul anak",
+"Batas pukulan pendidikan dalam islam"
+],
+"tipe_2": [
+"Bolehkah seorang guru atau orang tua memukul anak didik untuk tujuan mendidik akhlaknya?",
+"Apa batasan pukulan yang diperbolehkan bagi suami terhadap istri yang melakukan pembangkangan?",
+"Berapa jumlah maksimal pukulan yang boleh diberikan sebagai hukuman tambahan oleh seorang hakim?"
+]
+}
+]
+[
+{
+"pos_id": "Page_V01P405",
+"neg_id": "Page_V01P427",
+"tipe_1": [
+"Ketentuan qabul dalam wakaf",
+"Penerima wakaf keluarga yang terputus"
+],
+"tipe_2": [
+"Apakah sah sebuah wakaf jika orang yang ditentukan sebagai penerima menolak pemberian tersebut?",
+"Siapa yang berhak menerima harta wakaf jika anak cucu yang ditunjuk dalam ikrar wakaf sudah tidak ada lagi?",
+"Apakah kita perlu mengucapkan kata setuju saat menerima harta wakaf yang diberikan secara pribadi?"
+]
+},
+{
+"pos_id": "Page_V01P637",
+"neg_id": "Page_V01P664",
+"tipe_1": [
+"Jawaban pengingkaran gugatan harta",
+"Hukum sumpah dalam sengketa utang"
+],
+"tipe_2": [
+"Bagaimana kalimat yang benar untuk menjawab tuduhan utang di pengadilan agar kita tidak dianggap mengakui utang tersebut?",
+"Apakah cukup dengan mengatakan 'Anda tidak punya hak atas saya' untuk menolak gugatan uang?",
+"Apa yang harus dilakukan tergugat jika ia dituntut mengembalikan uang pinjaman yang sebenarnya tidak pernah ada?"
+]
+},
+{
+"pos_id": "Page_V01P252",
+"neg_id": "Page_V01P224",
+"tipe_1": [
+"Kewajiban pemerataan distribusi zakat",
+"Jumlah minimal penerima tiap golongan zakat"
+],
+"tipe_2": [
+"Berapa jumlah minimal orang yang harus diberi zakat dari setiap kelompok penerima seperti fakir atau miskin?",
+"Apakah boleh memberikan zakat dalam jumlah yang berbeda-beda kepada orang-orang dalam satu kelompok yang sama?",
+"Apa konsekuensinya jika kita hanya memberikan zakat kepada dua orang saja padahal di daerah itu ada banyak orang yang berhak?"
+]
+},
+{
+"pos_id": "Page_V01P384",
+"neg_id": "Page_V01P385",
+"tipe_1": [
+"Syarat akad mukhabarah dan muzara'ah",
+"Definisi pinjaman barang maut"
+],
+"tipe_2": [
+"Bagaimana cara melakukan bagi hasil pertanian yang sah jika modal benihnya berasal dari pemilik lahan?",
+"Bolehkah saya meminjamkan barang yang manfaatnya akan habis setelah dipakai, seperti lilin atau sabun?",
+"Apa perbedaan aturan antara meminjamkan barang untuk dipakai dengan meminjamkan lahan untuk digarap?"
+]
+},
+{
+"pos_id": "Page_V01P135",
+"neg_id": "Page_V01P136",
+"tipe_1": [
+"Sujud sahwi karena lupa qunut",
+"Hukum makmum tertinggal rukun sahwi"
+],
+"tipe_2": [
+"Apakah kita tetap harus sujud sahwi jika lupa membaca doa qunut saat shalat sendirian?",
+"Bagaimana jika makmum lupa melakukan sujud sahwi padahal imam melakukannya di akhir shalat?",
+"Bolehkah kita kembali berdiri untuk qunut jika sudah terlanjur sujud namun teringat belum membacanya?"
+]
+},
+{
+"pos_id": "Page_V01P145",
+"neg_id": "Page_V01P144",
+"tipe_1": [
+"Batal shalat karena suara berdehem",
+"Hukum berdehem saat rukun qauli"
+],
+"tipe_2": [
+"Apakah shalat kita batal jika kita berdehem hingga mengeluarkan bunyi dua huruf saat membaca surat pendek?",
+"Bagaimana jika seseorang harus berdehem agar bisa membaca surat Al-Fatihah dengan benar?",
+"Apakah suara batuk atau bersin yang tidak sengaja keluar saat shalat bisa membatalkan ibadah kita?"
+]
+},
+{
+"pos_id": "Page_V01P269",
+"neg_id": "Page_V01P270",
+"tipe_1": [
+"Uzur boleh tidak puasa",
+"Hukum makan saat fajar ragu"
+],
+"tipe_2": [
+"Kriteria sakit seperti apa yang memperbolehkan seseorang untuk tidak menjalankan puasa Ramadhan?",
+"Apa yang harus dilakukan jika kita masih makan saat fajar sudah terbit namun kita mengira masih malam?",
+"Apakah puasa tetap sah jika ada sisa makanan di mulut yang baru dibuang tepat saat adzan subuh berkumandang?"
+]
+},
+{
+"pos_id": "Page_V01P038",
+"neg_id": "Page_V01P272",
+"tipe_1": [
+"Perintah shalat untuk anak kecil",
+"Batas umur anak dipukul karena shalat"
+],
+"tipe_2": [
+"Pada usia berapa tahun seorang anak harus mulai diajarkan dan diperintahkan untuk mengerjakan shalat?",
+"Bolehkah orang tua memukul anaknya yang sudah berumur sepuluh tahun jika ia malas shalat?",
+"Apakah kewajiban mengajari anak beribadah juga mencakup kewajiban mengajari mereka berpuasa?"
+]
+},
+{
+"pos_id": "Page_V01P262",
+"neg_id": "Page_V01P261",
+"tipe_1": [
+"Ragu waktu niat puasa",
+"Hukum makan setelah niat sebelum fajar"
+],
+"tipe_2": [
+"Apakah puasa saya sah jika saya ragu apakah tadi sudah niat sebelum masuk waktu subuh?",
+"Bolehkah kita makan dan minum lagi setelah mengucapkan niat puasa di malam hari?",
+"Bagaimana hukum puasa orang yang membatalkan niatnya secara sepihak sebelum waktu fajar tiba?"
+]
+},
+{
+"pos_id": "Page_V01P361",
+"neg_id": "Page_V01P360",
+"tipe_1": [
+"Wewenang agen dalam harga jual",
+"Syarat pembayaran dalam perwakilan"
+],
+"tipe_2": [
+"Bolehkah seorang wakil menjual barang dengan harga di bawah standar tanpa izin dari pemiliknya?",
+"Apakah seorang agen penjualan wajib menerima pembayaran secara tunai atau boleh secara kredit?",
+"Bagaimana hukumnya jika orang yang disuruh menjualkan barang ternyata membelinya untuk dirinya sendiri?"
+]
+},
+{
+"pos_id": "Page_V01P479",
+"neg_id": "Page_V01P478",
+"tipe_1": [
+"Kafaah nasab Bani Hasyim",
+"Syarat kesepadanan keturunan quraish"
+],
+"tipe_2": [
+"Apakah seorang wanita dari keturunan Nabi boleh menikah dengan laki-laki yang bukan dari keturunan yang sama?",
+"Bagaimana aturan kesepadanan derajat atau kafaah antara suku-suku di bangsa Arab dalam pernikahan?",
+"Apakah sah pernikahan jika derajat keturunan suami jauh lebih rendah dibandingkan derajat keturunan istrinya?"
+]
+},
+{
+"pos_id": "Page_V01P354",
+"neg_id": "Page_V01P504",
+"tipe_1": [
+"Upah mempekerjakan anak sendiri",
+"Hak penggunaan tenaga anak oleh ayah"
+],
+"tipe_2": [
+"Apakah seorang ayah wajib membayar gaji jika ia menyuruh anak kandungnya yang sudah dewasa untuk bekerja?",
+"Bolehkah orang tua menyuruh anaknya melakukan pekerjaan berat tanpa memberikan imbalan apapun?",
+"Bagaimana aturan penggunaan harta milik anak yang belum dewasa oleh orang tuanya sendiri?"
+]
+},
+{
+"pos_id": "Page_V01P346",
+"neg_id": "Page_V01P365",
+"tipe_1": [
+"Status barang gadai sebagai amanah",
+"Pengakuan kehilangan barang jaminan"
+],
+"tipe_2": [
+"Apakah penerima gadai harus mengganti barang jaminan yang hilang tanpa ada unsur kelalaian darinya?",
+"Siapa yang harus dipercaya secara hukum jika penerima barang jaminan mengaku barangnya sudah hilang?",
+"Kapan status barang gadai berubah dari titipan biasa menjadi barang yang harus dipertanggungjawabkan?"
+]
+},
+{
+"pos_id": "Page_V01P189",
+"neg_id": "Page_V01P191",
+"tipe_1": [
+"Hukum makmum beda ijtihad batal",
+"Efikasi shalat berjamaah beda madzhab"
+],
+"tipe_2": [
+"Bolehkah kita bermakmum kepada imam yang melakukan hal yang membatalkan wudhu menurut madzhab kita?",
+"Bagaimana hukum shalat makmum Syafii yang mengikuti imam yang menyentuh kemaluan tanpa membatalkan wudhu?",
+"Apakah sah shalat kita jika kita ragu apakah imam sudah memenuhi semua syarat sah shalatnya?"
+]
+},
+{
+"pos_id": "Page_V01P642",
+"neg_id": "Page_V01P634",
+"tipe_1": [
+"Gugatan status kemerdekaan budak",
+"Hak penarikan uang pembelian budak"
+],
+"tipe_2": [
+"Apakah seorang pembeli boleh meminta kembali uangnya jika budak yang dibelinya terbukti adalah orang merdeka?",
+"Bagaimana jika seseorang mengaku sebagai budak saat dibeli namun kemudian mengaku sebagai orang merdeka?",
+"Apa yang harus dilakukan pembeli jika pengadilan memutuskan bahwa barang yang dibelinya bukan merupakan milik penjual?"
+]
+},
+{
+"pos_id": "Page_V01P073",
+"neg_id": "Page_V01P071",
+"tipe_1": [
+"Hukum cairan keputihan wanita",
+"Status kesucian rathbul farji"
+],
+"tipe_2": [
+"Apakah cairan berwarna putih yang keluar dari area kewanitaan dianggap najis dan membatalkan wudhu?",
+"Bagaimana membedakan antara cairan kewanitaan yang suci dengan yang tergolong najis?",
+"Apakah pakaian yang terkena rembesan cairan keputihan harus dicuci sebelum digunakan untuk shalat?"
+]
+},
+{
+"pos_id": "Page_V01P589",
+"neg_id": "Page_V01P609",
+"tipe_1": [
+"Hak bela diri terhadap penyerang",
+"Hukum melawan pelaku pelecehan"
+],
+"tipe_2": [
+"Bolehkah kita melawan atau melukai orang yang mencoba mencuri barang atau menyerang fisik kita?",
+"Bagaimana hukumnya jika kita membela kehormatan diri dari orang yang mencoba melakukan tindakan asusila?",
+"Apakah kita berdosa jika tidak sengaja membunuh orang yang sedang menyerang rumah kita di malam hari?"
+]
+},
+{
+"pos_id": "Page_V01P097",
+"neg_id": "Page_V01P098",
+"tipe_1": [
+"Syarat shalat duduk bagi yang mampu",
+"Uzur boleh shalat sambil duduk"
+],
+"tipe_2": [
+"Kondisi sakit seperti apa yang memperbolehkan seseorang untuk shalat fardhu sambil duduk?",
+"Apakah pusing atau mual saat berdiri sudah cukup menjadi alasan untuk shalat dengan posisi duduk?",
+"Bolehkah penumpang kapal laut shalat sambil duduk jika ia merasa mual atau takut jatuh saat berdiri?"
+]
+},
+{
+"pos_id": "Page_V01P042",
+"neg_id": "Page_V01P045",
+"tipe_1": [
+"Niat ightiraf dalam wudhu",
+"Hukum tangan masuk wadah air"
+],
+"tipe_2": [
+"Kapan seseorang yang berwudhu harus berniat mengambil air agar air di dalam bak tidak menjadi mustakmal?",
+"Apakah air di dalam gayung langsung menjadi mustakmal jika tangan kita masuk ke dalamnya setelah membasuh muka?",
+"Bagaimana cara mengambil air wudhu dari wadah kecil agar sisa airnya tetap bisa mensucikan?"
+]
+},
+{
+"pos_id": "Page_V01P306",
+"neg_id": "Page_V01P307",
+"tipe_1": [
+"Hukum menyembelih dengan alat tumpul",
+"Kehalalan janin dalam kandungan induk"
+],
+"tipe_2": [
+"Apakah daging hewan tetap halal jika disembelih menggunakan pisau yang tidak terlalu tajam?",
+"Bolehkah kita memakan janin hewan yang ditemukan sudah mati di dalam perut induknya yang baru disembelih?",
+"Apa tanda-tanda penyembelihan yang dianggap tidak sah sehingga hewan tersebut menjadi bangkai?"
+]
+},
+{
+"pos_id": "Page_V01P340",
+"neg_id": "Page_V01P229",
+"tipe_1": [
+"Keutamaan memberi pinjaman uang",
+"Lafadz ijab kabul utang"
+],
+"tipe_2": [
+"Apa pahala bagi orang yang memberikan pinjaman uang kepada saudaranya yang sedang kesulitan?",
+"Bagaimana kalimat yang sah untuk melakukan transaksi pinjam meminjam uang menurut aturan agama?",
+"Apakah benar memberi utang itu lebih baik daripada sekadar memberikan sedekah biasa?"
+]
+},
+{
+"pos_id": "Page_V01P580",
+"neg_id": "Page_V01P076",
+"tipe_1": [
+"Kekafiran pelaku peminum khamar",
+"Hukum menghalalkan minuman memabukkan"
+],
+"tipe_2": [
+"Apakah seseorang otomatis keluar dari Islam jika ia meyakini bahwa minuman keras dari buah selain anggur itu halal?",
+"Bagaimana hukumnya bagi orang yang minum minuman memabukkan meskipun hanya setetes?",
+"Apa perbedaan status hukum antara khamar yang berasal dari anggur dengan khamar dari bahan lainnya?"
+]
+}
+]
+[
+{
+"pos_id": "Page_V01P431",
+"neg_id": "Page_V01P430",
+"tipe_1": [
+"Tindakan pembatalan wasiat otomatis",
+"Hukum wasiat ganda bertingkat"
+],
+"tipe_2": [
+"Apakah wasiat saya otomatis batal jika saya menjual barang yang sudah saya janjikan untuk diberikan setelah meninggal?",
+"Bagaimana jika seseorang berwasiat memberikan 100 juta kepada si A, lalu kemudian ia berwasiat lagi memberikan 50 juta kepada si A?",
+"Apakah menyangkal pernah berwasiat dianggap sebagai tindakan menarik kembali wasiat tersebut?"
+]
+},
+{
+"pos_id": "Page_V01P381",
+"neg_id": "Page_V01P382",
+"tipe_1": [
+"Penyebab fasakh sewa menyewa",
+"Kewajiban pembayaran sewa barang rusak"
+],
+"tipe_2": [
+"Apakah penyewa tetap harus membayar penuh jika barang yang disewa rusak sebelum sempat digunakan?",
+"Bolehkah pemilik barang membatalkan sewa jika penyewa tidak jadi memakai barangnya karena sakit?",
+"Apa yang terjadi pada kontrak sewa jika barang yang disewakan secara spesifik tiba-tiba hilang atau hancur?"
+]
+},
+{
+"pos_id": "Page_V01P659",
+"neg_id": "Page_V01P658",
+"tipe_1": [
+"Lafadz kesaksian atas saksi",
+"Prosedur saksi فرع dalam persidangan"
+],
+"tipe_2": [
+"Bagaimana kalimat yang harus diucapkan seseorang jika ia menjadi saksi untuk menggantikan saksi utama yang berhalangan?",
+"Apakah cukup bagi seorang saksi pengganti untuk mengatakan 'saya tahu kejadian itu' tanpa menyebutkan nama saksi aslinya?",
+"Apa saja syarat yang harus dipenuhi saat seorang saksi meminta orang lain untuk mempersaksikan kesaksiannya?"
+]
+},
+{
+"pos_id": "Page_V01P321",
+"neg_id": "Page_V01P462",
+"tipe_1": [
+"Hukum transaksi harta sendiri tanpa sadar",
+"Validitas jual beli barang warisan sebelum tahu kematian"
+],
+"tipe_2": [
+"Bagaimana hukumnya jika seseorang menjual rumah milik ayahnya, lalu ternyata ayahnya sudah meninggal saat transaksi itu terjadi?",
+"Apakah sah penjualan barang milik orang lain jika ternyata pemiliknya sudah memberikan izin tanpa sepengetahuan si penjual?",
+"Apa status hukum transaksi yang dilakukan seseorang yang mengira dirinya melanggar aturan, padahal secara fakta ia punya hak?"
+]
+},
+{
+"pos_id": "Page_V01P115",
+"neg_id": "Page_V01P102",
+"tipe_1": [
+"Syarat sah dahi saat sujud",
+"Hukum sujud di atas sorban bergerak"
+],
+"tipe_2": [
+"Apakah shalat kita sah jika saat sujud dahi kita terhalang oleh ujung sorban yang ikut bergerak saat kita bergerak?",
+"Bagaimana hukumnya jika seseorang sujud di atas kain yang ia pegang sendiri selama shalat?",
+"Bagian dahi manakah yang wajib menempel langsung ke tempat sujud agar shalatnya dianggap sah?"
+]
+},
+{
+"pos_id": "Page_V01P499",
+"neg_id": "Page_V01P426",
+"tipe_1": [
+"Hak suami mendidik istri nusyuz",
+"Uzur istri menolak ajakan suami"
+],
+"tipe_2": [
+"Bolehkah seorang suami memukul istrinya yang sering mencaci maki atau tidak mau melayani tanpa alasan?",
+"Apakah istri tetap berdosa jika ia menolak ajakan suami karena sedang dalam kondisi sakit parah?",
+"Bagaimana aturan bagi suami dalam membagi waktu malam jika istrinya sedang melakukan pembangkangan?"
+]
+},
+{
+"pos_id": "Page_V01P455",
+"neg_id": "Page_V01P459",
+"tipe_1": [
+"Larangan nikah saudara sepupu",
+"Keabsahan akad nikah tanpa mahar"
+],
+"tipe_2": [
+"Apakah kita diperbolehkan menikahi anak perempuan dari paman atau bibi kandung kita sendiri?",
+"Apa hukumnya jika dalam sebuah akad nikah sama sekali tidak disebutkan berapa jumlah mas kawinnya?",
+"Siapa saja dari anggota keluarga besar yang sebenarnya halal untuk dinikahi menurut aturan agama?"
+]
+},
+{
+"pos_id": "Page_V01P281",
+"neg_id": "Page_V01P310",
+"tipe_1": [
+"Niat puasa sunnah dalam puasa fardhu",
+"Pahala puasa Arafah berbarengan qadha"
+],
+"tipe_2": [
+"Apakah saya mendapatkan pahala puasa sunnah Arafah jika saya melakukannya sambil berniat membayar utang puasa Ramadhan?",
+"Bolehkah kita menggabungkan dua niat ibadah puasa sekaligus dalam satu hari yang sama?",
+"Bagaimana pendapat ulama mengenai keabsahan pahala sunnah bagi orang yang sedang melakukan puasa wajib?"
+]
+},
+{
+"pos_id": "Page_V01P560",
+"neg_id": "Page_V01P562",
+"tipe_1": [
+"Definisi pembunuhan شبه عمد",
+"Hukum menusuk dengan jarum hingga mati"
+],
+"tipe_2": [
+"Bagaimana hukumnya jika seseorang memukul orang lain dengan benda ringan tapi ternyata korbannya malah meninggal dunia?",
+"Apakah menusukkan jarum ke bagian tubuh yang tidak mematikan tetap dianggap sebagai pembunuhan jika korbannya tewas?",
+"Apa perbedaan antara tindakan yang niatnya hanya melukai dengan tindakan yang memang diniatkan untuk membunuh?"
+]
+},
+{
+"pos_id": "Page_V01P059",
+"neg_id": "Page_V01P124",
+"tipe_1": [
+"Hukum menggunakan air minum untuk wudhu",
+"Kewajiban meringkas wudhu saat waktu sempit"
+],
+"tipe_2": [
+"Bolehkah kita berwudhu menggunakan air yang sebenarnya disediakan khusus untuk diminum orang banyak?",
+"Apa yang harus kita lakukan jika waktu shalat hampir habis sedangkan kita belum berwudhu?",
+"Bagaimana hukumnya jika seseorang tetap membasuh anggota wudhu sebanyak tiga kali padahal air yang tersedia sangat sedikit?"
+]
+},
+{
+"pos_id": "Page_V01P215",
+"neg_id": "Page_V01P203",
+"tipe_1": [
+"Tata cara memandikan jenazah",
+"Penggunaan air hangat untuk mayit"
+],
+"tipe_2": [
+"Apakah boleh memandikan jenazah menggunakan air hangat jika kondisi udaranya sangat dingin?",
+"Bagian mana saja yang harus dibersihkan terlebih dahulu saat kita memandikan orang yang sudah meninggal?",
+"Bagaimana hukumnya jika jenazah dimandikan di tempat yang terbuka dan bisa dilihat oleh banyak orang?"
+]
+},
+{
+"pos_id": "Page_V01P548",
+"neg_id": "Page_V01P551",
+"tipe_1": [
+"Hak istri fasakh nikah karena mahar",
+"Definisi suami miskin dalam talak"
+],
+"tipe_2": [
+"Bolehkah seorang istri meminta pembatalan nikah jika suaminya ternyata tidak mampu membayar mahar yang dijanjikan?",
+"Apa syaratnya agar pengadilan mau mengabulkan permintaan cerai istri karena alasan ekonomi?",
+"Apakah wali dari seorang anak kecil yang sudah menikah boleh meminta cerai atas nama anak tersebut jika suaminya miskin?"
+]
+},
+{
+"pos_id": "Page_V01P184",
+"neg_id": "Page_V01P183",
+"tipe_1": [
+"Batas toleransi tertinggal imam",
+"Tindakan makmum saat imam bacaan panjang"
+],
+"tipe_2": [
+"Berapa banyak gerakan shalat yang boleh kita lewatkan sebelum shalat kita dianggap tidak sah karena tertinggal dari imam?",
+"Apa yang harus dilakukan makmum jika ia masih membaca Fatihah sedangkan imam sudah mau beranjak ke sujud?",
+"Bolehkah makmum tetap berdiri menyelesaikan bacaannya jika imam bergerak sangat cepat dalam shalat?"
+]
+},
+{
+"pos_id": "Page_V01P396",
+"neg_id": "Page_V01P351",
+"tipe_1": [
+"Hak orang tua menarik kembali hadiah",
+"Syarat hibah ashal ke فرع"
+],
+"tipe_2": [
+"Bolehkah seorang ayah mengambil kembali tanah yang sudah ia berikan kepada anak kandungnya?",
+"Apakah ibu memiliki hak untuk meminta balik perhiasan yang telah ia hadiahkan kepada putrinya?",
+"Dalam kondisi seperti apa pemberian orang tua kepada anak sudah tidak bisa lagi ditarik kembali?"
+]
+},
+{
+"pos_id": "Page_V01P123",
+"neg_id": "Page_V01P290",
+"tipe_1": [
+"Niat salam dalam shalat",
+"Arah salam kepada malaikat dan jin"
+],
+"tipe_2": [
+"Siapa sajakah yang sebaiknya kita niatkan untuk kita beri salam saat kita menolehkan wajah di akhir shalat?",
+"Bolehkah makmum melakukan salam pertama secara bersamaan dengan salam pertamanya sang imam?",
+"Apa tujuan dari mengucapkan salam ke arah kanan dan kiri saat kita akan mengakhiri ibadah shalat?"
+]
+},
+{
+"pos_id": "Page_V01P379",
+"neg_id": "Page_V01P380",
+"tipe_1": [
+"Status amanah barang setelah kontrak sewa habis",
+"Tanggung jawab pekerja atas barang konsumen"
+],
+"tipe_2": [
+"Apakah penyewa harus bertanggung jawab jika barang yang ia sewa rusak setelah masa sewanya berakhir tapi belum sempat dikembalikan?",
+"Bagaimana hukumnya jika baju yang kita serahkan ke penjahit rusak bukan karena kesalahannya?",
+"Apakah seorang pekerja dianggap sebagai orang yang dipercaya memegang barang sehingga tidak wajib ganti rugi jika ada musibah?"
+]
+},
+{
+"pos_id": "Page_V01P452",
+"neg_id": "Page_V01P454",
+"tipe_1": [
+"Lafadz ijab kabul nikah yang sah",
+"Syarat kesinambungan ucapan akad nikah"
+],
+"tipe_2": [
+"Apa saja kata-kata yang harus diucapkan oleh wali pengantin agar sebuah pernikahan dianggap sah secara agama?",
+"Bolehkah proses tanya jawab atau ijab kabul dilakukan dengan menggunakan bahasa selain bahasa Arab?",
+"Apakah pernikahan tetap sah jika antara ucapan wali dan jawaban pengantin pria terhalang oleh diam yang cukup lama?"
+]
+},
+{
+"pos_id": "Page_V01P219",
+"neg_id": "Page_V01P218",
+"tipe_1": [
+"Hukum membangun tembok di atas kuburan",
+"Larangan menginjak makam muslim"
+],
+"tipe_2": [
+"Apakah diperbolehkan membangun sebuah cungkup atau atap permanen di atas makam keluarga kita sendiri?",
+"Bagaimana hukumnya jika kita secara sengaja melangkahi atau menduduki nisan di sebuah pemakaman?",
+"Bolehkah seseorang mendirikan bangunan di atas tanah pemakaman yang diperuntukkan bagi umum?"
+]
+},
+{
+"pos_id": "Page_V01P335",
+"neg_id": "Page_V01P336",
+"tipe_1": [
+"Status barang bawaan dalam jual beli tanah",
+"Hukum pohon dan bangunan saat beli lahan"
+],
+"tipe_2": [
+"Apakah pohon kelapa yang ada di sebuah lahan otomatis menjadi milik pembeli jika ia hanya membeli tanahnya saja?",
+"Apa saja benda-benda yang secara otomatis ikut berpindah hak miliknya saat kita membeli sebuah rumah?",
+"Jika saya membeli kebun, apakah pagar dan bangunan kecil di dalamnya juga termasuk dalam harga pembelian?"
+]
+},
+{
+"pos_id": "Page_V01P570",
+"neg_id": "Page_V01P517",
+"tipe_1": [
+"Definisi pembatal keislaman",
+"Dampak murtad terhadap ibadah terdahulu"
+],
+"tipe_2": [
+"Apakah seseorang dianggap keluar dari agama Islam jika ia secara sengaja mengejek ajaran agama atau kitab suci?",
+"Apa yang terjadi dengan pahala shalat dan puasa yang pernah dilakukan seseorang jika ia sempat keluar dari Islam lalu masuk lagi?",
+"Bagaimana kriteria tindakan atau ucapan yang bisa menyebabkan seseorang secara hukum dianggap telah murtad?"
+]
+},
+{
+"pos_id": "Page_V01P064",
+"neg_id": "Page_V01P063",
+"tipe_1": [
+"Hukum memegang mushaf bagi anak kecil",
+"Larangan menyentuh Al-Qur'an terjemahan tanpa wudhu"
+],
+"tipe_2": [
+"Bolehkah seorang guru memberikan Al-Qur'an kepada murid kecilnya yang belum baligh untuk dipelajari?",
+"Apa hukumnya bagi kita jika menaruh uang atau benda lain di dalam lembaran kitab suci Al-Qur'an?",
+"Bolehkah anak kecil yang belum bisa menjaga kebersihan menyentuh atau membawa mushaf untuk tujuan belajar?"
+]
+},
+{
+"pos_id": "Page_V01P031",
+"neg_id": "Page_V01P035",
+"tipe_1": [
+"Latar belakang penulisan kitab Fathul Mu'in",
+"Silsilah keturunan Imam Syafii"
+],
+"tipe_2": [
+"Apa alasan utama pengarang menulis kitab ini dan apa harapan beliau bagi orang yang mempelajarinya?",
+"Siapakah nenek moyang dari Imam Syafii yang memiliki hubungan kekerabatan dengan Nabi Muhammad?",
+"Kapan dan di mana Imam Syafii dilahirkan serta bagaimana perjalanan hidup beliau dalam menuntut ilmu?"
+]
+},
+{
+"pos_id": "Page_V01P666",
+"neg_id": "Page_V01P608",
+"tipe_1": [
+"Lafadz pembebasan budak",
+"Syarat sah memerdekakan hamba sahaya"
+],
+"tipe_2": [
+"Bagaimana kalimat yang paling tepat diucapkan oleh seorang majikan jika ingin memerdekakan budaknya?",
+"Apakah sah tindakan memerdekakan budak jika majikannya sendiri sedang dalam kondisi dilarang mengelola harta?",
+"Apa dasar hukum yang menjadi anjuran bagi umat Islam untuk membantu membebaskan orang dari perbudakan?"
+]
+},
+{
+"pos_id": "Page_V01P515",
+"neg_id": "Page_V01P512",
+"tipe_1": [
+"Status talak lewat perwakilan",
+"Hukum niat dalam jumlah talak"
+],
+"tipe_2": [
+"Apakah jatuh talak jika suami menyuruh orang lain untuk menyampaikan kata cerai kepada istrinya?",
+"Bagaimana hukumnya jika suami ragu apakah ia tadi berniat menceraikan istrinya satu kali atau dua kali?",
+"Berapa jumlah talak yang jatuh jika suami mengatakan 'aku ceraikan kamu satu dan dua' dalam satu waktu?"
+]
+},
+{
+"pos_id": "Page_V01P498",
+"neg_id": "Page_V01P169",
+"tipe_1": [
+"Hak malam bagi istri baru",
+"Perbedaan jatah malam gadis dan janda"
+],
+"tipe_2": [
+"Berapa hari jatah waktu khusus bagi seorang suami untuk tinggal bersama istri yang baru saja ia nikahi?",
+"Apakah ada perbedaan jumlah hari menginap jika istri baru tersebut masih perawan atau sudah pernah menikah?",
+"Bolehkah suami tetap tinggal bersama istri pertamanya saat ia baru saja melangsungkan pernikahan kedua?"
+]
+},
+{
+"pos_id": "Page_V01P520",
+"neg_id": "Page_V01P521",
+"tipe_1": [
+"Syarat saksi dalam perkara talak",
+"Hukum melihat saat pengucapan cerai"
+],
+"tipe_2": [
+"Apakah sah sebuah perceraian di pengadilan jika saksi yang hadir semuanya adalah perempuan?",
+"Apa saja syarat yang harus dipenuhi oleh seseorang agar kesaksiannya tentang perceraian orang lain diterima?",
+"Bolehkah seorang budak atau orang yang sering meninggalkan shalat menjadi saksi dalam kasus jatuhnya talak?"
+]
+}
+[
+{
+"pos_id": "Page_V01P665",
+"neg_id": "Page_V01P638",
+"tipe_1": [
+"Hukum tasybih dalam sumpah",
+"Efikasi tauriyah bagi orang terdhalimi"
+],
+"tipe_2": [
+"Apakah diperbolehkan menggunakan kata-kata kiasan saat bersumpah agar tidak dianggap berbohong secara langsung?",
+"Bagaimana hukum bersumpah dengan niat menyembunyikan kebenaran jika lawan bicaranya adalah orang yang berbuat dhalim?",
+"Apakah sumpah seseorang tetap dianggap sah di hadapan Tuhan jika ia berniat lain di dalam hatinya saat mengucapkannya?"
+]
+},
+{
+"pos_id": "Page_V01P198",
+"neg_id": "Page_V01P197",
+"tipe_1": [
+"Kewajiban jumat bagi penduduk desa sedikit",
+"Batas dengar adzan untuk shalat jumat"
+],
+"tipe_2": [
+"Apakah warga desa yang jumlahnya kurang dari 40 orang wajib pergi ke kota lain untuk shalat jumat?",
+"Sejauh mana jarak maksimal suara adzan sehingga orang di desa tersebut wajib mendatangi masjid untuk jumat?",
+"Bagaimana status warga desa yang mendengar adzan dari kota terdekat namun tidak memiliki masjid sendiri untuk shalat jumat?"
+]
+},
+{
+"pos_id": "Page_V01P085",
+"neg_id": "Page_V01P582",
+"tipe_1": [
+"Etika buang hajat menghadap kiblat",
+"Batas aurat laki-laki dan budak"
+],
+"tipe_2": [
+"Manakah bagian tubuh pria yang wajib ditutup rapat agar tidak terlihat oleh orang lain menurut aturan agama?",
+"Bolehkah kita buang air kecil dengan posisi menghadap kiblat jika di sana tidak ada dinding penghalangnya?",
+"Apa saja hal yang dilarang untuk dilakukan saat seseorang sedang berada di dalam kamar mandi untuk buang air?"
+]
+},
+{
+"pos_id": "Page_V01P077",
+"neg_id": "Page_V01P074",
+"tipe_1": [
+"Kesucian ulat bangkai anjing",
+"Hukum jaring laba-laba"
+],
+"tipe_2": [
+"Apakah ulat yang muncul dari bangkai anjing atau babi dianggap sebagai benda yang najis?",
+"Bagaimana hukum menyentuh sarang atau jaring laba-laba yang ada di sudut ruangan rumah kita?",
+"Apakah benar ulat yang berasal dari bangkai hewan yang najis hukumnya adalah tetap suci?"
+]
+},
+{
+"pos_id": "Page_V01P657",
+"neg_id": "Page_V01P656",
+"tipe_1": [
+"Kesaksian kepemilikan berdasarkan penguasaan lama",
+"Syarat saksi berdasarkan kabar burung"
+],
+"tipe_2": [
+"Bolehkah seseorang bersaksi bahwa sebuah tanah adalah milik si A hanya karena ia melihat si A sudah tinggal di sana puluhan tahun?",
+"Apa syaratnya agar ucapan 'katanya orang-orang' bisa dijadikan dasar untuk bersaksi di depan hakim?",
+"Apakah penguasaan barang dalam waktu singkat sudah cukup untuk membuktikan bahwa barang itu adalah milik orang tersebut?"
+]
+},
+{
+"pos_id": "Page_V01P353",
+"neg_id": "Page_V01P342",
+"tipe_1": [
+"Wewenang wali pinjamkan harta anak yatim",
+"Syarat hakim pinjamkan harta mahjur"
+],
+"tipe_2": [
+"Bolehkah pengelola harta anak yatim meminjamkan uang tersebut kepada orang lain karena alasan mendesak?",
+"Apa syarat yang harus dipenuhi jika seorang hakim ingin meminjamkan uang milik orang yang tidak mampu mengelola hartanya?",
+"Apakah ibu kandung memiliki hak secara hukum untuk mengatur dan mengalihkan harta milik anaknya yang masih kecil?"
+]
+},
+{
+"pos_id": "Page_V01P226",
+"neg_id": "Page_V01P573",
+"tipe_1": [
+"Definisi mati syahid akhirat",
+"Hukum memandikan syahid dunya"
+],
+"tipe_2": [
+"Apakah orang yang meninggal karena tenggelam atau sakit perut tetap harus dimandikan seperti jenazah biasa?",
+"Apa sebutan bagi orang yang meninggal di medan perang namun niatnya bukan karena membela agama Allah?",
+"Siapa sajakah kategori orang meninggal yang mendapatkan pahala mati syahid namun di dunia tetap diperlakukan seperti biasa?"
+]
+},
+{
+"pos_id": "Page_V01P673",
+"neg_id": "Page_V01P599",
+"tipe_1": [
+"Doa penutup penulisan kitab",
+"Harapan pengarang Fathul Mu'in"
+],
+"tipe_2": [
+"Kapan Syekh Zainuddin Al-Malibari menyelesaikan penulisan karya besarnya yang berjudul Fathul Mu'in?",
+"Apa doa dan harapan yang dipanjatkan oleh pengarang di akhir halaman kitab fikih karangannya?",
+"Pada hari dan tanggal hijriah berapakah proses penyusunan teks utama kitab ini selesai dikerjakan?"
+]
+},
+{
+"pos_id": "Page_V01P565",
+"neg_id": "Page_V01P563",
+"tipe_1": [
+"Kadar diyat pembunuhan sengaja",
+"Syarat qishas anggota tubuh"
+],
+"tipe_2": [
+"Berapa jumlah unta yang harus dibayarkan sebagai denda jika terjadi pembunuhan yang dilakukan secara sengaja?",
+"Apakah hukum qishas atau balas luka juga berlaku untuk organ tubuh yang berpasangan seperti telinga atau mata?",
+"Bagaimana aturan pembagian jenis unta dalam pembayaran denda pembunuhan menurut ketentuan hukum islam?"
+]
+},
+{
+"pos_id": "Page_V01P546",
+"neg_id": "Page_V01P496",
+"tipe_1": [
+"Gugurnya nafkah karena istri bepergian",
+"Nafkah istri dalam perjalanan bersama suami"
+],
+"tipe_2": [
+"Apakah suami masih wajib memberi uang belanja jika istri pergi berlibur sendirian atas izin suami?",
+"Bagaimana status nafkah jika seorang istri ikut suaminya pergi berdagang ke luar kota?",
+"Apakah hak nafkah istri hilang jika ia pergi mengurusi kepentingannya sendiri meskipun suaminya sudah mengizinkan?"
+]
+},
+{
+"pos_id": "Page_V01P581",
+"neg_id": "Page_V01P578",
+"tipe_1": [
+"Jumlah cambukan bagi peminum khamar",
+"Hukum potong tangan pencuri emas"
+],
+"tipe_2": [
+"Berapa kali hukuman cambuk yang harus diterima oleh orang merdeka yang terbukti meminum minuman keras?",
+"Bagaimana cara membuktikan seseorang telah minum khamar agar ia bisa dijatuhi hukuman oleh hakim?",
+"Apakah ada perbedaan jumlah hukuman cambuk antara budak dan orang merdeka dalam kasus minum alkohol?"
+]
+},
+{
+"pos_id": "Page_V01P593",
+"neg_id": "Page_V01P594",
+"tipe_1": [
+"Tanggung jawab kerusakan oleh hewan ternak",
+"Ganti rugi burung yang dimakan kucing"
+],
+"tipe_2": [
+"Siapa yang harus ganti rugi jika sapi tetangga merusak tanaman di kebun kita pada waktu malam hari?",
+"Apakah pemilik kucing wajib mengganti burung peliharaan orang lain yang dimakan oleh kucingnya?",
+"Bagaimana hukum ganti rugi jika hewan peliharaan merusak barang orang lain saat tidak sedang diikat oleh pemiliknya?"
+]
+},
+{
+"pos_id": "Page_V01P334",
+"neg_id": "Page_V01P150",
+"tipe_1": [
+"Hukum tukar tambah utang",
+"Syarat sah istibdal tsaman"
+],
+"tipe_2": [
+"Bolehkah saya membayar utang dengan barang lain yang nilainya sama namun jenisnya berbeda?",
+"Apa syaratnya agar kita boleh mengganti uang pembayaran dengan benda lain dalam transaksi jual beli?",
+"Bolehkah kita menukar piutang emas kita dengan perak saat waktu pelunasan telah tiba?"
+]
+},
+{
+"pos_id": "Page_V01P333",
+"neg_id": "Page_V01P328",
+"tipe_1": [
+"Tanggung jawab barang sebelum serah terima",
+"Cara serah terima barang tidak bergerak"
+],
+"tipe_2": [
+"Jika barang yang saya beli rusak di gudang penjual sebelum saya ambil, siapakah yang harus menanggung kerugiannya?",
+"Bagaimana prosedur resmi serah terima barang seperti tanah atau rumah agar status kepemilikannya berpindah sah?",
+"Bolehkah saya menjual kembali barang yang sudah saya bayar lunas namun barangnya masih berada di tangan penjual?"
+]
+},
+{
+"pos_id": "Page_V01P155",
+"neg_id": "Page_V01P190",
+"tipe_1": [
+"Jawaban azan saat tidak punya wudhu",
+"Kalimat hauqalah dalam azan"
+],
+"tipe_2": [
+"Bolehkah kita menjawab seruan azan meskipun kita sedang dalam kondisi tidak memiliki wudhu?",
+"Apa yang harus kita ucapkan sebagai jawaban ketika muazin mengumandangkan kalimat Hayya alas Shalah?",
+"Bagaimana aturan menjawab suara azan jika muazinnya melakukan kesalahan dalam pelafalan panjang pendeknya?"
+]
+},
+{
+"pos_id": "Page_V01P535",
+"neg_id": "Page_V01P284",
+"tipe_1": [
+"Sebab wajibnya nafkah istri",
+"Sumpah suami dalam sengketa nafkah"
+],
+"tipe_2": [
+"Kapan seorang suami mulai memiliki kewajiban untuk memberikan nafkah harian kepada istrinya?",
+"Apakah suami tetap wajib menafkahi jika istrinya sedang sakit dan tidak bisa melayani kebutuhan suami?",
+"Siapa yang harus dipercaya oleh hakim jika istri mengaku belum dinafkah namun suami mengaku sudah memberi uang?"
+]
+},
+{
+"pos_id": "Page_V01P397",
+"neg_id": "Page_V01P429",
+"tipe_1": [
+"Hukum hibah piutang kepada penghutang",
+"Status keabsahan pemberian utang"
+],
+"tipe_2": [
+"Apa hukumnya jika saya mengikhlaskan utang teman saya sebagai bentuk hadiah atau hibah untuknya?",
+"Apakah sah jika saya memberikan piutang yang saya miliki kepada orang lain sebagai kado?",
+"Bagaimana status kepemilikan harta jika seseorang memberikan utangnya kepada si penghutang itu sendiri?"
+]
+},
+{
+"pos_id": "Page_V01P402",
+"neg_id": "Page_V01P413",
+"tipe_1": [
+"Status wakaf bangunan masjid",
+"Keabsahan niat wakaf khusus"
+],
+"tipe_2": [
+"Apakah sebuah bangunan otomatis menjadi masjid hanya dengan ucapan 'saya jadikan tempat ini sebagai masjid'?",
+"Bolehkah kita mengambil kembali tanah yang sudah secara resmi kita nyatakan sebagai wakaf untuk shalat?",
+"Apa syarat agar sebuah ruangan di dalam rumah pribadi bisa dianggap memiliki status hukum sebagai masjid?"
+]
+},
+{
+"pos_id": "Page_V01P172",
+"neg_id": "Page_V01P192",
+"tipe_1": [
+"Kesunnahan mengulang shalat fardhu",
+"Syarat i'adah shalat"
+],
+"tipe_2": [
+"Bolehkah kita melakukan shalat dhuhur untuk kedua kalinya dalam satu waktu yang sama?",
+"Apa alasan yang diperbolehkan bagi seseorang untuk mengulangi shalat fardhu yang sudah ia kerjakan?",
+"Apakah boleh mengulang shalat berjamaah jika shalat pertama yang dilakukan hanya sendirian?"
+]
+},
+{
+"pos_id": "Page_V01P373",
+"neg_id": "Page_V01P428",
+"tipe_1": [
+"Syarat izin transaksi dalam syirkah",
+"Larangan bepergian membawa modal usaha"
+],
+"tipe_2": [
+"Bolehkah salah satu anggota kongsi dagang menjual barang dengan harga murah tanpa sepengetahuan temannya?",
+"Apa syaratnya agar seseorang yang bekerja sama dalam modal usaha boleh membawa uang modalnya bepergian?",
+"Bolehkah kita melakukan perdagangan menggunakan uang modal bersama jika tidak ada kesepakatan tertulis sebelumnya?"
+]
+},
+{
+"pos_id": "Page_V01P200",
+"neg_id": "Page_V01P448",
+"tipe_1": [
+"Rukun khutbah jumat",
+"Lafadz shalawat dalam khutbah"
+],
+"tipe_2": [
+"Apa saja hal yang harus dibaca oleh seorang khatib agar khutbah jumatnya dianggap sah?",
+"Bolehkah khatib jumat hanya mengucapkan salam saja tanpa membaca shalawat kepada Nabi Muhammad?",
+"Apakah sah khutbah jumat jika khatibnya tidak berpesan kepada jamaah untuk bertaqwa kepada Allah?"
+]
+},
+{
+"pos_id": "Page_V01P439",
+"neg_id": "Page_V01P440",
+"tipe_1": [
+"Prinsip bagi waris laki-laki perempuan",
+"Asal masalah dalam ilmu faraidh"
+],
+"tipe_2": [
+"Bagaimana aturan pembagian warisan jika ahli warisnya terdiri dari anak laki-laki dan anak perempuan?",
+"Berapa perbandingan jumlah harta yang diterima saudara laki-laki dibanding dengan saudara perempuannya?",
+"Bagaimana cara menghitung angka dasar pembagi warisan jika ada ahli waris yang mendapatkan bagian setengah?"
+]
+}
+]
+[
+{
+"pos_id": "Page_V01P456",
+"neg_id": "Page_V01P488",
+"tipe_1": [
+"Hukum nikah anak zina",
+"Validitas pengakuan nasab ayah"
+],
+"tipe_2": [
+"Bolehkah seorang pria menikahi anak perempuan yang lahir dari hubungan zina dirinya sendiri?",
+"Apakah pernikahan otomatis batal jika ayah dari suami mengklaim bahwa menantunya adalah anaknya sendiri?",
+"Bagaimana status hubungan antara seorang pria dengan anak perempuan yang ia ciptakan dari hasil perbuatan dosa zina?"
+]
+},
+{
+"pos_id": "Page_V01P619",
+"neg_id": "Page_V01P616",
+"tipe_1": [
+"Kewajiban perlakuan adil hakim",
+"Kesaksian hakim atas putusan sendiri"
+],
+"tipe_2": [
+"Apakah seorang hakim diperbolehkan untuk membedakan tempat duduk atau perlakuan antara dua orang yang sedang bersengketa?",
+"Bolehkah seorang hakim memberikan kesaksian di pengadilan lain mengenai keputusan yang pernah ia buat sendiri?",
+"Apa hukumnya jika seorang hakim mengakui secara lisan tentang sebuah putusan hukum namun ia sudah tidak lagi menjabat?"
+]
+},
+{
+"pos_id": "Page_V01P443",
+"neg_id": "Page_V01P523",
+"tipe_1": [
+"Prosedur kepemilikan barang temuan",
+"Opsi ملتقط terhadap barang busuk"
+],
+"tipe_2": [
+"Apa yang harus dilakukan jika kita menemukan makanan yang cepat basi seperti buah-buahan di jalan?",
+"Berapa lama waktu yang dibutuhkan untuk mengumumkan barang temuan berupa uang sebelum kita boleh memilikinya?",
+"Bolehkah seseorang langsung memakan makanan yang ia temukan di jalan jika ia khawatir makanan tersebut akan segera rusak?"
+]
+},
+{
+"pos_id": "Page_V01P256",
+"neg_id": "Page_V01P432",
+"tipe_1": [
+"Pembagian zakat untuk kerabat",
+"Zakat mualaf kerabat imam"
+],
+"tipe_2": [
+"Bolehkah seorang imam atau pemimpin membagikan dana zakat secara tidak merata kepada orang-orang yang berhak?",
+"Apa hukumnya jika dana zakat diberikan kepada keluarga dekat yang sebenarnya bukan termasuk golongan penerima zakat?",
+"Bagaimana cara membagi harta zakat jika salah satu golongan penerima zakat tidak ditemukan di daerah tersebut?"
+]
+},
+{
+"pos_id": "Page_V01P057",
+"neg_id": "Page_V01P058",
+"tipe_1": [
+"Hukum mengusap air wudhu dengan handuk",
+"Larangan bicara saat berwudhu"
+],
+"tipe_2": [
+"Apakah boleh kita mengeringkan sisa air wudhu pada wajah dan tangan menggunakan handuk atau kain?",
+"Bagaimana hukumnya jika seseorang berbicara dengan orang lain saat ia sedang membasuh anggota wudhunya?",
+"Apakah kita tetap disunnahkan untuk menghadap kiblat selama proses melakukan ibadah wudhu?"
+]
+},
+{
+"pos_id": "Page_V01P531",
+"neg_id": "Page_V01P524",
+"tipe_1": [
+"Status talak setelah iddah",
+"Hukum rujuk setelah masa tunggu habis"
+],
+"tipe_2": [
+"Apakah seorang suami masih bisa merujuk istrinya jika masa iddah atau masa tunggu sang istri sudah berakhir?",
+"Bagaimana status hukum jika suami mengucapkan kata talak kepada mantan istrinya yang masa iddahnya baru saja habis?",
+"Apakah hubungan suami istri otomatis terputus total sehingga tidak bisa rujuk lagi jika masa suci ketiga telah lewat?"
+]
+},
+{
+"pos_id": "Page_V01P298",
+"neg_id": "Page_V01P304",
+"tipe_1": [
+"Keutamaan ziarah makam Nabi",
+"Hukum minum air zam-zam"
+],
+"tipe_2": [
+"Apakah orang yang tidak sedang menjalankan ibadah haji tetap disunnahkan untuk berziarah ke makam Rasulullah?",
+"Manakah yang lebih utama antara meminum air zam-zam dengan meminum air dari telaga kautsar menurut sebagian pendapat?",
+"Apakah benar ada anjuran khusus untuk meminum air zam-zam meskipun kita sedang tidak berada dalam kondisi ihram?"
+]
+},
+{
+"pos_id": "Page_V01P081",
+"neg_id": "Page_V01P082",
+"tipe_1": [
+"Najis dimaafkan pada luka",
+"Hukum memencet jerawat saat shalat"
+],
+"tipe_2": [
+"Apakah shalat kita tetap sah jika pakaian kita terkena darah dari luka atau bisul yang pecah dengan sendirinya?",
+"Bagaimana hukumnya jika seseorang sengaja memencet jerawat hingga berdarah banyak lalu ia melaksanakan shalat?",
+"Apakah darah nyamuk atau kutu yang menempel di baju dalam jumlah banyak termasuk najis yang dimaafkan?"
+]
+},
+{
+"pos_id": "Page_V01P068",
+"neg_id": "Page_V01P069",
+"tipe_1": [
+"Urutan mandi wajib sunnah",
+"Hukum kencing sebelum mandi besar"
+],
+"tipe_2": [
+"Apakah kita perlu berwudhu terlebih dahulu sebelum melakukan mandi wajib untuk menghilangkan hadas besar?",
+"Mengapa disunnahkan bagi laki-laki untuk buang air kecil terlebih dahulu sebelum ia melakukan mandi janabah?",
+"Bolehkah seseorang hanya membasuh seluruh tubuhnya saja tanpa melakukan kumur-kumur saat mandi wajib?"
+]
+},
+{
+"pos_id": "Page_V01P206",
+"neg_id": "Page_V01P182",
+"tipe_1": [
+"Keutamaan memakai imamah",
+"Hukum memupuk tanah dengan najis"
+],
+"tipe_2": [
+"Apakah benar bahwa memakai sorban atau ikat kepala saat shalat memiliki keutamaan khusus bagi laki-laki?",
+"Bolehkah kita menggunakan kotoran hewan sebagai pupuk untuk menyuburkan tanaman di kebun kita?",
+"Bagaimana hukumnya merias atau mempercantik makam para wali dan orang shalih menggunakan kain sutra?"
+]
+},
+{
+"pos_id": "Page_V01P571",
+"neg_id": "Page_V01P635",
+"tipe_1": [
+"Hukum membaca kitab tasawuf falsafi",
+"Kekafiran karena mengingkari hal ijma"
+],
+"tipe_2": [
+"Apakah seseorang dianggap keluar dari Islam jika ia mengingkari hal-hal yang sudah disepakati oleh seluruh ulama?",
+"Bolehkah orang awam membaca buku-buku karya tokoh sufi yang bahasanya sulit dipahami dan berisiko salah tafsir?",
+"Apa hukumnya bagi seseorang yang melakukan sujud kepada sesama makhluk hidup dengan maksud menghormat?"
+]
+},
+{
+"pos_id": "Page_V01P225",
+"neg_id": "Page_V01P199",
+"tipe_1": [
+"Shalat jenazah di atas kuburan",
+"Hukum menyalatkan jenazah nabi"
+],
+"tipe_2": [
+"Bolehkah kita melakukan shalat jenazah untuk orang yang sudah dimakamkan jika kita belum sempat menyalatkannya?",
+"Apakah diperbolehkan bagi umat Islam untuk melakukan ibadah shalat jenazah di makam para nabi terdahulu?",
+"Dalam kondisi apa seseorang diperbolehkan melakukan shalat ghaib bagi orang yang sudah meninggal dunia?"
+]
+},
+{
+"pos_id": "Page_V01P651",
+"neg_id": "Page_V01P422",
+"tipe_1": [
+"Kesaksian anak terhadap musuh ayahnya",
+"Dampak permusuhan terhadap validitas saksi"
+],
+"tipe_2": [
+"Apakah kesaksian seorang anak tetap diterima jika ia bersaksi melawan orang yang memusuhi ayahnya?",
+"Bolehkah seseorang menjadi saksi bagi orang lain yang pernah ia tuduh melakukan perbuatan zina?",
+"Bagaimana status kesaksian di pengadilan jika antara saksi dan terdakwa terdapat dendam pribadi?"
+]
+},
+{
+"pos_id": "Page_V01P579",
+"neg_id": "Page_V01P585",
+"tipe_1": [
+"Hak suami menuduh istri zina",
+"Pembuktian lian suami"
+],
+"tipe_2": [
+"Bolehkah suami menuduh istrinya berselingkuh jika ia melihat sendiri istrinya berduaan dengan pria lain?",
+"Apakah suami otomatis terbebas dari hukuman menuduh zina jika istrinya mengakui perbuatannya?",
+"Apa yang harus dilakukan suami jika ia meyakini istrinya hamil bukan dari benihnya sendiri?"
+]
+},
+{
+"pos_id": "Page_V01P412",
+"neg_id": "Page_V01P130",
+"tipe_1": [
+"Hak tempat di masjid untuk belajar",
+"Hukum memindahkan barang orang di masjid"
+],
+"tipe_2": [
+"Apakah seseorang kehilangan hak atas tempat duduknya di masjid jika ia pergi sebentar untuk mengambil wudhu?",
+"Bolehkah kita menempati tempat yang biasa digunakan oleh seorang guru untuk mengajar jika ia belum datang?",
+"Bagaimana aturan bagi orang yang ingin memesan tempat di masjid untuk kepentingan belajar Al-Qur'an?"
+]
+},
+{
+"pos_id": "Page_V01P257",
+"neg_id": "Page_V01P273",
+"tipe_1": [
+"Keutamaan sedekah air minum",
+"Perbandingan pahala sedekah dan wakaf"
+],
+"tipe_2": [
+"Manakah yang lebih besar pahalanya, memberikan makanan kepada orang lapar atau memberikan air minum?",
+"Apakah lebih utama memberikan sumbangan uang secara langsung atau menjadikannya sebagai harta wakaf?",
+"Kapan waktu yang paling utama bagi seseorang untuk mengeluarkan harta guna bersedekah kepada orang lain?"
+]
+},
+{
+"pos_id": "Page_V01P544",
+"neg_id": "Page_V01P545",
+"tipe_1": [
+"Gugurnya nafkah karena istri nusyuz",
+"Sengketa pengakuan istri melayani suami"
+],
+"tipe_2": [
+"Apakah suami boleh berhenti memberi nafkah jika istrinya keluar rumah tanpa izin untuk urusan pribadi?",
+"Siapa yang harus dipercaya jika istri mengaku sudah melayani suami tapi suami membantahnya untuk tidak bayar nafkah?",
+"Apakah hak nafkah istri hilang jika ia menolak diajak berhubungan oleh suaminya tanpa alasan yang jelas?"
+]
+},
+{
+"pos_id": "Page_V01P134",
+"neg_id": "Page_V01P137",
+"tipe_1": [
+"Sujud sahwi karena lupa tasyahud awal",
+"Jumlah sujud sahwi"
+],
+"tipe_2": [
+"Berapa kali kita harus melakukan sujud sahwi jika kita banyak melakukan kesalahan dalam satu shalat?",
+"Apakah kita perlu melakukan sujud sahwi jika secara tidak sengaja melewati duduk tahiyat pertama?",
+"Kapan waktu yang paling tepat untuk melakukan sujud sahwi, sebelum atau sesudah salam?"
+]
+},
+{
+"pos_id": "Page_V01P522",
+"neg_id": "Page_V01P526",
+"tipe_1": [
+"Masa iddah janda ditinggal mati",
+"Hukum iddah wanita tidak haid"
+],
+"tipe_2": [
+"Berapa lama seorang wanita harus menunggu sebelum boleh menikah lagi setelah suaminya meninggal dunia?",
+"Bagaimana cara menghitung masa iddah bagi seorang istri yang dicerai namun ia sudah tidak mengalami haid lagi?",
+"Apakah wanita yang ditinggal mati suaminya tetap wajib melakukan masa tunggu meskipun ia belum pernah berhubungan?"
+]
+},
+{
+"pos_id": "Page_V01P486",
+"neg_id": "Page_V01P540",
+"tipe_1": [
+"Hak istri menahan diri sebelum mahar tunai",
+"Kesunnahan mahar perak"
+],
+"tipe_2": [
+"Bolehkah seorang istri menolak diajak berhubungan jika suami belum membayar mahar yang dijanjikan secara tunai?",
+"Apakah ada anjuran khusus untuk memberikan mas kawin dalam bentuk perak bagi pasangan yang menikah?",
+"Berapa jumlah minimal dan maksimal mahar yang disarankan agar pernikahan mendapatkan keberkahan?"
+]
+},
+{
+"pos_id": "Page_V01P513",
+"neg_id": "Page_V01P510",
+"tipe_1": [
+"Hukum talak lewat tulisan surat",
+"Validitas pengakuan niat dalam talak tertulis"
+],
+"tipe_2": [
+"Apakah jatuh talak jika seorang suami menulis kata cerai di secarik kertas namun ia tidak berniat menceraikan?",
+"Bagaimana hukumnya jika suami mengaku hanya iseng menulis surat cerai padahal kalimatnya sangat jelas?",
+"Bolehkah hakim mempercayai sumpah suami yang membantah niat cerai dalam pesan singkat yang dikirimnya?"
+]
+},
+{
+"pos_id": "Page_V01P614",
+"neg_id": "Page_V01P558",
+"tipe_1": [
+"Kewajiban mengikuti satu madzhab",
+"Hukum berpindah madzhab bagi orang awam"
+],
+"tipe_2": [
+"Apakah orang biasa seperti kita wajib menetapkan diri pada satu madzhab tertentu dalam beribadah?",
+"Bolehkah kita mengambil pendapat yang paling mudah dari berbagai madzhab yang berbeda-beda?",
+"Apa syaratnya jika seseorang ingin berpindah dari madzhab Syafii ke madzhab lainnya dalam suatu masalah?"
+]
+}
+]
+[
+{
+"pos_id": "Page_V01P662",
+"neg_id": "Page_V01P131",
+"tipe_1": [
+"Hukum sumpah dengan mushaf",
+"Sumpah menggunakan nama selain Allah"
+],
+"tipe_2": [
+"Apakah sah jika saya bersumpah demi Al-Qur'an?",
+"Bagaimana hukumnya bersumpah demi Ka'bah atau Nabi?",
+"Jika saya bilang 'Demi Allah' tapi dalam hati tidak niat sumpah apakah tetap kena hukum?"
+]
+},
+{
+"pos_id": "Page_V01P128",
+"neg_id": "Page_V01P153",
+"tipe_1": [
+"Hukum mengeraskan doa di masjid",
+"Larangan mengganggu jamaah shalat"
+],
+"tipe_2": [
+"Bolehkah saya berdoa dengan suara sangat keras di dalam masjid sampai orang lain terganggu?",
+"Bagaimana aturan suara dalam berdoa supaya tidak terlalu keras tapi juga tidak terlalu pelan?",
+"Apakah berdosa jika suara doa kita membuat konsentrasi orang yang sedang shalat terpecah?"
+]
+},
+{
+"pos_id": "Page_V01P359",
+"neg_id": "Page_V01P419",
+"tipe_1": [
+"Syarat sah menjadi wakil nikah",
+"Wakalah dalam akad jual beli"
+],
+"tipe_2": [
+"Bolehkah saya menyuruh orang lain untuk menerima akad nikah atas nama saya?",
+"Apakah seorang budak atau orang yang sering bermaksiat boleh menjadi wakil untuk urusan jual beli?",
+"Bisakah kita mewakilkan urusan cerai kepada orang lain?"
+]
+},
+{
+"pos_id": "Page_V01P314",
+"neg_id": "Page_V01P420",
+"tipe_1": [
+"Penentuan alokasi dana masjid",
+"Wewenang nadzir dalam pembagian harta"
+],
+"tipe_2": [
+"Siapa yang berhak menentukan ke mana uang masjid disalurkan jika tidak ada aturan pastinya?",
+"Apakah pengelola masjid boleh memutuskan sendiri penggunaan uang sumbangan tanpa musyawarah?",
+"Bagaimana hukumnya jika seseorang bernadzar memberi harta khusus untuk Ka'bah?"
+]
+},
+{
+"pos_id": "Page_V01P285",
+"neg_id": "Page_V01P066",
+"tipe_1": [
+"Syarat badal haji orang meninggal",
+"Rukun utama ibadah haji"
+],
+"tipe_2": [
+"Apakah boleh menghajikan orang tua yang sudah meninggal menggunakan uang dari warisannya?",
+"Bagaimana hukumnya menyewa orang lain untuk melaksanakan haji bagi orang yang sedang sakit parah?",
+"Apa saja hal yang wajib dilakukan agar ibadah haji seseorang dianggap sah?"
+]
+},
+{
+"pos_id": "Page_V01P435",
+"neg_id": "Page_V01P489",
+"tipe_1": [
+"Pembagian waris anak perempuan tunggal",
+"Jatah warisan ibu dan bapak"
+],
+"tipe_2": [
+"Berapa bagian harta yang didapatkan seorang ibu jika anaknya yang meninggal tidak punya anak atau saudara?",
+"Kalau suami meninggal dan punya anak, istri dapat berapa bagian dari hartanya?",
+"Siapa saja ahli waris yang berhak mendapatkan jatah seperenam dari harta peninggalan?"
+]
+},
+{
+"pos_id": "Page_V01P233",
+"neg_id": "Page_V01P232",
+"tipe_1": [
+"Zakat perhiasan simpanan",
+"Hukum zakat emas untuk perhiasan"
+],
+"tipe_2": [
+"Apakah cincin dan kalung emas yang biasa saya pakai setiap hari wajib dizakati?",
+"Bagaimana hukumnya jika saya sengaja menyimpan emas banyak-banyak dengan niat sebagai harta simpanan?",
+"Apakah perhiasan yang saya sewakan kepada orang lain tetap kena wajib zakat?"
+]
+},
+{
+"pos_id": "Page_V01P450",
+"neg_id": "Page_V01P514",
+"tipe_1": [
+"Kriteria memilih calon istri",
+"Keutamaan menikahi wanita perawan"
+],
+"tipe_2": [
+"Mengapa agama menyarankan kita menikahi wanita yang bukan kerabat dekat?",
+"Apa hukumnya menikahi anak perempuan dari seorang pelaku maksiat?",
+"Mana yang lebih baik antara menikahi wanita yang cantik atau wanita yang subur?"
+]
+},
+{
+"pos_id": "Page_V01P564",
+"neg_id": "Page_V01P569",
+"tipe_1": [
+"Syarat kesepadanan hukuman mati",
+"Qishas orang banyak untuk satu nyawa"
+],
+"tipe_2": [
+"Apakah orang kafir tetap dihukum mati jika ia membunuh seorang muslim?",
+"Bolehkah sekelompok orang dihukum mati semua karena mereka bersama-sama membunuh satu orang?",
+"Bagaimana hukumnya jika pelaku pembunuhan mengaku sedang gila saat melakukan aksinya?"
+]
+},
+{
+"pos_id": "Page_V01P156",
+"neg_id": "Page_V01P228",
+"tipe_1": [
+"Doa setelah adzan dan iqamah",
+"Sunnah menjawab tathwib subuh"
+],
+"tipe_2": [
+"Apa yang harus kita ucapkan setelah mendengar seruan adzan selesai berkumandang?",
+"Bagaimana cara menjawab kalimat shalat itu lebih baik daripada tidur saat adzan subuh?",
+"Apakah kita disunnahkan membaca shalawat nabi setiap kali adzan selesai?"
+]
+},
+{
+"pos_id": "Page_V01P254",
+"neg_id": "Page_V01P348",
+"tipe_1": [
+"Hukum istri bayar zakat ke suami",
+"Penerima zakat kategori mampu"
+],
+"tipe_2": [
+"Bolehkah seorang istri memberikan uang zakatnya sendiri kepada suaminya yang sedang butuh?",
+"Apakah orang yang sudah punya rumah tetap boleh menerima zakat jika ia sedang dalam perjalanan jauh?",
+"Bagaimana hukumnya menerima zakat padahal kita tidak termasuk golongan orang miskin?"
+]
+},
+{
+"pos_id": "Page_V01P217",
+"neg_id": "Page_V01P220",
+"tipe_1": [
+"Syarat kedalaman lubang kubur",
+"Hukum kain sutra untuk pembungkus jenazah"
+],
+"tipe_2": [
+"Seberapa dalamkah kita harus menggali kuburan agar bau jenazah tidak keluar?",
+"Bolehkah kita menggunakan kain sutra untuk menutup keranda jenazah perempuan?",
+"Apa kriteria liang lahat yang dianggap sah menurut syariat Islam?"
+]
+},
+{
+"pos_id": "Page_V01P566",
+"neg_id": "Page_V01P596",
+"tipe_1": [
+"Macam-macam jenis unta untuk diyat",
+"Denda pembunuhan di bulan haram"
+],
+"tipe_2": [
+"Berupa apa denda yang harus dibayar jika seseorang membunuh di dalam kota Mekkah?",
+"Siapakah yang wajib menanggung denda jika terjadi pembunuhan yang tidak disengaja?",
+"Bagaimana cara membedakan denda antara pembunuhan berencana dengan yang salah sasaran?"
+]
+},
+{
+"pos_id": "Page_V01P329",
+"neg_id": "Page_V01P480",
+"tipe_1": [
+"Batas waktu khiyar majelis",
+"Penyebab gugurnya hak pembatalan jual beli"
+],
+"tipe_2": [
+"Kapan batas terakhir saya boleh membatalkan pembelian barang saat masih di dalam toko?",
+"Apakah transaksi otomatis sah jika salah satu pihak sudah keluar dari ruangan kesepakatan?",
+"Apa yang dimaksud dengan berpisah badan sebagai tanda selesainya masa tawar-menawar?"
+]
+},
+{
+"pos_id": "Page_V01P655",
+"neg_id": "Page_V01P507",
+"tipe_1": [
+"Syarat melihat dalam saksi zina",
+"Kesaksian pada akad ucapan"
+],
+"tipe_2": [
+"Apakah sah kesaksian seseorang tentang perzinaan jika ia tidak melihat langsung kejadiannya?",
+"Apa saja syarat yang harus dipenuhi saksi agar keterangannya dianggap benar oleh hakim?",
+"Bolehkah orang yang baru bertaubat dari dosa besar langsung menjadi saksi di pengadilan?"
+]
+},
+{
+"pos_id": "Page_V01P556",
+"neg_id": "Page_V01P490",
+"tipe_1": [
+"Urutan hak asuh anak kecil",
+"Syarat ibu mendapat hadhanah"
+],
+"tipe_2": [
+"Siapa yang paling berhak menjaga anak yang masih kecil jika orang tuanya bercerai?",
+"Jika ibu sudah menikah lagi dengan orang lain, kepada siapa hak asuh anak berpindah?",
+"Apakah kakek dan nenek punya hak untuk mengambil cucunya dari tangan orang tua?"
+]
+},
+{
+"pos_id": "Page_V01P497",
+"neg_id": "Page_V01P143",
+"tipe_1": [
+"Jatah malam istri baru perawan",
+"Aturan pembagian malam istri banyak"
+],
+"tipe_2": [
+"Berupa apa jatah waktu yang diberikan khusus untuk istri yang baru saja dinikahi?",
+"Apakah suami boleh tinggal lebih lama di rumah istri yang baru daripada istri yang lama?",
+"Bagaimana aturan menginap bagi pria yang memiliki lebih dari satu orang istri?"
+]
+},
+{
+"pos_id": "Page_V01P202",
+"neg_id": "Page_V01P320",
+"tipe_1": [
+"Rukun khutbah jumat syafiiyah",
+"Syarat sah rukun qauli khutbah"
+],
+"tipe_2": [
+"Apakah sah khutbah jumat jika khatibnya tidak berdiri saat menyampaikan pesan?",
+"Bolehkah khutbah jumat dilakukan oleh orang yang sedang tidak memiliki wudhu?",
+"Apa hukumnya jika jamaah jumat tidak mendengar suara khatib karena suasana yang bising?"
+]
+},
+{
+"pos_id": "Page_V01P445",
+"neg_id": "Page_V01P158",
+"tipe_1": [
+"Batas pandangan suami istri",
+"Anjuran nikah bagi pemuda"
+],
+"tipe_2": [
+"Bolehkah suami dan istri saling melihat seluruh bagian tubuh satu sama lain?",
+"Apa saran bagi orang yang sangat ingin menikah namun belum punya biaya untuk mahar?",
+"Mengapa agama sangat menganjurkan umatnya untuk segera melangsungkan pernikahan?"
+]
+},
+{
+"pos_id": "Page_V01P411",
+"neg_id": "Page_V01P236",
+"tipe_1": [
+"Hak penghasilan harta wakaf",
+"Pembagian keuntungan wakaf"
+],
+"tipe_2": [
+"Apakah pengelola wakaf tetap mendapatkan gaji jika ia sedang sakit dan tidak bisa bekerja?",
+"Siapakah yang paling berhak menggunakan uang hasil panen dari kebun yang sudah diwakafkan?",
+"Bagaimana hukumnya jika penerima wakaf menyuruh orang lain untuk menggantikan tugasnya?"
+]
+},
+{
+"pos_id": "Page_V01P093",
+"neg_id": "Page_V01P095",
+"tipe_1": [
+"Niat shalat fardhu dan sunnah",
+"Kesunahan melafalkan niat"
+],
+"tipe_2": [
+"Hal apa saja yang harus ada di dalam hati saat kita mulai melakukan takbiratul ihram?",
+"Apakah kita wajib menyebutkan jumlah rakaat saat sedang berniat untuk shalat?",
+"Mengapa kita disunnahkan untuk menyertakan kalimat 'karena Allah' di dalam niat shalat kita?"
+]
+}
+]
