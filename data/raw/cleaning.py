@@ -47,8 +47,8 @@ def load_and_clean_corpus(folder_path):
             doc_id = filename.replace('.txt', '')
             
             corpus_data.append({
-                "doc_no": doc_id,
-                "text_arabic": clean_content
+                "docno": doc_id,
+                "text": clean_content
             })
     
     return pd.DataFrame(corpus_data)

@@ -9,7 +9,7 @@ from rank_bm25 import BM25Okapi
 # ============================================
 print("Memuat data dan inisialisasi BM25...")
 # Pastikan path ini sesuai dengan struktur direktori Kaggle Anda
-df_docs = pd.read_csv('../data/raw/fathul_muin.csv')
+df_docs = pd.read_csv('data/raw/fathul_muin.csv')
 
 # Tokenisasi sederhana untuk BM25
 tokenized_corpus = [str(doc).split() for doc in df_docs['text']]
