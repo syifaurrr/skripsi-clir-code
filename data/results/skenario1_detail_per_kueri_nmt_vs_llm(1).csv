@@ -1,0 +1,205 @@
+name,qid,query_type,query,rank_ditemukan,Hit@10,Hit@20,Hit@50,Hit@100
+BM25 (Gemini LLM),1,1,Memakai gamis saat ihram,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),4,1,Syarat-syarat penerima zakat,20,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),7,1,Barang belum diterima sudah dijual kembali,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),10,1,Kewajiban orang yang ghasab,2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),13,1,Penetapan awal bulan ramadhan ,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),16,1,Syarat wajib puasa,9,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),19,1, syarat barang yang sah disewakan,63,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+BM25 (Gemini LLM),22,1,mabuk perjalanan saat berpuasa,Tidak Ketemu,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25 (Gemini LLM),25,1,barang yang tidak boleh dipinjamkan,92,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+BM25 (Gemini LLM),28,1,jual beli dengan ijab qabul main-main,3,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),31,1,menjual pupuk kandang,14,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),34,1,berhutang untuk maksiat,Tidak Ketemu,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25 (Gemini LLM),37,1,menggadaikan barang pinjaman ,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),40,1,hantaran lamaran ,12,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),43,1,wasiatnya anak kecil,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),46,1,melihat kelamin perempuan yang belum baligh,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),49,1,mahar tidak disebutkan ketika akad nikah,6,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),2,2,Apa denda bagi orang yang melakukan perbuatan yang diharamkan ketika haji?,2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),5,2,Apa hukum memberikan zakat kepada orang kafir?,6,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),8,2,kapan pembeli dianggap menerima rumah yang ia beli?,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),11,2,hukum menggunakan barang orang lain tanpa izin,521,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25 (Gemini LLM),14,2,Kapan pertama kali puasa ramadhan diwajibkan dalam Islam?,6,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),17,2,Mengapa wanita yang sedang haid atau nifas dilarang untuk berpuasa?,3,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),20,2,Bolehkah menyewa seseorang hanya untuk menawarkan barang dagangan?,4,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),23,2,apakah mimpi basah dapat membatalkan puasa?,13,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),26,2,apa yang menjadi tanggung jawab peminjam saat barang pinjaman rusak?,2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),29,2,mengapa pada jual beli harus ada akad?,47,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25 (Gemini LLM),32,2,apa hukum membeli barang yang belum pernah dilihat oleh pembeli?,23,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25 (Gemini LLM),35,2,mana yang lebih utama antara memberikan hutang atau bersedekah?,2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),38,2,apakah bisa orang tua menggadaikan harta anaknya?,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),41,2,bolehkan menerima pemberian dari orang yang telah kita selamatkan?,8,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),44,2,berapa batas maksimal wasiat?,280,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25 (Gemini LLM),47,2,apakah suara perempuan termasuk aurat?,121,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25 (Gemini LLM),50,2,bagaimana jika salah menyebutkan nama calon istri ketika qabul nikah?,22,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25 (Gemini LLM),3,3,"Rehan sedang melaksanakan ibadah haji, namun ditengah pelaksanaan ibadah haji, ia kehilangan pakaian ihramnya dan tidak menemukan apapun selain pakaian yang berjahit, apakah ia terkena sanksi?",15,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),6,3,"Fikri adalah panitia penerima dan penyalur zakat di desanya, suatu hari ia memberikan zakat kepada seorang fakir yang dikemudian hari diketahui masih memiliki anak yang mampu menafkahinya, apakah penyaluran zakat tersebut sudah sah?",6,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),9,3,"Diyah membeli telur sebanyak 1 kg untuk keperluan membuat roti, saat penjual menyerahkan telur yang berada di kresek, penjual tidak sengaja menjatuhkannya sebelum Diyah benar-benar menerimanya, dalam kondisi seperti itu siapa yang menanggung kerugiannya?  ",4,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),12,3,"Di dalam kereta api jarak jauh, seorang penumpang ilegal yang tidak memiliki tiket tempat duduk, mengusir penumpang yang sudah duduk sesuai nomor kursinya lalu mengambil alih kursinya, apa status perbuatan yang dilakukannya? ",44,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25 (Gemini LLM),15,3,"Para ahli astronomi di Cina - yang mayoritas beragama non muslim- mengaku telah melihat bulan baru, kabar tersebut dengan cepat tersebar kepada penduduk Cina yang beragama Islam, dapatkah informasi tersebut dijadikan dasar penetapan awal bulan?",1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),18,3,"Seorang Muslim makan sahur dengan tujuan agar kuat berpuasa, namun ia lupa melintaskan niat puasa wajib di hatinya, apakah puasanya sah?",1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),21,3,"seorang kiai langgaran diminta membantu proses akad nikah dengan membimbing calon suami untuk malafalkan qabul nikah berbahasa arab, setelah akad selesai kiai ini meminta sejumlah uang sebagai imbalan atas jasa tersebut, bagaimana status pengambilan upah dalam kasus ini?",3,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),24,3,"Karena masih dalam masa pengantin baru, Mas Jiko tidak dapat menahan diri untuk terus menciumi istrinya saat sedang berpuasa ramadan hingga keluar mani, apakah puasanya tetap sah ? ",48,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25 (Gemini LLM),27,3,"Dana dan Dono  adalah kakak beradik yang usianya terlampau jauh, saat ini Dana berusia 28 tahun sedangkan Dono masih berusia 8 tahun. suatu hari Dana menyuruh adiknya, Dono, untuk meminjam kamera kepada paman mereka. Dono pun berhasil mendapatkan kamera itu dari pamannya, saat perjalanan kembali, kamera itu terjatuh dan rusak. Dalam kondisi seperti ini, siapa yang bertanggungjawab atas kerusakan tersebut?",98,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+BM25 (Gemini LLM),30,3," Sekolah SMP Harapan Bangsa menerapkan konsep Kantin Kejujuran untuk membentuk karakter siswa menjadi pribadi yang jujur. kantin ini menyediakan seluruh kebutuhan siswa dengan disertai harga yang tercantum jelas di daftarnya. para siswa cukup meletakkan sejumlah uang yang seharga barang yang dibeli pada tempat yang telah disediakan. kondisi ini menimbukan kekhawatiran tentang apakah jual beli yang mereka lakukan sah, padahal tidak ada ijab dan qabul di dalamnya?",81,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+BM25 (Gemini LLM),33,3,"seorang petani muda menjual hasil panen gabahnya kepada pengepul. Ia hanya memperihatkan sebagian gabah sebagai contoh untuk meyakinkan pembeli tentang kualitasnya, sementara sisa gabahnya tetap berada dalam karung-karung yang tertutup rapat. dalam hal ini apakah jual beli tersebut sah?",2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Gemini LLM),36,3,"sebut saja nama Toni, dia adalah seorang saudagar sukses yang telah punya banyak pengalaman dibidang jual beli properti. suatu hari, Toni kedatangan teman lama yang senang bermain slot atau judi online bernama Joko. tujuan Joko kemudian diketahui ingin berhutang sebanyak 15 juta dan berjanji akan membayarnya seminggu kemudian. apakah Toni boleh memberikan hutang kepada Joko ketika ada kemungkinan besar Joko tidak akan membayarnya?",291,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25 (Gemini LLM),39,3,"karena pertumbuhan penduduk sangat cepat, sebuah desa ingin merenovasi masjid menjadi dua lantai, yang jika dihitung-hitung menghabiskan biaya cukup besar. setelah melakukan muysawarah, biaya ini kemudian diambil dari kas masjid serta sumbangan masyarakat. Selain itu, muncul keinginan untuk menggadaikan sawah wakaf sebagai tambahan biaya renovasi. apakah tindakan ini diperbolehkan? ",132,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25 (Gemini LLM),42,3,"Rafi melamar seorang perempuan yang sangat ia cintai. Sebagai bentuk keseriusannya, ia menyerahkan uang sebanyak 10 juta rupiah dan berbagai bingkisan lainnya kepada calon istri melalui walinya. namun kenyataan pahit harus diterima Rafi, cinta Rafi bertepuk sebelah tangan. calon istri ternyata sudah memiliki calon yang lebih pantas menurutnya. apakah Rafi berhak meminta uang dan bingkisan yang telah ia berikan?",41,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25 (Gemini LLM),45,3,"Hasan adalah pengusaha makanan cepat saji yang sedang sakit keras. Harta yang dimilikinya sekitar 15 Milyar. Ia ingin menyerahkan sebagian hartanya untuk pembangunan masjid di desanya.  Dalam surat wasiatnya, Hasan menyerahkan sebanyak 7,5 Milyar untuk diserahkan ke masjid. apakah wasiat seperti ini dapat dilaksanakan atau ada batasan tertentu?",77,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+BM25 (Gemini LLM),48,3,"Rahmat sedang mendatangi acara walimah saudara laki-lakinya, tanpa sengaja ia duduk di depan seorang gadis non mahram. merasa ada kesempatan ia memadangi gadis ini berulang kali, meskipun tidak ada kebutuhan mendesak untuk melihatnya. dalam kondisi seperti ini bagaimana status pandangan Rahmat menurut hukum?",32,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25 (Gemini LLM),51,3,"Hartono menikahi Lim, dengan dihadiri oleh wali dan dua orang saksi, namun setelah akad nikah berlangsung Lim mengaku belum meyelesaikan masa iddah dari pernikahan sebelumnya. bagaimana status akad nikah yang dilakukan oleh Hartono?",25,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25 (Google NMT),1,1,Memakai gamis saat ihram,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Google NMT),4,1,Syarat-syarat penerima zakat,20,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+BM25 (Google NMT),7,1,Barang belum diterima sudah dijual kembali,78,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+BM25 (Google NMT),10,1,Kewajiban orang yang ghasab,Tidak Ketemu,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25 (Google NMT),13,1,Penetapan awal bulan ramadhan ,3,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Google NMT),16,1,Syarat wajib puasa,Tidak Ketemu,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25 (Google NMT),19,1, syarat barang yang sah disewakan,4,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Google NMT),22,1,mabuk perjalanan saat berpuasa,Tidak Ketemu,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25 (Google NMT),25,1,barang yang tidak boleh dipinjamkan,516,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25 (Google NMT),28,1,jual beli dengan ijab qabul main-main,22,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25 (Google NMT),31,1,menjual pupuk kandang,21,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25 (Google NMT),34,1,berhutang untuk maksiat,Tidak Ketemu,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25 (Google NMT),37,1,menggadaikan barang pinjaman ,6,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Google NMT),40,1,hantaran lamaran ,Tidak Ketemu,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25 (Google NMT),43,1,wasiatnya anak kecil,Tidak Ketemu,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25 (Google NMT),46,1,melihat kelamin perempuan yang belum baligh,29,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25 (Google NMT),49,1,mahar tidak disebutkan ketika akad nikah,20,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+BM25 (Google NMT),2,2,Apa denda bagi orang yang melakukan perbuatan yang diharamkan ketika haji?,381,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25 (Google NMT),5,2,Apa hukum memberikan zakat kepada orang kafir?,21,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25 (Google NMT),8,2,kapan pembeli dianggap menerima rumah yang ia beli?,12,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+BM25 (Google NMT),11,2,hukum menggunakan barang orang lain tanpa izin,6,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Google NMT),14,2,Kapan pertama kali puasa ramadhan diwajibkan dalam Islam?,16,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+BM25 (Google NMT),17,2,Mengapa wanita yang sedang haid atau nifas dilarang untuk berpuasa?,282,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25 (Google NMT),20,2,Bolehkah menyewa seseorang hanya untuk menawarkan barang dagangan?,44,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25 (Google NMT),23,2,apakah mimpi basah dapat membatalkan puasa?,11,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+BM25 (Google NMT),26,2,apa yang menjadi tanggung jawab peminjam saat barang pinjaman rusak?,2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Google NMT),29,2,mengapa pada jual beli harus ada akad?,33,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25 (Google NMT),32,2,apa hukum membeli barang yang belum pernah dilihat oleh pembeli?,24,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25 (Google NMT),35,2,mana yang lebih utama antara memberikan hutang atau bersedekah?,Tidak Ketemu,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25 (Google NMT),38,2,apakah bisa orang tua menggadaikan harta anaknya?,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Google NMT),41,2,bolehkan menerima pemberian dari orang yang telah kita selamatkan?,170,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25 (Google NMT),44,2,berapa batas maksimal wasiat?,280,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25 (Google NMT),47,2,apakah suara perempuan termasuk aurat?,68,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+BM25 (Google NMT),50,2,bagaimana jika salah menyebutkan nama calon istri ketika qabul nikah?,14,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+BM25 (Google NMT),3,3,"Rehan sedang melaksanakan ibadah haji, namun ditengah pelaksanaan ibadah haji, ia kehilangan pakaian ihramnya dan tidak menemukan apapun selain pakaian yang berjahit, apakah ia terkena sanksi?",57,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+BM25 (Google NMT),6,3,"Fikri adalah panitia penerima dan penyalur zakat di desanya, suatu hari ia memberikan zakat kepada seorang fakir yang dikemudian hari diketahui masih memiliki anak yang mampu menafkahinya, apakah penyaluran zakat tersebut sudah sah?",1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Google NMT),9,3,"Diyah membeli telur sebanyak 1 kg untuk keperluan membuat roti, saat penjual menyerahkan telur yang berada di kresek, penjual tidak sengaja menjatuhkannya sebelum Diyah benar-benar menerimanya, dalam kondisi seperti itu siapa yang menanggung kerugiannya?  ",38,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25 (Google NMT),12,3,"Di dalam kereta api jarak jauh, seorang penumpang ilegal yang tidak memiliki tiket tempat duduk, mengusir penumpang yang sudah duduk sesuai nomor kursinya lalu mengambil alih kursinya, apa status perbuatan yang dilakukannya? ",569,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25 (Google NMT),15,3,"Para ahli astronomi di Cina - yang mayoritas beragama non muslim- mengaku telah melihat bulan baru, kabar tersebut dengan cepat tersebar kepada penduduk Cina yang beragama Islam, dapatkah informasi tersebut dijadikan dasar penetapan awal bulan?",1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Google NMT),18,3,"Seorang Muslim makan sahur dengan tujuan agar kuat berpuasa, namun ia lupa melintaskan niat puasa wajib di hatinya, apakah puasanya sah?",1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25 (Google NMT),21,3,"seorang kiai langgaran diminta membantu proses akad nikah dengan membimbing calon suami untuk malafalkan qabul nikah berbahasa arab, setelah akad selesai kiai ini meminta sejumlah uang sebagai imbalan atas jasa tersebut, bagaimana status pengambilan upah dalam kasus ini?",56,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+BM25 (Google NMT),24,3,"Karena masih dalam masa pengantin baru, Mas Jiko tidak dapat menahan diri untuk terus menciumi istrinya saat sedang berpuasa ramadan hingga keluar mani, apakah puasanya tetap sah ? ",100,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+BM25 (Google NMT),27,3,"Dana dan Dono  adalah kakak beradik yang usianya terlampau jauh, saat ini Dana berusia 28 tahun sedangkan Dono masih berusia 8 tahun. suatu hari Dana menyuruh adiknya, Dono, untuk meminjam kamera kepada paman mereka. Dono pun berhasil mendapatkan kamera itu dari pamannya, saat perjalanan kembali, kamera itu terjatuh dan rusak. Dalam kondisi seperti ini, siapa yang bertanggungjawab atas kerusakan tersebut?",363,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25 (Google NMT),30,3," Sekolah SMP Harapan Bangsa menerapkan konsep Kantin Kejujuran untuk membentuk karakter siswa menjadi pribadi yang jujur. kantin ini menyediakan seluruh kebutuhan siswa dengan disertai harga yang tercantum jelas di daftarnya. para siswa cukup meletakkan sejumlah uang yang seharga barang yang dibeli pada tempat yang telah disediakan. kondisi ini menimbukan kekhawatiran tentang apakah jual beli yang mereka lakukan sah, padahal tidak ada ijab dan qabul di dalamnya?",109,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25 (Google NMT),33,3,"seorang petani muda menjual hasil panen gabahnya kepada pengepul. Ia hanya memperihatkan sebagian gabah sebagai contoh untuk meyakinkan pembeli tentang kualitasnya, sementara sisa gabahnya tetap berada dalam karung-karung yang tertutup rapat. dalam hal ini apakah jual beli tersebut sah?",13,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+BM25 (Google NMT),36,3,"sebut saja nama Toni, dia adalah seorang saudagar sukses yang telah punya banyak pengalaman dibidang jual beli properti. suatu hari, Toni kedatangan teman lama yang senang bermain slot atau judi online bernama Joko. tujuan Joko kemudian diketahui ingin berhutang sebanyak 15 juta dan berjanji akan membayarnya seminggu kemudian. apakah Toni boleh memberikan hutang kepada Joko ketika ada kemungkinan besar Joko tidak akan membayarnya?",256,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25 (Google NMT),39,3,"karena pertumbuhan penduduk sangat cepat, sebuah desa ingin merenovasi masjid menjadi dua lantai, yang jika dihitung-hitung menghabiskan biaya cukup besar. setelah melakukan muysawarah, biaya ini kemudian diambil dari kas masjid serta sumbangan masyarakat. Selain itu, muncul keinginan untuk menggadaikan sawah wakaf sebagai tambahan biaya renovasi. apakah tindakan ini diperbolehkan? ",100,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+BM25 (Google NMT),42,3,"Rafi melamar seorang perempuan yang sangat ia cintai. Sebagai bentuk keseriusannya, ia menyerahkan uang sebanyak 10 juta rupiah dan berbagai bingkisan lainnya kepada calon istri melalui walinya. namun kenyataan pahit harus diterima Rafi, cinta Rafi bertepuk sebelah tangan. calon istri ternyata sudah memiliki calon yang lebih pantas menurutnya. apakah Rafi berhak meminta uang dan bingkisan yang telah ia berikan?",108,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25 (Google NMT),45,3,"Hasan adalah pengusaha makanan cepat saji yang sedang sakit keras. Harta yang dimilikinya sekitar 15 Milyar. Ia ingin menyerahkan sebagian hartanya untuk pembangunan masjid di desanya.  Dalam surat wasiatnya, Hasan menyerahkan sebanyak 7,5 Milyar untuk diserahkan ke masjid. apakah wasiat seperti ini dapat dilaksanakan atau ada batasan tertentu?",16,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+BM25 (Google NMT),48,3,"Rahmat sedang mendatangi acara walimah saudara laki-lakinya, tanpa sengaja ia duduk di depan seorang gadis non mahram. merasa ada kesempatan ia memadangi gadis ini berulang kali, meskipun tidak ada kebutuhan mendesak untuk melihatnya. dalam kondisi seperti ini bagaimana status pandangan Rahmat menurut hukum?",101,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25 (Google NMT),51,3,"Hartono menikahi Lim, dengan dihadiri oleh wali dan dua orang saksi, namun setelah akad nikah berlangsung Lim mengaku belum meyelesaikan masa iddah dari pernikahan sebelumnya. bagaimana status akad nikah yang dilakukan oleh Hartono?",207,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Gemini LLM),1,1,Memakai gamis saat ihram,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),4,1,Syarat-syarat penerima zakat,16,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),7,1,Barang belum diterima sudah dijual kembali,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),10,1,Kewajiban orang yang ghasab,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),13,1,Penetapan awal bulan ramadhan ,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),16,1,Syarat wajib puasa,5,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),19,1, syarat barang yang sah disewakan,12,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),22,1,mabuk perjalanan saat berpuasa,96,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+BM25+RM3 (Gemini LLM),25,1,barang yang tidak boleh dipinjamkan,173,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Gemini LLM),28,1,jual beli dengan ijab qabul main-main,3,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),31,1,menjual pupuk kandang,6,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),34,1,berhutang untuk maksiat,Tidak Ketemu,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Gemini LLM),37,1,menggadaikan barang pinjaman ,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),40,1,hantaran lamaran ,23,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),43,1,wasiatnya anak kecil,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),46,1,melihat kelamin perempuan yang belum baligh,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),49,1,mahar tidak disebutkan ketika akad nikah,9,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),2,2,Apa denda bagi orang yang melakukan perbuatan yang diharamkan ketika haji?,3,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),5,2,Apa hukum memberikan zakat kepada orang kafir?,8,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),8,2,kapan pembeli dianggap menerima rumah yang ia beli?,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),11,2,hukum menggunakan barang orang lain tanpa izin,119,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Gemini LLM),14,2,Kapan pertama kali puasa ramadhan diwajibkan dalam Islam?,4,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),17,2,Mengapa wanita yang sedang haid atau nifas dilarang untuk berpuasa?,9,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),20,2,Bolehkah menyewa seseorang hanya untuk menawarkan barang dagangan?,15,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),23,2,apakah mimpi basah dapat membatalkan puasa?,25,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),26,2,apa yang menjadi tanggung jawab peminjam saat barang pinjaman rusak?,2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),29,2,mengapa pada jual beli harus ada akad?,21,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),32,2,apa hukum membeli barang yang belum pernah dilihat oleh pembeli?,39,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),35,2,mana yang lebih utama antara memberikan hutang atau bersedekah?,2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),38,2,apakah bisa orang tua menggadaikan harta anaknya?,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),41,2,bolehkan menerima pemberian dari orang yang telah kita selamatkan?,3,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),44,2,berapa batas maksimal wasiat?,12,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),47,2,apakah suara perempuan termasuk aurat?,127,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Gemini LLM),50,2,bagaimana jika salah menyebutkan nama calon istri ketika qabul nikah?,50,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),3,3,"Rehan sedang melaksanakan ibadah haji, namun ditengah pelaksanaan ibadah haji, ia kehilangan pakaian ihramnya dan tidak menemukan apapun selain pakaian yang berjahit, apakah ia terkena sanksi?",62,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+BM25+RM3 (Gemini LLM),6,3,"Fikri adalah panitia penerima dan penyalur zakat di desanya, suatu hari ia memberikan zakat kepada seorang fakir yang dikemudian hari diketahui masih memiliki anak yang mampu menafkahinya, apakah penyaluran zakat tersebut sudah sah?",4,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),9,3,"Diyah membeli telur sebanyak 1 kg untuk keperluan membuat roti, saat penjual menyerahkan telur yang berada di kresek, penjual tidak sengaja menjatuhkannya sebelum Diyah benar-benar menerimanya, dalam kondisi seperti itu siapa yang menanggung kerugiannya?  ",6,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),12,3,"Di dalam kereta api jarak jauh, seorang penumpang ilegal yang tidak memiliki tiket tempat duduk, mengusir penumpang yang sudah duduk sesuai nomor kursinya lalu mengambil alih kursinya, apa status perbuatan yang dilakukannya? ",21,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),15,3,"Para ahli astronomi di Cina - yang mayoritas beragama non muslim- mengaku telah melihat bulan baru, kabar tersebut dengan cepat tersebar kepada penduduk Cina yang beragama Islam, dapatkah informasi tersebut dijadikan dasar penetapan awal bulan?",1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),18,3,"Seorang Muslim makan sahur dengan tujuan agar kuat berpuasa, namun ia lupa melintaskan niat puasa wajib di hatinya, apakah puasanya sah?",1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),21,3,"seorang kiai langgaran diminta membantu proses akad nikah dengan membimbing calon suami untuk malafalkan qabul nikah berbahasa arab, setelah akad selesai kiai ini meminta sejumlah uang sebagai imbalan atas jasa tersebut, bagaimana status pengambilan upah dalam kasus ini?",16,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),24,3,"Karena masih dalam masa pengantin baru, Mas Jiko tidak dapat menahan diri untuk terus menciumi istrinya saat sedang berpuasa ramadan hingga keluar mani, apakah puasanya tetap sah ? ",125,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Gemini LLM),27,3,"Dana dan Dono  adalah kakak beradik yang usianya terlampau jauh, saat ini Dana berusia 28 tahun sedangkan Dono masih berusia 8 tahun. suatu hari Dana menyuruh adiknya, Dono, untuk meminjam kamera kepada paman mereka. Dono pun berhasil mendapatkan kamera itu dari pamannya, saat perjalanan kembali, kamera itu terjatuh dan rusak. Dalam kondisi seperti ini, siapa yang bertanggungjawab atas kerusakan tersebut?",116,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Gemini LLM),30,3," Sekolah SMP Harapan Bangsa menerapkan konsep Kantin Kejujuran untuk membentuk karakter siswa menjadi pribadi yang jujur. kantin ini menyediakan seluruh kebutuhan siswa dengan disertai harga yang tercantum jelas di daftarnya. para siswa cukup meletakkan sejumlah uang yang seharga barang yang dibeli pada tempat yang telah disediakan. kondisi ini menimbukan kekhawatiran tentang apakah jual beli yang mereka lakukan sah, padahal tidak ada ijab dan qabul di dalamnya?",201,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Gemini LLM),33,3,"seorang petani muda menjual hasil panen gabahnya kepada pengepul. Ia hanya memperihatkan sebagian gabah sebagai contoh untuk meyakinkan pembeli tentang kualitasnya, sementara sisa gabahnya tetap berada dalam karung-karung yang tertutup rapat. dalam hal ini apakah jual beli tersebut sah?",18,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),36,3,"sebut saja nama Toni, dia adalah seorang saudagar sukses yang telah punya banyak pengalaman dibidang jual beli properti. suatu hari, Toni kedatangan teman lama yang senang bermain slot atau judi online bernama Joko. tujuan Joko kemudian diketahui ingin berhutang sebanyak 15 juta dan berjanji akan membayarnya seminggu kemudian. apakah Toni boleh memberikan hutang kepada Joko ketika ada kemungkinan besar Joko tidak akan membayarnya?",378,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Gemini LLM),39,3,"karena pertumbuhan penduduk sangat cepat, sebuah desa ingin merenovasi masjid menjadi dua lantai, yang jika dihitung-hitung menghabiskan biaya cukup besar. setelah melakukan muysawarah, biaya ini kemudian diambil dari kas masjid serta sumbangan masyarakat. Selain itu, muncul keinginan untuk menggadaikan sawah wakaf sebagai tambahan biaya renovasi. apakah tindakan ini diperbolehkan? ",34,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),42,3,"Rafi melamar seorang perempuan yang sangat ia cintai. Sebagai bentuk keseriusannya, ia menyerahkan uang sebanyak 10 juta rupiah dan berbagai bingkisan lainnya kepada calon istri melalui walinya. namun kenyataan pahit harus diterima Rafi, cinta Rafi bertepuk sebelah tangan. calon istri ternyata sudah memiliki calon yang lebih pantas menurutnya. apakah Rafi berhak meminta uang dan bingkisan yang telah ia berikan?",145,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Gemini LLM),45,3,"Hasan adalah pengusaha makanan cepat saji yang sedang sakit keras. Harta yang dimilikinya sekitar 15 Milyar. Ia ingin menyerahkan sebagian hartanya untuk pembangunan masjid di desanya.  Dalam surat wasiatnya, Hasan menyerahkan sebanyak 7,5 Milyar untuk diserahkan ke masjid. apakah wasiat seperti ini dapat dilaksanakan atau ada batasan tertentu?",30,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),48,3,"Rahmat sedang mendatangi acara walimah saudara laki-lakinya, tanpa sengaja ia duduk di depan seorang gadis non mahram. merasa ada kesempatan ia memadangi gadis ini berulang kali, meskipun tidak ada kebutuhan mendesak untuk melihatnya. dalam kondisi seperti ini bagaimana status pandangan Rahmat menurut hukum?",30,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25+RM3 (Gemini LLM),51,3,"Hartono menikahi Lim, dengan dihadiri oleh wali dan dua orang saksi, namun setelah akad nikah berlangsung Lim mengaku belum meyelesaikan masa iddah dari pernikahan sebelumnya. bagaimana status akad nikah yang dilakukan oleh Hartono?",22,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25+RM3 (Google NMT),1,1,Memakai gamis saat ihram,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Google NMT),4,1,Syarat-syarat penerima zakat,16,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Google NMT),7,1,Barang belum diterima sudah dijual kembali,154,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Google NMT),10,1,Kewajiban orang yang ghasab,113,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Google NMT),13,1,Penetapan awal bulan ramadhan ,4,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Google NMT),16,1,Syarat wajib puasa,108,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Google NMT),19,1, syarat barang yang sah disewakan,10,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Google NMT),22,1,mabuk perjalanan saat berpuasa,Tidak Ketemu,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Google NMT),25,1,barang yang tidak boleh dipinjamkan,553,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Google NMT),28,1,jual beli dengan ijab qabul main-main,42,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25+RM3 (Google NMT),31,1,menjual pupuk kandang,21,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25+RM3 (Google NMT),34,1,berhutang untuk maksiat,Tidak Ketemu,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Google NMT),37,1,menggadaikan barang pinjaman ,3,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Google NMT),40,1,hantaran lamaran ,5,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Google NMT),43,1,wasiatnya anak kecil,Tidak Ketemu,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Google NMT),46,1,melihat kelamin perempuan yang belum baligh,4,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Google NMT),49,1,mahar tidak disebutkan ketika akad nikah,14,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Google NMT),2,2,Apa denda bagi orang yang melakukan perbuatan yang diharamkan ketika haji?,468,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Google NMT),5,2,Apa hukum memberikan zakat kepada orang kafir?,20,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Google NMT),8,2,kapan pembeli dianggap menerima rumah yang ia beli?,3,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Google NMT),11,2,hukum menggunakan barang orang lain tanpa izin,20,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Google NMT),14,2,Kapan pertama kali puasa ramadhan diwajibkan dalam Islam?,6,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Google NMT),17,2,Mengapa wanita yang sedang haid atau nifas dilarang untuk berpuasa?,256,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Google NMT),20,2,Bolehkah menyewa seseorang hanya untuk menawarkan barang dagangan?,58,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+BM25+RM3 (Google NMT),23,2,apakah mimpi basah dapat membatalkan puasa?,43,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25+RM3 (Google NMT),26,2,apa yang menjadi tanggung jawab peminjam saat barang pinjaman rusak?,2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Google NMT),29,2,mengapa pada jual beli harus ada akad?,44,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25+RM3 (Google NMT),32,2,apa hukum membeli barang yang belum pernah dilihat oleh pembeli?,35,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+BM25+RM3 (Google NMT),35,2,mana yang lebih utama antara memberikan hutang atau bersedekah?,292,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Google NMT),38,2,apakah bisa orang tua menggadaikan harta anaknya?,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Google NMT),41,2,bolehkan menerima pemberian dari orang yang telah kita selamatkan?,150,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Google NMT),44,2,berapa batas maksimal wasiat?,12,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Google NMT),47,2,apakah suara perempuan termasuk aurat?,112,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Google NMT),50,2,bagaimana jika salah menyebutkan nama calon istri ketika qabul nikah?,13,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Google NMT),3,3,"Rehan sedang melaksanakan ibadah haji, namun ditengah pelaksanaan ibadah haji, ia kehilangan pakaian ihramnya dan tidak menemukan apapun selain pakaian yang berjahit, apakah ia terkena sanksi?",136,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Google NMT),6,3,"Fikri adalah panitia penerima dan penyalur zakat di desanya, suatu hari ia memberikan zakat kepada seorang fakir yang dikemudian hari diketahui masih memiliki anak yang mampu menafkahinya, apakah penyaluran zakat tersebut sudah sah?",1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Google NMT),9,3,"Diyah membeli telur sebanyak 1 kg untuk keperluan membuat roti, saat penjual menyerahkan telur yang berada di kresek, penjual tidak sengaja menjatuhkannya sebelum Diyah benar-benar menerimanya, dalam kondisi seperti itu siapa yang menanggung kerugiannya?  ",10,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Google NMT),12,3,"Di dalam kereta api jarak jauh, seorang penumpang ilegal yang tidak memiliki tiket tempat duduk, mengusir penumpang yang sudah duduk sesuai nomor kursinya lalu mengambil alih kursinya, apa status perbuatan yang dilakukannya? ",588,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Google NMT),15,3,"Para ahli astronomi di Cina - yang mayoritas beragama non muslim- mengaku telah melihat bulan baru, kabar tersebut dengan cepat tersebar kepada penduduk Cina yang beragama Islam, dapatkah informasi tersebut dijadikan dasar penetapan awal bulan?",1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Google NMT),18,3,"Seorang Muslim makan sahur dengan tujuan agar kuat berpuasa, namun ia lupa melintaskan niat puasa wajib di hatinya, apakah puasanya sah?",1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Google NMT),21,3,"seorang kiai langgaran diminta membantu proses akad nikah dengan membimbing calon suami untuk malafalkan qabul nikah berbahasa arab, setelah akad selesai kiai ini meminta sejumlah uang sebagai imbalan atas jasa tersebut, bagaimana status pengambilan upah dalam kasus ini?",62,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+BM25+RM3 (Google NMT),24,3,"Karena masih dalam masa pengantin baru, Mas Jiko tidak dapat menahan diri untuk terus menciumi istrinya saat sedang berpuasa ramadan hingga keluar mani, apakah puasanya tetap sah ? ",130,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Google NMT),27,3,"Dana dan Dono  adalah kakak beradik yang usianya terlampau jauh, saat ini Dana berusia 28 tahun sedangkan Dono masih berusia 8 tahun. suatu hari Dana menyuruh adiknya, Dono, untuk meminjam kamera kepada paman mereka. Dono pun berhasil mendapatkan kamera itu dari pamannya, saat perjalanan kembali, kamera itu terjatuh dan rusak. Dalam kondisi seperti ini, siapa yang bertanggungjawab atas kerusakan tersebut?",256,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Google NMT),30,3," Sekolah SMP Harapan Bangsa menerapkan konsep Kantin Kejujuran untuk membentuk karakter siswa menjadi pribadi yang jujur. kantin ini menyediakan seluruh kebutuhan siswa dengan disertai harga yang tercantum jelas di daftarnya. para siswa cukup meletakkan sejumlah uang yang seharga barang yang dibeli pada tempat yang telah disediakan. kondisi ini menimbukan kekhawatiran tentang apakah jual beli yang mereka lakukan sah, padahal tidak ada ijab dan qabul di dalamnya?",241,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Google NMT),33,3,"seorang petani muda menjual hasil panen gabahnya kepada pengepul. Ia hanya memperihatkan sebagian gabah sebagai contoh untuk meyakinkan pembeli tentang kualitasnya, sementara sisa gabahnya tetap berada dalam karung-karung yang tertutup rapat. dalam hal ini apakah jual beli tersebut sah?",18,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Google NMT),36,3,"sebut saja nama Toni, dia adalah seorang saudagar sukses yang telah punya banyak pengalaman dibidang jual beli properti. suatu hari, Toni kedatangan teman lama yang senang bermain slot atau judi online bernama Joko. tujuan Joko kemudian diketahui ingin berhutang sebanyak 15 juta dan berjanji akan membayarnya seminggu kemudian. apakah Toni boleh memberikan hutang kepada Joko ketika ada kemungkinan besar Joko tidak akan membayarnya?",382,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Google NMT),39,3,"karena pertumbuhan penduduk sangat cepat, sebuah desa ingin merenovasi masjid menjadi dua lantai, yang jika dihitung-hitung menghabiskan biaya cukup besar. setelah melakukan muysawarah, biaya ini kemudian diambil dari kas masjid serta sumbangan masyarakat. Selain itu, muncul keinginan untuk menggadaikan sawah wakaf sebagai tambahan biaya renovasi. apakah tindakan ini diperbolehkan? ",254,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Google NMT),42,3,"Rafi melamar seorang perempuan yang sangat ia cintai. Sebagai bentuk keseriusannya, ia menyerahkan uang sebanyak 10 juta rupiah dan berbagai bingkisan lainnya kepada calon istri melalui walinya. namun kenyataan pahit harus diterima Rafi, cinta Rafi bertepuk sebelah tangan. calon istri ternyata sudah memiliki calon yang lebih pantas menurutnya. apakah Rafi berhak meminta uang dan bingkisan yang telah ia berikan?",218,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Google NMT),45,3,"Hasan adalah pengusaha makanan cepat saji yang sedang sakit keras. Harta yang dimilikinya sekitar 15 Milyar. Ia ingin menyerahkan sebagian hartanya untuk pembangunan masjid di desanya.  Dalam surat wasiatnya, Hasan menyerahkan sebanyak 7,5 Milyar untuk diserahkan ke masjid. apakah wasiat seperti ini dapat dilaksanakan atau ada batasan tertentu?",16,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+BM25+RM3 (Google NMT),48,3,"Rahmat sedang mendatangi acara walimah saudara laki-lakinya, tanpa sengaja ia duduk di depan seorang gadis non mahram. merasa ada kesempatan ia memadangi gadis ini berulang kali, meskipun tidak ada kebutuhan mendesak untuk melihatnya. dalam kondisi seperti ini bagaimana status pandangan Rahmat menurut hukum?",255,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+BM25+RM3 (Google NMT),51,3,"Hartono menikahi Lim, dengan dihadiri oleh wali dan dua orang saksi, namun setelah akad nikah berlangsung Lim mengaku belum meyelesaikan masa iddah dari pernikahan sebelumnya. bagaimana status akad nikah yang dilakukan oleh Hartono?",316,❌ Miss,❌ Miss,❌ Miss,❌ Miss

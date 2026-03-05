@@ -1,0 +1,103 @@
+name,qid,query_type,query,rank_ditemukan,Hit@10,Hit@20,Hit@50,Hit@100
+Baseline (mmBERT-small),1,1,Memakai gamis saat ihram,284,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),4,1,Syarat-syarat penerima zakat,435,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),7,1,Barang belum diterima sudah dijual kembali,510,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),10,1,Kewajiban orang yang ghasab,12,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+Baseline (mmBERT-small),13,1,Penetapan awal bulan ramadhan ,20,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+Baseline (mmBERT-small),16,1,Syarat wajib puasa,403,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),19,1, syarat barang yang sah disewakan,70,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+Baseline (mmBERT-small),22,1,mabuk perjalanan saat berpuasa,320,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),25,1,barang yang tidak boleh dipinjamkan,464,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),28,1,jual beli dengan ijab qabul main-main,138,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),31,1,menjual pupuk kandang,276,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),34,1,berhutang untuk maksiat,518,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),37,1,menggadaikan barang pinjaman ,290,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),40,1,hantaran lamaran ,223,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),43,1,wasiatnya anak kecil,86,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+Baseline (mmBERT-small),46,1,melihat kelamin perempuan yang belum baligh,480,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),49,1,mahar tidak disebutkan ketika akad nikah,124,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),2,2,Apa denda bagi orang yang melakukan perbuatan yang diharamkan ketika haji?,529,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),5,2,Apa hukum memberikan zakat kepada orang kafir?,20,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+Baseline (mmBERT-small),8,2,kapan pembeli dianggap menerima rumah yang ia beli?,343,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),11,2,hukum menggunakan barang orang lain tanpa izin,18,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+Baseline (mmBERT-small),14,2,Kapan pertama kali puasa ramadhan diwajibkan dalam Islam?,19,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+Baseline (mmBERT-small),17,2,Mengapa wanita yang sedang haid atau nifas dilarang untuk berpuasa?,172,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),20,2,Bolehkah menyewa seseorang hanya untuk menawarkan barang dagangan?,132,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),23,2,apakah mimpi basah dapat membatalkan puasa?,130,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),26,2,apa yang menjadi tanggung jawab peminjam saat barang pinjaman rusak?,403,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),29,2,mengapa pada jual beli harus ada akad?,2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+Baseline (mmBERT-small),32,2,apa hukum membeli barang yang belum pernah dilihat oleh pembeli?,543,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),35,2,mana yang lebih utama antara memberikan hutang atau bersedekah?,391,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),38,2,apakah bisa orang tua menggadaikan harta anaknya?,399,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),41,2,bolehkan menerima pemberian dari orang yang telah kita selamatkan?,272,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),44,2,berapa batas maksimal wasiat?,150,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),47,2,apakah suara perempuan termasuk aurat?,478,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),50,2,bagaimana jika salah menyebutkan nama calon istri ketika qabul nikah?,41,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+Baseline (mmBERT-small),3,3,"Rehan sedang melaksanakan ibadah haji, namun ditengah pelaksanaan ibadah haji, ia kehilangan pakaian ihramnya dan tidak menemukan apapun selain pakaian yang berjahit, apakah ia terkena sanksi?",414,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),6,3,"Fikri adalah panitia penerima dan penyalur zakat di desanya, suatu hari ia memberikan zakat kepada seorang fakir yang dikemudian hari diketahui masih memiliki anak yang mampu menafkahinya, apakah penyaluran zakat tersebut sudah sah?",44,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+Baseline (mmBERT-small),9,3,"Diyah membeli telur sebanyak 1 kg untuk keperluan membuat roti, saat penjual menyerahkan telur yang berada di kresek, penjual tidak sengaja menjatuhkannya sebelum Diyah benar-benar menerimanya, dalam kondisi seperti itu siapa yang menanggung kerugiannya?  ",209,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),12,3,"Di dalam kereta api jarak jauh, seorang penumpang ilegal yang tidak memiliki tiket tempat duduk, mengusir penumpang yang sudah duduk sesuai nomor kursinya lalu mengambil alih kursinya, apa status perbuatan yang dilakukannya? ",146,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),15,3,"Para ahli astronomi di Cina - yang mayoritas beragama non muslim- mengaku telah melihat bulan baru, kabar tersebut dengan cepat tersebar kepada penduduk Cina yang beragama Islam, dapatkah informasi tersebut dijadikan dasar penetapan awal bulan?",87,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+Baseline (mmBERT-small),18,3,"Seorang Muslim makan sahur dengan tujuan agar kuat berpuasa, namun ia lupa melintaskan niat puasa wajib di hatinya, apakah puasanya sah?",223,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),21,3,"seorang kiai langgaran diminta membantu proses akad nikah dengan membimbing calon suami untuk malafalkan qabul nikah berbahasa arab, setelah akad selesai kiai ini meminta sejumlah uang sebagai imbalan atas jasa tersebut, bagaimana status pengambilan upah dalam kasus ini?",209,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),24,3,"Karena masih dalam masa pengantin baru, Mas Jiko tidak dapat menahan diri untuk terus menciumi istrinya saat sedang berpuasa ramadan hingga keluar mani, apakah puasanya tetap sah ? ",84,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+Baseline (mmBERT-small),27,3,"Dana dan Dono  adalah kakak beradik yang usianya terlampau jauh, saat ini Dana berusia 28 tahun sedangkan Dono masih berusia 8 tahun. suatu hari Dana menyuruh adiknya, Dono, untuk meminjam kamera kepada paman mereka. Dono pun berhasil mendapatkan kamera itu dari pamannya, saat perjalanan kembali, kamera itu terjatuh dan rusak. Dalam kondisi seperti ini, siapa yang bertanggungjawab atas kerusakan tersebut?",517,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),30,3," Sekolah SMP Harapan Bangsa menerapkan konsep Kantin Kejujuran untuk membentuk karakter siswa menjadi pribadi yang jujur. kantin ini menyediakan seluruh kebutuhan siswa dengan disertai harga yang tercantum jelas di daftarnya. para siswa cukup meletakkan sejumlah uang yang seharga barang yang dibeli pada tempat yang telah disediakan. kondisi ini menimbukan kekhawatiran tentang apakah jual beli yang mereka lakukan sah, padahal tidak ada ijab dan qabul di dalamnya?",13,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+Baseline (mmBERT-small),33,3,"seorang petani muda menjual hasil panen gabahnya kepada pengepul. Ia hanya memperihatkan sebagian gabah sebagai contoh untuk meyakinkan pembeli tentang kualitasnya, sementara sisa gabahnya tetap berada dalam karung-karung yang tertutup rapat. dalam hal ini apakah jual beli tersebut sah?",553,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),36,3,"sebut saja nama Toni, dia adalah seorang saudagar sukses yang telah punya banyak pengalaman dibidang jual beli properti. suatu hari, Toni kedatangan teman lama yang senang bermain slot atau judi online bernama Joko. tujuan Joko kemudian diketahui ingin berhutang sebanyak 15 juta dan berjanji akan membayarnya seminggu kemudian. apakah Toni boleh memberikan hutang kepada Joko ketika ada kemungkinan besar Joko tidak akan membayarnya?",281,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),39,3,"karena pertumbuhan penduduk sangat cepat, sebuah desa ingin merenovasi masjid menjadi dua lantai, yang jika dihitung-hitung menghabiskan biaya cukup besar. setelah melakukan muysawarah, biaya ini kemudian diambil dari kas masjid serta sumbangan masyarakat. Selain itu, muncul keinginan untuk menggadaikan sawah wakaf sebagai tambahan biaya renovasi. apakah tindakan ini diperbolehkan? ",471,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),42,3,"Rafi melamar seorang perempuan yang sangat ia cintai. Sebagai bentuk keseriusannya, ia menyerahkan uang sebanyak 10 juta rupiah dan berbagai bingkisan lainnya kepada calon istri melalui walinya. namun kenyataan pahit harus diterima Rafi, cinta Rafi bertepuk sebelah tangan. calon istri ternyata sudah memiliki calon yang lebih pantas menurutnya. apakah Rafi berhak meminta uang dan bingkisan yang telah ia berikan?",458,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),45,3,"Hasan adalah pengusaha makanan cepat saji yang sedang sakit keras. Harta yang dimilikinya sekitar 15 Milyar. Ia ingin menyerahkan sebagian hartanya untuk pembangunan masjid di desanya.  Dalam surat wasiatnya, Hasan menyerahkan sebanyak 7,5 Milyar untuk diserahkan ke masjid. apakah wasiat seperti ini dapat dilaksanakan atau ada batasan tertentu?",115,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),48,3,"Rahmat sedang mendatangi acara walimah saudara laki-lakinya, tanpa sengaja ia duduk di depan seorang gadis non mahram. merasa ada kesempatan ia memadangi gadis ini berulang kali, meskipun tidak ada kebutuhan mendesak untuk melihatnya. dalam kondisi seperti ini bagaimana status pandangan Rahmat menurut hukum?",589,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+Baseline (mmBERT-small),51,3,"Hartono menikahi Lim, dengan dihadiri oleh wali dan dua orang saksi, namun setelah akad nikah berlangsung Lim mengaku belum meyelesaikan masa iddah dari pernikahan sebelumnya. bagaimana status akad nikah yang dilakukan oleh Hartono?",136,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+mmBERT-small Fine-Tuned (JH-POLO),1,1,Memakai gamis saat ihram,107,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+mmBERT-small Fine-Tuned (JH-POLO),4,1,Syarat-syarat penerima zakat,190,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+mmBERT-small Fine-Tuned (JH-POLO),7,1,Barang belum diterima sudah dijual kembali,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),10,1,Kewajiban orang yang ghasab,84,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),13,1,Penetapan awal bulan ramadhan ,4,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),16,1,Syarat wajib puasa,76,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),19,1, syarat barang yang sah disewakan,23,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),22,1,mabuk perjalanan saat berpuasa,269,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+mmBERT-small Fine-Tuned (JH-POLO),25,1,barang yang tidak boleh dipinjamkan,30,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),28,1,jual beli dengan ijab qabul main-main,35,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),31,1,menjual pupuk kandang,463,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+mmBERT-small Fine-Tuned (JH-POLO),34,1,berhutang untuk maksiat,23,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),37,1,menggadaikan barang pinjaman ,38,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),40,1,hantaran lamaran ,22,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),43,1,wasiatnya anak kecil,410,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+mmBERT-small Fine-Tuned (JH-POLO),46,1,melihat kelamin perempuan yang belum baligh,80,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),49,1,mahar tidak disebutkan ketika akad nikah,5,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),2,2,Apa denda bagi orang yang melakukan perbuatan yang diharamkan ketika haji?,67,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),5,2,Apa hukum memberikan zakat kepada orang kafir?,93,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),8,2,kapan pembeli dianggap menerima rumah yang ia beli?,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),11,2,hukum menggunakan barang orang lain tanpa izin,2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),14,2,Kapan pertama kali puasa ramadhan diwajibkan dalam Islam?,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),17,2,Mengapa wanita yang sedang haid atau nifas dilarang untuk berpuasa?,94,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),20,2,Bolehkah menyewa seseorang hanya untuk menawarkan barang dagangan?,8,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),23,2,apakah mimpi basah dapat membatalkan puasa?,253,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+mmBERT-small Fine-Tuned (JH-POLO),26,2,apa yang menjadi tanggung jawab peminjam saat barang pinjaman rusak?,73,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),29,2,mengapa pada jual beli harus ada akad?,32,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),32,2,apa hukum membeli barang yang belum pernah dilihat oleh pembeli?,307,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+mmBERT-small Fine-Tuned (JH-POLO),35,2,mana yang lebih utama antara memberikan hutang atau bersedekah?,26,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),38,2,apakah bisa orang tua menggadaikan harta anaknya?,78,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),41,2,bolehkan menerima pemberian dari orang yang telah kita selamatkan?,5,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),44,2,berapa batas maksimal wasiat?,590,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+mmBERT-small Fine-Tuned (JH-POLO),47,2,apakah suara perempuan termasuk aurat?,28,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),50,2,bagaimana jika salah menyebutkan nama calon istri ketika qabul nikah?,5,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),3,3,"Rehan sedang melaksanakan ibadah haji, namun ditengah pelaksanaan ibadah haji, ia kehilangan pakaian ihramnya dan tidak menemukan apapun selain pakaian yang berjahit, apakah ia terkena sanksi?",108,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+mmBERT-small Fine-Tuned (JH-POLO),6,3,"Fikri adalah panitia penerima dan penyalur zakat di desanya, suatu hari ia memberikan zakat kepada seorang fakir yang dikemudian hari diketahui masih memiliki anak yang mampu menafkahinya, apakah penyaluran zakat tersebut sudah sah?",180,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+mmBERT-small Fine-Tuned (JH-POLO),9,3,"Diyah membeli telur sebanyak 1 kg untuk keperluan membuat roti, saat penjual menyerahkan telur yang berada di kresek, penjual tidak sengaja menjatuhkannya sebelum Diyah benar-benar menerimanya, dalam kondisi seperti itu siapa yang menanggung kerugiannya?  ",5,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),12,3,"Di dalam kereta api jarak jauh, seorang penumpang ilegal yang tidak memiliki tiket tempat duduk, mengusir penumpang yang sudah duduk sesuai nomor kursinya lalu mengambil alih kursinya, apa status perbuatan yang dilakukannya? ",7,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),15,3,"Para ahli astronomi di Cina - yang mayoritas beragama non muslim- mengaku telah melihat bulan baru, kabar tersebut dengan cepat tersebar kepada penduduk Cina yang beragama Islam, dapatkah informasi tersebut dijadikan dasar penetapan awal bulan?",49,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),18,3,"Seorang Muslim makan sahur dengan tujuan agar kuat berpuasa, namun ia lupa melintaskan niat puasa wajib di hatinya, apakah puasanya sah?",200,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+mmBERT-small Fine-Tuned (JH-POLO),21,3,"seorang kiai langgaran diminta membantu proses akad nikah dengan membimbing calon suami untuk malafalkan qabul nikah berbahasa arab, setelah akad selesai kiai ini meminta sejumlah uang sebagai imbalan atas jasa tersebut, bagaimana status pengambilan upah dalam kasus ini?",94,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),24,3,"Karena masih dalam masa pengantin baru, Mas Jiko tidak dapat menahan diri untuk terus menciumi istrinya saat sedang berpuasa ramadan hingga keluar mani, apakah puasanya tetap sah ? ",187,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+mmBERT-small Fine-Tuned (JH-POLO),27,3,"Dana dan Dono  adalah kakak beradik yang usianya terlampau jauh, saat ini Dana berusia 28 tahun sedangkan Dono masih berusia 8 tahun. suatu hari Dana menyuruh adiknya, Dono, untuk meminjam kamera kepada paman mereka. Dono pun berhasil mendapatkan kamera itu dari pamannya, saat perjalanan kembali, kamera itu terjatuh dan rusak. Dalam kondisi seperti ini, siapa yang bertanggungjawab atas kerusakan tersebut?",236,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+mmBERT-small Fine-Tuned (JH-POLO),30,3," Sekolah SMP Harapan Bangsa menerapkan konsep Kantin Kejujuran untuk membentuk karakter siswa menjadi pribadi yang jujur. kantin ini menyediakan seluruh kebutuhan siswa dengan disertai harga yang tercantum jelas di daftarnya. para siswa cukup meletakkan sejumlah uang yang seharga barang yang dibeli pada tempat yang telah disediakan. kondisi ini menimbukan kekhawatiran tentang apakah jual beli yang mereka lakukan sah, padahal tidak ada ijab dan qabul di dalamnya?",285,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+mmBERT-small Fine-Tuned (JH-POLO),33,3,"seorang petani muda menjual hasil panen gabahnya kepada pengepul. Ia hanya memperihatkan sebagian gabah sebagai contoh untuk meyakinkan pembeli tentang kualitasnya, sementara sisa gabahnya tetap berada dalam karung-karung yang tertutup rapat. dalam hal ini apakah jual beli tersebut sah?",315,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+mmBERT-small Fine-Tuned (JH-POLO),36,3,"sebut saja nama Toni, dia adalah seorang saudagar sukses yang telah punya banyak pengalaman dibidang jual beli properti. suatu hari, Toni kedatangan teman lama yang senang bermain slot atau judi online bernama Joko. tujuan Joko kemudian diketahui ingin berhutang sebanyak 15 juta dan berjanji akan membayarnya seminggu kemudian. apakah Toni boleh memberikan hutang kepada Joko ketika ada kemungkinan besar Joko tidak akan membayarnya?",67,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),39,3,"karena pertumbuhan penduduk sangat cepat, sebuah desa ingin merenovasi masjid menjadi dua lantai, yang jika dihitung-hitung menghabiskan biaya cukup besar. setelah melakukan muysawarah, biaya ini kemudian diambil dari kas masjid serta sumbangan masyarakat. Selain itu, muncul keinginan untuk menggadaikan sawah wakaf sebagai tambahan biaya renovasi. apakah tindakan ini diperbolehkan? ",262,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+mmBERT-small Fine-Tuned (JH-POLO),42,3,"Rafi melamar seorang perempuan yang sangat ia cintai. Sebagai bentuk keseriusannya, ia menyerahkan uang sebanyak 10 juta rupiah dan berbagai bingkisan lainnya kepada calon istri melalui walinya. namun kenyataan pahit harus diterima Rafi, cinta Rafi bertepuk sebelah tangan. calon istri ternyata sudah memiliki calon yang lebih pantas menurutnya. apakah Rafi berhak meminta uang dan bingkisan yang telah ia berikan?",85,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),45,3,"Hasan adalah pengusaha makanan cepat saji yang sedang sakit keras. Harta yang dimilikinya sekitar 15 Milyar. Ia ingin menyerahkan sebagian hartanya untuk pembangunan masjid di desanya.  Dalam surat wasiatnya, Hasan menyerahkan sebanyak 7,5 Milyar untuk diserahkan ke masjid. apakah wasiat seperti ini dapat dilaksanakan atau ada batasan tertentu?",289,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+mmBERT-small Fine-Tuned (JH-POLO),48,3,"Rahmat sedang mendatangi acara walimah saudara laki-lakinya, tanpa sengaja ia duduk di depan seorang gadis non mahram. merasa ada kesempatan ia memadangi gadis ini berulang kali, meskipun tidak ada kebutuhan mendesak untuk melihatnya. dalam kondisi seperti ini bagaimana status pandangan Rahmat menurut hukum?",85,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+mmBERT-small Fine-Tuned (JH-POLO),51,3,"Hartono menikahi Lim, dengan dihadiri oleh wali dan dua orang saksi, namun setelah akad nikah berlangsung Lim mengaku belum meyelesaikan masa iddah dari pernikahan sebelumnya. bagaimana status akad nikah yang dilakukan oleh Hartono?",12,❌ Miss,✅ Hit,✅ Hit,✅ Hit
