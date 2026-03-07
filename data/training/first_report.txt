@@ -1,0 +1,92 @@
+=================================================================
+  DUPLICATE CHECK REPORT
+  File   : synthetic_query.json
+  Records: 310
+=================================================================
+
+─────────────────────────────────────────────────────────────────
+  [1] FULLY DUPLICATE RECORDS  →  0 found
+─────────────────────────────────────────────────────────────────
+    ✓ None
+
+─────────────────────────────────────────────────────────────────
+  [2] DUPLICATE POS_ID (WITHIN FIELD)  →  0 found
+─────────────────────────────────────────────────────────────────
+    ✓ None
+
+─────────────────────────────────────────────────────────────────
+  [3] DUPLICATE NEG_ID (WITHIN FIELD)  →  3 found
+─────────────────────────────────────────────────────────────────
+    "Page_V01P555"  →  indices [17, 105]
+      Record 17: pos_id=Page_V01P557, neg_id=Page_V01P555
+      Record 105: pos_id=Page_V01P258, neg_id=Page_V01P555
+    "Page_V01P300"  →  indices [31, 58]
+      Record 31: pos_id=Page_V01P086, neg_id=Page_V01P300
+      Record 58: pos_id=Page_V01P299, neg_id=Page_V01P300
+    "Page_V01P494"  →  indices [116, 234]
+      Record 116: pos_id=Page_V01P207, neg_id=Page_V01P494
+      Record 234: pos_id=Page_V01P211, neg_id=Page_V01P494
+
+─────────────────────────────────────────────────────────────────
+  [4] DUPLICATE TIPE_1 ITEMS (WITHIN FIELD)  →  3 found
+─────────────────────────────────────────────────────────────────
+    "urutan wali nikah ashabah"
+    Appears in record indices: [24, 114]
+      Record 24: pos_id=Page_V01P466, neg_id=Page_V01P476
+      Record 114: pos_id=Page_V01P465, neg_id=Page_V01P667
+    "nishab zakat hewan ternak"
+    Appears in record indices: [32, 116]
+      Record 32: pos_id=Page_V01P251, neg_id=Page_V01P250
+      Record 116: pos_id=Page_V01P207, neg_id=Page_V01P494
+    "rukun khutbah jumat"
+    Appears in record indices: [48, 295]
+      Record 48: pos_id=Page_V01P163, neg_id=Page_V01P162
+      Record 295: pos_id=Page_V01P202, neg_id=Page_V01P320
+
+─────────────────────────────────────────────────────────────────
+  [5] DUPLICATE TIPE_2 ITEMS (WITHIN FIELD)  →  5 found
+─────────────────────────────────────────────────────────────────
+    "Bagaimana aturan bagi budak yang ingin mencicil pembayarannya kepada majikan untuk merdeka?"
+    Appears in record indices: [49, 86]
+      Record 49: pos_id=Page_V01P669, neg_id=Page_V01P418
+      Record 86: pos_id=Page_V01P670, neg_id=Page_V01P477
+    "Apakah majikan boleh membatalkan perjanjian kemerdekaan budak jika cicilannya menunggak?"
+    Appears in record indices: [49, 86]
+      Record 49: pos_id=Page_V01P669, neg_id=Page_V01P418
+      Record 86: pos_id=Page_V01P670, neg_id=Page_V01P477
+    "Apakah shalat saya tetap sah jika saya lupa tidak membaca surat Al-Fatihah di salah satu rakaat?"
+    Appears in record indices: [59, 92]
+      Record 59: pos_id=Page_V01P103, neg_id=Page_V01P104
+      Record 92: pos_id=Page_V01P101, neg_id=Page_V01P105
+    "Bolehkah makmum hanya diam saja tanpa membaca Al-Fatihah saat imam membacanya dengan keras?"
+    Appears in record indices: [59, 92]
+      Record 59: pos_id=Page_V01P103, neg_id=Page_V01P104
+      Record 92: pos_id=Page_V01P101, neg_id=Page_V01P105
+    "Apa saja rangkaian ibadah yang jika ditinggalkan maka ibadah haji seseorang menjadi tidak sah?"
+    Appears in record indices: [74, 111]
+      Record 74: pos_id=Page_V01P208, neg_id=Page_V01P209
+      Record 111: pos_id=Page_V01P275, neg_id=Page_V01P406
+
+─────────────────────────────────────────────────────────────────
+  [6] [INTER] pos_id == neg_id IN SAME RECORD  →  0 found
+─────────────────────────────────────────────────────────────────
+    ✓ None
+
+─────────────────────────────────────────────────────────────────
+  [7] [INTER] pos_id APPEARS AS neg_id ACROSS RECORDS  →  1 found
+─────────────────────────────────────────────────────────────────
+    Page ID "Page_V01P211"
+      As pos_id → Record 234: pos_id=Page_V01P211, neg_id=Page_V01P494
+      As neg_id → Record 87: pos_id=Page_V01P205, neg_id=Page_V01P211
+
+─────────────────────────────────────────────────────────────────
+  [8] [INTER] tipe_1 ITEM APPEARS IN tipe_2 ACROSS RECORDS  →  0 found
+─────────────────────────────────────────────────────────────────
+    ✓ None
+
+=================================================================
+  RESULT : ⚠  DUPLICATES FOUND
+  Total duplicate groups : 12
+=================================================================
+
+
