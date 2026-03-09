@@ -1,0 +1,307 @@
+name,qid,query_type,query,rank_ditemukan,Hit@10,Hit@20,Hit@50,Hit@100
+AraDPR (Gemini AI),1,1.0,Memakai gamis saat ihram,206,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),4,1.0,Syarat-syarat penerima zakat,57,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Gemini AI),7,1.0,Barang belum diterima sudah dijual kembali,2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),10,1.0,Kewajiban orang yang ghasab,103,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),13,1.0,Penetapan awal bulan ramadhan ,51,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Gemini AI),16,1.0,Syarat wajib puasa,178,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),19,1.0, syarat barang yang sah disewakan,109,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),22,1.0,mabuk perjalanan saat berpuasa,106,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),25,1.0,barang yang tidak boleh dipinjamkan,248,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),28,1.0,jual beli dengan ijab qabul main-main,587,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),31,1.0,menjual pupuk kandang,2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),34,1.0,berhutang untuk maksiat,101,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),37,1.0,menggadaikan barang pinjaman ,3,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),40,1.0,hantaran lamaran ,2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),43,1.0,wasiatnya anak kecil,16,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),46,1.0,melihat kelamin perempuan yang belum baligh,176,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),49,1.0,mahar tidak disebutkan ketika akad nikah,38,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Gemini AI),2,2.0,Apa denda bagi orang yang melakukan perbuatan yang diharamkan ketika haji?,83,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Gemini AI),5,2.0,Apa hukum memberikan zakat kepada orang kafir?,295,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),8,2.0,kapan pembeli dianggap menerima rumah yang ia beli?,4,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),11,2.0,hukum menggunakan barang orang lain tanpa izin,57,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Gemini AI),14,2.0,Kapan pertama kali puasa ramadhan diwajibkan dalam Islam?,39,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Gemini AI),17,2.0,Mengapa wanita yang sedang haid atau nifas dilarang untuk berpuasa?,62,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Gemini AI),20,2.0,Bolehkah menyewa seseorang hanya untuk menawarkan barang dagangan?,289,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),23,2.0,apakah mimpi basah dapat membatalkan puasa?,129,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),26,2.0,apa yang menjadi tanggung jawab peminjam saat barang pinjaman rusak?,152,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),29,2.0,mengapa pada jual beli harus ada akad?,407,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),32,2.0,apa hukum membeli barang yang belum pernah dilihat oleh pembeli?,4,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),35,2.0,mana yang lebih utama antara memberikan hutang atau bersedekah?,234,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),38,2.0,apakah bisa orang tua menggadaikan harta anaknya?,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),41,2.0,bolehkan menerima pemberian dari orang yang telah kita selamatkan?,34,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Gemini AI),44,2.0,berapa batas maksimal wasiat?,12,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),47,2.0,apakah suara perempuan termasuk aurat?,202,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),50,2.0,bagaimana jika salah menyebutkan nama calon istri ketika qabul nikah?,43,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Gemini AI),3,3.0,"Rehan sedang melaksanakan ibadah haji, namun ditengah pelaksanaan ibadah haji, ia kehilangan pakaian ihramnya dan tidak menemukan apapun selain pakaian yang berjahit, apakah ia terkena sanksi?",193,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),6,3.0,"Fikri adalah panitia penerima dan penyalur zakat di desanya, suatu hari ia memberikan zakat kepada seorang fakir yang dikemudian hari diketahui masih memiliki anak yang mampu menafkahinya, apakah penyaluran zakat tersebut sudah sah?",73,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Gemini AI),9,3.0,"Diyah membeli telur sebanyak 1 kg untuk keperluan membuat roti, saat penjual menyerahkan telur yang berada di kresek, penjual tidak sengaja menjatuhkannya sebelum Diyah benar-benar menerimanya, dalam kondisi seperti itu siapa yang menanggung kerugiannya?  ",41,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Gemini AI),12,3.0,"Di dalam kereta api jarak jauh, seorang penumpang ilegal yang tidak memiliki tiket tempat duduk, mengusir penumpang yang sudah duduk sesuai nomor kursinya lalu mengambil alih kursinya, apa status perbuatan yang dilakukannya? ",73,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Gemini AI),15,3.0,"Para ahli astronomi di Cina - yang mayoritas beragama non muslim- mengaku telah melihat bulan baru, kabar tersebut dengan cepat tersebar kepada penduduk Cina yang beragama Islam, dapatkah informasi tersebut dijadikan dasar penetapan awal bulan?",75,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Gemini AI),18,3.0,"Seorang Muslim makan sahur dengan tujuan agar kuat berpuasa, namun ia lupa melintaskan niat puasa wajib di hatinya, apakah puasanya sah?",25,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Gemini AI),21,3.0,"seorang kiai langgaran diminta membantu proses akad nikah dengan membimbing calon suami untuk malafalkan qabul nikah berbahasa arab, setelah akad selesai kiai ini meminta sejumlah uang sebagai imbalan atas jasa tersebut, bagaimana status pengambilan upah dalam kasus ini?",292,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),24,3.0,"Karena masih dalam masa pengantin baru, Mas Jiko tidak dapat menahan diri untuk terus menciumi istrinya saat sedang berpuasa ramadan hingga keluar mani, apakah puasanya tetap sah ? ",53,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Gemini AI),27,3.0,"Dana dan Dono  adalah kakak beradik yang usianya terlampau jauh, saat ini Dana berusia 28 tahun sedangkan Dono masih berusia 8 tahun. suatu hari Dana menyuruh adiknya, Dono, untuk meminjam kamera kepada paman mereka. Dono pun berhasil mendapatkan kamera itu dari pamannya, saat perjalanan kembali, kamera itu terjatuh dan rusak. Dalam kondisi seperti ini, siapa yang bertanggungjawab atas kerusakan tersebut?",80,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Gemini AI),30,3.0," Sekolah SMP Harapan Bangsa menerapkan konsep Kantin Kejujuran untuk membentuk karakter siswa menjadi pribadi yang jujur. kantin ini menyediakan seluruh kebutuhan siswa dengan disertai harga yang tercantum jelas di daftarnya. para siswa cukup meletakkan sejumlah uang yang seharga barang yang dibeli pada tempat yang telah disediakan. kondisi ini menimbukan kekhawatiran tentang apakah jual beli yang mereka lakukan sah, padahal tidak ada ijab dan qabul di dalamnya?",287,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),33,3.0,"seorang petani muda menjual hasil panen gabahnya kepada pengepul. Ia hanya memperihatkan sebagian gabah sebagai contoh untuk meyakinkan pembeli tentang kualitasnya, sementara sisa gabahnya tetap berada dalam karung-karung yang tertutup rapat. dalam hal ini apakah jual beli tersebut sah?",18,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),36,3.0,"sebut saja nama Toni, dia adalah seorang saudagar sukses yang telah punya banyak pengalaman dibidang jual beli properti. suatu hari, Toni kedatangan teman lama yang senang bermain slot atau judi online bernama Joko. tujuan Joko kemudian diketahui ingin berhutang sebanyak 15 juta dan berjanji akan membayarnya seminggu kemudian. apakah Toni boleh memberikan hutang kepada Joko ketika ada kemungkinan besar Joko tidak akan membayarnya?",88,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Gemini AI),39,3.0,"karena pertumbuhan penduduk sangat cepat, sebuah desa ingin merenovasi masjid menjadi dua lantai, yang jika dihitung-hitung menghabiskan biaya cukup besar. setelah melakukan muysawarah, biaya ini kemudian diambil dari kas masjid serta sumbangan masyarakat. Selain itu, muncul keinginan untuk menggadaikan sawah wakaf sebagai tambahan biaya renovasi. apakah tindakan ini diperbolehkan? ",12,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),42,3.0,"Rafi melamar seorang perempuan yang sangat ia cintai. Sebagai bentuk keseriusannya, ia menyerahkan uang sebanyak 10 juta rupiah dan berbagai bingkisan lainnya kepada calon istri melalui walinya. namun kenyataan pahit harus diterima Rafi, cinta Rafi bertepuk sebelah tangan. calon istri ternyata sudah memiliki calon yang lebih pantas menurutnya. apakah Rafi berhak meminta uang dan bingkisan yang telah ia berikan?",41,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Gemini AI),45,3.0,"Hasan adalah pengusaha makanan cepat saji yang sedang sakit keras. Harta yang dimilikinya sekitar 15 Milyar. Ia ingin menyerahkan sebagian hartanya untuk pembangunan masjid di desanya.  Dalam surat wasiatnya, Hasan menyerahkan sebanyak 7,5 Milyar untuk diserahkan ke masjid. apakah wasiat seperti ini dapat dilaksanakan atau ada batasan tertentu?",214,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),48,3.0,"Rahmat sedang mendatangi acara walimah saudara laki-lakinya, tanpa sengaja ia duduk di depan seorang gadis non mahram. merasa ada kesempatan ia memadangi gadis ini berulang kali, meskipun tidak ada kebutuhan mendesak untuk melihatnya. dalam kondisi seperti ini bagaimana status pandangan Rahmat menurut hukum?",25,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Gemini AI),51,3.0,"Hartono menikahi Lim, dengan dihadiri oleh wali dan dua orang saksi, namun setelah akad nikah berlangsung Lim mengaku belum meyelesaikan masa iddah dari pernikahan sebelumnya. bagaimana status akad nikah yang dilakukan oleh Hartono?",367,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),52,,,4,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),53,,,239,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),54,,,378,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),55,,,19,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),56,,,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),57,,,8,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),58,,,7,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),59,,,484,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),60,,,80,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Gemini AI),61,,,23,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Gemini AI),62,,,192,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),63,,,336,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),64,,,2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),65,,,8,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),66,,,19,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),67,,,20,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),68,,,13,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),69,,,6,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),70,,,427,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),71,,,68,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Gemini AI),72,,,24,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Gemini AI),73,,,336,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),74,,,190,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),75,,,114,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),76,,,34,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Gemini AI),77,,,372,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),78,,,528,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),79,,,50,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Gemini AI),80,,,37,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Gemini AI),81,,,161,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),82,,,104,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),83,,,355,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),84,,,302,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),85,,,255,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),86,,,241,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),87,,,308,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),88,,,179,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),89,,,404,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),90,,,527,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),91,,,171,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),92,,,98,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Gemini AI),93,,,24,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Gemini AI),94,,,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),95,,,201,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),96,,,12,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),97,,,244,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),98,,,43,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Gemini AI),99,,,437,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),100,,,260,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),101,,,112,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),102,,,267,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),103,,,54,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Gemini AI),104,,,132,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),105,,,148,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),106,,,68,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Gemini AI),107,,,331,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),108,,,80,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Gemini AI),109,,,481,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),110,,,523,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),111,,,191,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),112,,,483,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),113,,,111,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),114,,,519,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),115,,,6,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),116,,,25,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Gemini AI),117,,,54,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Gemini AI),118,,,339,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),119,,,390,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),120,,,161,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),121,,,340,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),122,,,376,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),123,,,28,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Gemini AI),124,,,4,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),125,,,6,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),126,,,21,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Gemini AI),127,,,82,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Gemini AI),128,,,6,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),129,,,131,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),130,,,30,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Gemini AI),131,,,47,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Gemini AI),132,,,43,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Gemini AI),133,,,292,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),134,,,98,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Gemini AI),135,,,61,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Gemini AI),136,,,333,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),137,,,129,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),138,,,126,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),139,,,409,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),140,,,178,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),141,,,12,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),142,,,92,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Gemini AI),143,,,7,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),144,,,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),145,,,96,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Gemini AI),146,,,3,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),147,,,10,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Gemini AI),148,,,30,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Gemini AI),149,,,190,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),150,,,40,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Gemini AI),151,,,36,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Gemini AI),152,,,156,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Gemini AI),153,,,8,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Google NMT),1,1.0,Memakai gamis saat ihram,219,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),4,1.0,Syarat-syarat penerima zakat,56,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Google NMT),7,1.0,Barang belum diterima sudah dijual kembali,3,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Google NMT),10,1.0,Kewajiban orang yang ghasab,134,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),13,1.0,Penetapan awal bulan ramadhan ,73,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Google NMT),16,1.0,Syarat wajib puasa,25,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Google NMT),19,1.0, syarat barang yang sah disewakan,195,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),22,1.0,mabuk perjalanan saat berpuasa,67,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Google NMT),25,1.0,barang yang tidak boleh dipinjamkan,245,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),28,1.0,jual beli dengan ijab qabul main-main,529,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),31,1.0,menjual pupuk kandang,2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Google NMT),34,1.0,berhutang untuk maksiat,65,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Google NMT),37,1.0,menggadaikan barang pinjaman ,3,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Google NMT),40,1.0,hantaran lamaran ,3,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Google NMT),43,1.0,wasiatnya anak kecil,12,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Google NMT),46,1.0,melihat kelamin perempuan yang belum baligh,172,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),49,1.0,mahar tidak disebutkan ketika akad nikah,163,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),2,2.0,Apa denda bagi orang yang melakukan perbuatan yang diharamkan ketika haji?,194,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),5,2.0,Apa hukum memberikan zakat kepada orang kafir?,220,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),8,2.0,kapan pembeli dianggap menerima rumah yang ia beli?,6,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Google NMT),11,2.0,hukum menggunakan barang orang lain tanpa izin,44,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Google NMT),14,2.0,Kapan pertama kali puasa ramadhan diwajibkan dalam Islam?,40,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Google NMT),17,2.0,Mengapa wanita yang sedang haid atau nifas dilarang untuk berpuasa?,36,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Google NMT),20,2.0,Bolehkah menyewa seseorang hanya untuk menawarkan barang dagangan?,419,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),23,2.0,apakah mimpi basah dapat membatalkan puasa?,182,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),26,2.0,apa yang menjadi tanggung jawab peminjam saat barang pinjaman rusak?,303,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),29,2.0,mengapa pada jual beli harus ada akad?,458,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),32,2.0,apa hukum membeli barang yang belum pernah dilihat oleh pembeli?,6,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Google NMT),35,2.0,mana yang lebih utama antara memberikan hutang atau bersedekah?,89,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Google NMT),38,2.0,apakah bisa orang tua menggadaikan harta anaknya?,2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Google NMT),41,2.0,bolehkan menerima pemberian dari orang yang telah kita selamatkan?,53,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Google NMT),44,2.0,berapa batas maksimal wasiat?,85,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Google NMT),47,2.0,apakah suara perempuan termasuk aurat?,188,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),50,2.0,bagaimana jika salah menyebutkan nama calon istri ketika qabul nikah?,381,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),3,3.0,"Rehan sedang melaksanakan ibadah haji, namun ditengah pelaksanaan ibadah haji, ia kehilangan pakaian ihramnya dan tidak menemukan apapun selain pakaian yang berjahit, apakah ia terkena sanksi?",303,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),6,3.0,"Fikri adalah panitia penerima dan penyalur zakat di desanya, suatu hari ia memberikan zakat kepada seorang fakir yang dikemudian hari diketahui masih memiliki anak yang mampu menafkahinya, apakah penyaluran zakat tersebut sudah sah?",62,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Google NMT),9,3.0,"Diyah membeli telur sebanyak 1 kg untuk keperluan membuat roti, saat penjual menyerahkan telur yang berada di kresek, penjual tidak sengaja menjatuhkannya sebelum Diyah benar-benar menerimanya, dalam kondisi seperti itu siapa yang menanggung kerugiannya?  ",61,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Google NMT),12,3.0,"Di dalam kereta api jarak jauh, seorang penumpang ilegal yang tidak memiliki tiket tempat duduk, mengusir penumpang yang sudah duduk sesuai nomor kursinya lalu mengambil alih kursinya, apa status perbuatan yang dilakukannya? ",69,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Google NMT),15,3.0,"Para ahli astronomi di Cina - yang mayoritas beragama non muslim- mengaku telah melihat bulan baru, kabar tersebut dengan cepat tersebar kepada penduduk Cina yang beragama Islam, dapatkah informasi tersebut dijadikan dasar penetapan awal bulan?",151,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),18,3.0,"Seorang Muslim makan sahur dengan tujuan agar kuat berpuasa, namun ia lupa melintaskan niat puasa wajib di hatinya, apakah puasanya sah?",38,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Google NMT),21,3.0,"seorang kiai langgaran diminta membantu proses akad nikah dengan membimbing calon suami untuk malafalkan qabul nikah berbahasa arab, setelah akad selesai kiai ini meminta sejumlah uang sebagai imbalan atas jasa tersebut, bagaimana status pengambilan upah dalam kasus ini?",344,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),24,3.0,"Karena masih dalam masa pengantin baru, Mas Jiko tidak dapat menahan diri untuk terus menciumi istrinya saat sedang berpuasa ramadan hingga keluar mani, apakah puasanya tetap sah ? ",122,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),27,3.0,"Dana dan Dono  adalah kakak beradik yang usianya terlampau jauh, saat ini Dana berusia 28 tahun sedangkan Dono masih berusia 8 tahun. suatu hari Dana menyuruh adiknya, Dono, untuk meminjam kamera kepada paman mereka. Dono pun berhasil mendapatkan kamera itu dari pamannya, saat perjalanan kembali, kamera itu terjatuh dan rusak. Dalam kondisi seperti ini, siapa yang bertanggungjawab atas kerusakan tersebut?",88,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Google NMT),30,3.0," Sekolah SMP Harapan Bangsa menerapkan konsep Kantin Kejujuran untuk membentuk karakter siswa menjadi pribadi yang jujur. kantin ini menyediakan seluruh kebutuhan siswa dengan disertai harga yang tercantum jelas di daftarnya. para siswa cukup meletakkan sejumlah uang yang seharga barang yang dibeli pada tempat yang telah disediakan. kondisi ini menimbukan kekhawatiran tentang apakah jual beli yang mereka lakukan sah, padahal tidak ada ijab dan qabul di dalamnya?",290,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),33,3.0,"seorang petani muda menjual hasil panen gabahnya kepada pengepul. Ia hanya memperihatkan sebagian gabah sebagai contoh untuk meyakinkan pembeli tentang kualitasnya, sementara sisa gabahnya tetap berada dalam karung-karung yang tertutup rapat. dalam hal ini apakah jual beli tersebut sah?",16,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Google NMT),36,3.0,"sebut saja nama Toni, dia adalah seorang saudagar sukses yang telah punya banyak pengalaman dibidang jual beli properti. suatu hari, Toni kedatangan teman lama yang senang bermain slot atau judi online bernama Joko. tujuan Joko kemudian diketahui ingin berhutang sebanyak 15 juta dan berjanji akan membayarnya seminggu kemudian. apakah Toni boleh memberikan hutang kepada Joko ketika ada kemungkinan besar Joko tidak akan membayarnya?",135,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),39,3.0,"karena pertumbuhan penduduk sangat cepat, sebuah desa ingin merenovasi masjid menjadi dua lantai, yang jika dihitung-hitung menghabiskan biaya cukup besar. setelah melakukan muysawarah, biaya ini kemudian diambil dari kas masjid serta sumbangan masyarakat. Selain itu, muncul keinginan untuk menggadaikan sawah wakaf sebagai tambahan biaya renovasi. apakah tindakan ini diperbolehkan? ",57,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Google NMT),42,3.0,"Rafi melamar seorang perempuan yang sangat ia cintai. Sebagai bentuk keseriusannya, ia menyerahkan uang sebanyak 10 juta rupiah dan berbagai bingkisan lainnya kepada calon istri melalui walinya. namun kenyataan pahit harus diterima Rafi, cinta Rafi bertepuk sebelah tangan. calon istri ternyata sudah memiliki calon yang lebih pantas menurutnya. apakah Rafi berhak meminta uang dan bingkisan yang telah ia berikan?",15,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Google NMT),45,3.0,"Hasan adalah pengusaha makanan cepat saji yang sedang sakit keras. Harta yang dimilikinya sekitar 15 Milyar. Ia ingin menyerahkan sebagian hartanya untuk pembangunan masjid di desanya.  Dalam surat wasiatnya, Hasan menyerahkan sebanyak 7,5 Milyar untuk diserahkan ke masjid. apakah wasiat seperti ini dapat dilaksanakan atau ada batasan tertentu?",97,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Google NMT),48,3.0,"Rahmat sedang mendatangi acara walimah saudara laki-lakinya, tanpa sengaja ia duduk di depan seorang gadis non mahram. merasa ada kesempatan ia memadangi gadis ini berulang kali, meskipun tidak ada kebutuhan mendesak untuk melihatnya. dalam kondisi seperti ini bagaimana status pandangan Rahmat menurut hukum?",22,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Google NMT),51,3.0,"Hartono menikahi Lim, dengan dihadiri oleh wali dan dua orang saksi, namun setelah akad nikah berlangsung Lim mengaku belum meyelesaikan masa iddah dari pernikahan sebelumnya. bagaimana status akad nikah yang dilakukan oleh Hartono?",468,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),52,,,147,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),53,,,385,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),54,,,381,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),55,,,19,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Google NMT),56,,,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Google NMT),57,,,8,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Google NMT),58,,,421,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),59,,,434,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),60,,,105,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),61,,,297,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),62,,,132,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),63,,,227,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),64,,,25,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Google NMT),65,,,31,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Google NMT),66,,,53,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Google NMT),67,,,121,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),68,,,46,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Google NMT),69,,,9,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Google NMT),70,,,272,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),71,,,459,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),72,,,91,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Google NMT),73,,,97,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Google NMT),74,,,143,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),75,,,252,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),76,,,391,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),77,,,405,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),78,,,497,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),79,,,133,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),80,,,61,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Google NMT),81,,,232,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),82,,,410,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),83,,,444,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),84,,,451,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),85,,,439,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),86,,,170,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),87,,,448,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),88,,,129,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),89,,,476,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),90,,,536,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),91,,,240,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),92,,,106,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),93,,,9,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Google NMT),94,,,87,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Google NMT),95,,,201,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),96,,,18,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Google NMT),97,,,374,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),98,,,27,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Google NMT),99,,,548,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),100,,,93,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Google NMT),101,,,29,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Google NMT),102,,,60,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Google NMT),103,,,173,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),104,,,149,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),105,,,176,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),106,,,437,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),107,,,132,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),108,,,157,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),109,,,397,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),110,,,432,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),111,,,235,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),112,,,446,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),113,,,258,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),114,,,497,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),115,,,86,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Google NMT),116,,,515,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),117,,,47,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Google NMT),118,,,280,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),119,,,273,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),120,,,51,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Google NMT),121,,,351,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),122,,,43,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Google NMT),123,,,33,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Google NMT),124,,,4,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Google NMT),125,,,4,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Google NMT),126,,,27,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Google NMT),127,,,168,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),128,,,30,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Google NMT),129,,,221,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),130,,,44,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Google NMT),131,,,92,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Google NMT),132,,,58,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Google NMT),133,,,122,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),134,,,24,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Google NMT),135,,,195,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),136,,,144,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),137,,,483,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),138,,,199,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),139,,,127,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),140,,,17,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Google NMT),141,,,60,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Google NMT),142,,,69,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Google NMT),143,,,31,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Google NMT),144,,,12,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Google NMT),145,,,60,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+AraDPR (Google NMT),146,,,6,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Google NMT),147,,,6,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Google NMT),148,,,4,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+AraDPR (Google NMT),149,,,374,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),150,,,42,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+AraDPR (Google NMT),151,,,105,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),152,,,223,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+AraDPR (Google NMT),153,,,10,✅ Hit,✅ Hit,✅ Hit,✅ Hit
