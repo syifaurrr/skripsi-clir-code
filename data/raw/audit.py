@@ -176,7 +176,7 @@ import re
 import pandas as pd
 
 # Load the file
-f = open('fath_muin_no_dupe.txt', 'r', encoding='utf-8')
+f = open('0987ZaynDinMalibari.FathMucin.Shamela0011327-ara1.txt', 'r', encoding='utf-8')
 raw_text = f.read()
 f.close()
 
@@ -234,7 +234,7 @@ def audit_corpus(text):
 df_errors = audit_corpus(raw_text)
 
 # Simpan hasil ke CSV
-output_csv = 'laporan_error_corpus2.csv'
+output_csv = 'laporan_error_corpus_asli.csv'
 
 if not df_errors.empty:
     # Simpan ke CSV

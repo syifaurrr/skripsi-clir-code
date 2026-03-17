@@ -152,156 +152,156 @@ Baseline (DistilBERT Base),144,3,"Seorang pelaku kriminal sedang diadili oleh se
 Baseline (DistilBERT Base),147,3,Andi memiliki hutang terhadap Budi yang tidak kunjung dilunasi. Apakah boleh bagi Budi untuk mengambil harta Andi tanpa terlebih dahulu dilaporkan ke hakim?,105,❌ Miss,❌ Miss,❌ Miss,❌ Miss
 Baseline (DistilBERT Base),150,3,Seseorang menyaksikan satu orang laki-laki dan perempuan keluar dari kamar kos. Lalu ia menuduh keduanya telah berzina. Apakah kesaksiannya dapat dibenarkan?,255,❌ Miss,❌ Miss,❌ Miss,❌ Miss
 Baseline (DistilBERT Base),153,3,"Seseorang mengucapkan sumpah atas nama Allah, kemudian setelahnya ia mengatakan bahwa dirinya tidak bermaksud bersumpah.  Bagaimana hukum sumpahnya?",28,❌ Miss,❌ Miss,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),1,1,Kewajiban orang tua untuk memerintahkan sholat fardhu kepada anaknya yang telah berumur 7 tahun,2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),4,1,Kesunnahan membaca basmalah dalam wudhu,82,❌ Miss,❌ Miss,❌ Miss,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),7,1,Alasan-alasan yang membatalkan wudhu,19,❌ Miss,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),10,1,Syarat sah sholat yang kedua,352,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),13,1,Tata cara mensucikan najis (air seni) yang telah kering,45,❌ Miss,❌ Miss,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),16,1,Kewajiban mengingatkan seseorang yang pakaiannya terkena najis,27,❌ Miss,❌ Miss,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),19,1,Kesunahan membaca doa qunut di dalam sholat subuh,14,❌ Miss,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),22,1,Solusi bagi makmum ketika lupa membaca surah al-Fatihah dalam sholat berjamaah,4,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),25,1,Hukum melakukan sunnah ab'ad yang terlupakan setelah terlanjur melakukan rukun sholat,4,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),28,1,Kesunnahan adzan pada selain sholat fardhu,350,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),31,1,Keafdholan melakukan sholat berjamaah di masjid bagi laki-laki,85,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),1,1,Kewajiban orang tua untuk memerintahkan sholat fardhu kepada anaknya yang telah berumur 7 tahun,9,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),4,1,Kesunnahan membaca basmalah dalam wudhu,40,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),7,1,Alasan-alasan yang membatalkan wudhu,5,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),10,1,Syarat sah sholat yang kedua,127,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),13,1,Tata cara mensucikan najis (air seni) yang telah kering,35,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),16,1,Kewajiban mengingatkan seseorang yang pakaiannya terkena najis,72,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),19,1,Kesunahan membaca doa qunut di dalam sholat subuh,3,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),22,1,Solusi bagi makmum ketika lupa membaca surah al-Fatihah dalam sholat berjamaah,13,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),25,1,Hukum melakukan sunnah ab'ad yang terlupakan setelah terlanjur melakukan rukun sholat,15,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),28,1,Kesunnahan adzan pada selain sholat fardhu,295,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),31,1,Keafdholan melakukan sholat berjamaah di masjid bagi laki-laki,19,❌ Miss,✅ Hit,✅ Hit,✅ Hit
 DistilBERT Base Fine-Tuned (JH-POLO),34,1,Ketidak bolehan mengikuti imam yang ummi,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),37,1,Kebolehan mufaroqoh dari jamaah sholat jumat pada rakaat kedua,42,❌ Miss,❌ Miss,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),40,1,Kesunnahan imam/khatib ta'khir pada sholat Jumat,38,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),37,1,Kebolehan mufaroqoh dari jamaah sholat jumat pada rakaat kedua,18,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),40,1,Kesunnahan imam/khatib ta'khir pada sholat Jumat,5,✅ Hit,✅ Hit,✅ Hit,✅ Hit
 DistilBERT Base Fine-Tuned (JH-POLO),43,1,Keharaman mengkijing/ membangun bangunan permanen di atas kuburan,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),46,1,Kesunnahan melakukan ziarah kubur bagi laki-laki,84,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),46,1,Kesunnahan melakukan ziarah kubur bagi laki-laki,177,❌ Miss,❌ Miss,❌ Miss,❌ Miss
 DistilBERT Base Fine-Tuned (JH-POLO),49,1,Keharaman ta'khir membayar zakat fitrah di hari raya Idul Fitri tanpa adanya uzur,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),52,1,Memakai gamis saat ihram,71,❌ Miss,❌ Miss,❌ Miss,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),55,1,Syarat-syarat penerima zakat,188,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),58,1,Barang belum diterima sudah dijual kembali,4,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),61,1,Kewajiban orang yang ghasab,91,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),52,1,Memakai gamis saat ihram,111,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),55,1,Syarat-syarat penerima zakat,174,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),58,1,Barang belum diterima sudah dijual kembali,2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),61,1,Kewajiban orang yang ghasab,10,✅ Hit,✅ Hit,✅ Hit,✅ Hit
 DistilBERT Base Fine-Tuned (JH-POLO),64,1,Penetapan awal bulan ramadhan ,4,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),67,1,Syarat wajib puasa,112,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),70,1, syarat barang yang sah disewakan,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),73,1,mabuk perjalanan saat berpuasa,354,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),76,1,barang yang tidak boleh dipinjamkan,422,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),79,1,jual beli dengan ijab qabul main-main,382,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),82,1,menjual pupuk kandang,9,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),85,1,berhutang untuk maksiat,204,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),88,1,menggadaikan barang pinjaman ,98,❌ Miss,❌ Miss,❌ Miss,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),91,1,hantaran lamaran ,474,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),94,1,wasiatnya anak kecil,150,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),97,1,melihat kelamin perempuan yang belum baligh,343,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),100,1,mahar tidak disebutkan ketika akad nikah,2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),103,1,Diyat unta untuk pelaku pembunuhan,131,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),106,1,nikahnya perempuan dzimmi,45,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),67,1,Syarat wajib puasa,137,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),70,1, syarat barang yang sah disewakan,2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),73,1,mabuk perjalanan saat berpuasa,144,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),76,1,barang yang tidak boleh dipinjamkan,273,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),79,1,jual beli dengan ijab qabul main-main,203,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),82,1,menjual pupuk kandang,38,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),85,1,berhutang untuk maksiat,188,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),88,1,menggadaikan barang pinjaman ,183,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),91,1,hantaran lamaran ,528,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),94,1,wasiatnya anak kecil,86,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),97,1,melihat kelamin perempuan yang belum baligh,464,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),100,1,mahar tidak disebutkan ketika akad nikah,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),103,1,Diyat unta untuk pelaku pembunuhan,68,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),106,1,nikahnya perempuan dzimmi,43,❌ Miss,❌ Miss,✅ Hit,✅ Hit
 DistilBERT Base Fine-Tuned (JH-POLO),109,1,orang-orang yang tidak boleh menjadi wali nikah,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),112,1,hukum laki-laki memandang ajnabi,67,❌ Miss,❌ Miss,❌ Miss,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),115,1,mahar misil,591,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),118,1,Walimah ursy,382,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),112,1,hukum laki-laki memandang ajnabi,178,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),115,1,mahar misil,615,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),118,1,Walimah ursy,408,❌ Miss,❌ Miss,❌ Miss,❌ Miss
 DistilBERT Base Fine-Tuned (JH-POLO),121,1,definisi khulu',1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),124,1,Talak,82,❌ Miss,❌ Miss,❌ Miss,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),127,1,Syarat Ruju',545,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),130,1,Iddahnya perempuan yang ditinggal suaminya,24,❌ Miss,❌ Miss,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),133,1,Definisi Riddah,7,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),136,1,penyebab faskh nikah,4,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),139,1,syarat menjadi Qodli,2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),142,1,Hadiyyah Qodli,116,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),145,1,perkara-perkara yang wajib dilaporkan ke hakim,11,❌ Miss,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),148,1,Syahadah terhadap perzinaan,57,❌ Miss,❌ Miss,❌ Miss,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),151,1,Qosam dengan lafadh selain nama Allah,5,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),2,2,Bagaimana hukum memerintahkan sholat lima waktu bagi orang tua kepada anak?,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),5,2,Bagaimana hukum membaca basmalah di tengah-tengah wudhu?,87,❌ Miss,❌ Miss,❌ Miss,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),8,2,Apakah darah yang keluar dari anus (dubur) karena penyakit wasir (ambeien) dapat membatalkan wudhu?,15,❌ Miss,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),11,2,Bagaimana hukum melakukan sholat dengan memakai pakaian najis dalam keadaan lupa? ,5,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),14,2,Bagaiamana cara mensucikan najis berupa air seni yang telah mengering di lantai?,140,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),17,2,"Bagaiamana hukum mengingatkan seseorang yang hendak melaksanakan sholat, sedang pakaiannya terkena najis?",37,❌ Miss,❌ Miss,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),20,2,Apa hukum membaca doa qunut di dalam sholat subuh?,13,❌ Miss,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),23,2,Apa yang harus dilakukan makmum ketika lupa membaca surah al-Fatihah dalam sholat berjamaah?,2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),26,2,"Bagaimana hukum kembali melakukan tasyahud awal yang terlupakan, setelah terlanjur berdiri pada rakaat ketiga?",13,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),124,1,Talak,282,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),127,1,Syarat Ruju',481,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),130,1,Iddahnya perempuan yang ditinggal suaminya,22,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),133,1,Definisi Riddah,5,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),136,1,penyebab faskh nikah,7,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),139,1,syarat menjadi Qodli,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),142,1,Hadiyyah Qodli,549,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),145,1,perkara-perkara yang wajib dilaporkan ke hakim,46,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),148,1,Syahadah terhadap perzinaan,31,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),151,1,Qosam dengan lafadh selain nama Allah,3,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),2,2,Bagaimana hukum memerintahkan sholat lima waktu bagi orang tua kepada anak?,2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),5,2,Bagaimana hukum membaca basmalah di tengah-tengah wudhu?,65,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),8,2,Apakah darah yang keluar dari anus (dubur) karena penyakit wasir (ambeien) dapat membatalkan wudhu?,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),11,2,Bagaimana hukum melakukan sholat dengan memakai pakaian najis dalam keadaan lupa? ,40,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),14,2,Bagaiamana cara mensucikan najis berupa air seni yang telah mengering di lantai?,57,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),17,2,"Bagaiamana hukum mengingatkan seseorang yang hendak melaksanakan sholat, sedang pakaiannya terkena najis?",23,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),20,2,Apa hukum membaca doa qunut di dalam sholat subuh?,2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),23,2,Apa yang harus dilakukan makmum ketika lupa membaca surah al-Fatihah dalam sholat berjamaah?,10,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),26,2,"Bagaimana hukum kembali melakukan tasyahud awal yang terlupakan, setelah terlanjur berdiri pada rakaat ketiga?",25,❌ Miss,❌ Miss,✅ Hit,✅ Hit
 DistilBERT Base Fine-Tuned (JH-POLO),29,2,Apakah hukum melakukan adzan pada selain sholat lima waktu? ,258,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),32,2,Apakah melakukan sholat berjamaah di masjid lebih utama dibandingkan di rumah bagi seorang laki-laki?,79,❌ Miss,❌ Miss,❌ Miss,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),35,2,Apakah seseorang yang bacaan al-fatihahnya baik diperbolehkan mengikuti seorang imam yang bacaan al-fatihahnya buruk? ,4,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),38,2,Apakah memisahkan diri dari sholat jamaah jumat di rakaat kedua diperbolehkan?,49,❌ Miss,❌ Miss,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),41,2,Bagaimana hukum mengakhirkan kedatangan bagi imam/khatib dalam pelaksanaan sholat Jumat ?,32,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),32,2,Apakah melakukan sholat berjamaah di masjid lebih utama dibandingkan di rumah bagi seorang laki-laki?,16,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),35,2,Apakah seseorang yang bacaan al-fatihahnya baik diperbolehkan mengikuti seorang imam yang bacaan al-fatihahnya buruk? ,19,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),38,2,Apakah memisahkan diri dari sholat jamaah jumat di rakaat kedua diperbolehkan?,15,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),41,2,Bagaimana hukum mengakhirkan kedatangan bagi imam/khatib dalam pelaksanaan sholat Jumat ?,2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
 DistilBERT Base Fine-Tuned (JH-POLO),44,2,Bagaimana hukum mengkijing/ membangun bangunan permanen di atas kuburan?,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),47,2,Apa hukum melakukan ziarah kubur bagi laki-laki?,322,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),50,2,Apakah diperbolehkah mengakhirkan membayar zakat fitrah tanpa adanya halangan?,43,❌ Miss,❌ Miss,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),53,2,Apa denda bagi orang yang melakukan perbuatan yang diharamkan ketika haji?,119,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),56,2,Apa hukum memberikan zakat kepada orang kafir?,10,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),59,2,kapan pembeli dianggap menerima rumah yang ia beli?,30,❌ Miss,❌ Miss,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),62,2,hukum menggunakan barang orang lain tanpa izin,47,❌ Miss,❌ Miss,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),65,2,Kapan pertama kali puasa ramadhan diwajibkan dalam Islam?,6,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),68,2,Mengapa wanita yang sedang haid atau nifas dilarang untuk berpuasa?,186,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),71,2,Bolehkah menyewa seseorang hanya untuk menawarkan barang dagangan?,16,❌ Miss,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),74,2,apakah mimpi basah dapat membatalkan puasa?,386,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),77,2,apa yang menjadi tanggung jawab peminjam saat barang pinjaman rusak?,165,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),80,2,mengapa pada jual beli harus ada akad?,187,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),83,2,apa hukum membeli barang yang belum pernah dilihat oleh pembeli?,244,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),86,2,mana yang lebih utama antara memberikan hutang atau bersedekah?,39,❌ Miss,❌ Miss,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),89,2,apakah bisa orang tua menggadaikan harta anaknya?,365,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),92,2,bolehkan menerima pemberian dari orang yang telah kita selamatkan?,10,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),95,2,berapa batas maksimal wasiat?,9,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),98,2,apakah suara perempuan termasuk aurat?,41,❌ Miss,❌ Miss,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),101,2,bagaimana jika salah menyebutkan nama calon istri ketika qabul nikah?,4,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),104,2,bagaimana jika seseorang yang terkena denda berupa unta tapi dia tidak menemukan unta di daerahnya?,88,❌ Miss,❌ Miss,❌ Miss,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),107,2,Apa saja syarat perempuan yang boleh dinikahi,7,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),110,2,Apa saja syarat wali nikah,16,❌ Miss,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),113,2,Bagaimana hukum melihat alat kelamin anak kecil?,288,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),116,2,Apa itu maskawin sepadan?,256,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),119,2,Bagaimana hukum resepsi pernikahan,129,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),122,2,Apa hukum cerai tebus,53,❌ Miss,❌ Miss,❌ Miss,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),125,2,Apa hukum perceraian?,395,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),128,2,Apa saja syarat rujuk setelah bercerai?,383,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),131,2,Apa saja pantangan bagi seorang perempuan yang ditinggal mati suaminya?,88,❌ Miss,❌ Miss,❌ Miss,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),134,2,Apa tebusan yang perlu dikeluarkan oleh seseorang yang membunuh orang islam secara sengaja?,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),137,2,Bagaimana hukum membatalkan pernikahan yang diajukan oleh istri karena suami tidak mampu mencukupi kebutuhan istri,7,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),47,2,Apa hukum melakukan ziarah kubur bagi laki-laki?,370,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),50,2,Apakah diperbolehkah mengakhirkan membayar zakat fitrah tanpa adanya halangan?,2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),53,2,Apa denda bagi orang yang melakukan perbuatan yang diharamkan ketika haji?,98,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),56,2,Apa hukum memberikan zakat kepada orang kafir?,19,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),59,2,kapan pembeli dianggap menerima rumah yang ia beli?,3,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),62,2,hukum menggunakan barang orang lain tanpa izin,15,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),65,2,Kapan pertama kali puasa ramadhan diwajibkan dalam Islam?,4,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),68,2,Mengapa wanita yang sedang haid atau nifas dilarang untuk berpuasa?,77,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),71,2,Bolehkah menyewa seseorang hanya untuk menawarkan barang dagangan?,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),74,2,apakah mimpi basah dapat membatalkan puasa?,84,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),77,2,apa yang menjadi tanggung jawab peminjam saat barang pinjaman rusak?,134,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),80,2,mengapa pada jual beli harus ada akad?,229,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),83,2,apa hukum membeli barang yang belum pernah dilihat oleh pembeli?,469,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),86,2,mana yang lebih utama antara memberikan hutang atau bersedekah?,5,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),89,2,apakah bisa orang tua menggadaikan harta anaknya?,168,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),92,2,bolehkan menerima pemberian dari orang yang telah kita selamatkan?,5,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),95,2,berapa batas maksimal wasiat?,17,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),98,2,apakah suara perempuan termasuk aurat?,245,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),101,2,bagaimana jika salah menyebutkan nama calon istri ketika qabul nikah?,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),104,2,bagaimana jika seseorang yang terkena denda berupa unta tapi dia tidak menemukan unta di daerahnya?,79,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),107,2,Apa saja syarat perempuan yang boleh dinikahi,12,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),110,2,Apa saja syarat wali nikah,5,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),113,2,Bagaimana hukum melihat alat kelamin anak kecil?,293,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),116,2,Apa itu maskawin sepadan?,388,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),119,2,Bagaimana hukum resepsi pernikahan,87,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),122,2,Apa hukum cerai tebus,39,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),125,2,Apa hukum perceraian?,333,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),128,2,Apa saja syarat rujuk setelah bercerai?,421,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),131,2,Apa saja pantangan bagi seorang perempuan yang ditinggal mati suaminya?,31,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),134,2,Apa tebusan yang perlu dikeluarkan oleh seseorang yang membunuh orang islam secara sengaja?,7,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),137,2,Bagaimana hukum membatalkan pernikahan yang diajukan oleh istri karena suami tidak mampu mencukupi kebutuhan istri,13,❌ Miss,✅ Hit,✅ Hit,✅ Hit
 DistilBERT Base Fine-Tuned (JH-POLO),140,2,Apa saja syarat seorang hakim dalam sistem hukum Islam?,5,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),143,2,Bagaimana hukum gratifikasi terhadap hakim yang memutuskan perkara?,37,❌ Miss,❌ Miss,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),146,2,Bagaimana hukum mengambil barang milik orang yang memiliki hutang dengan kita namun tidak kunjung membayar?,30,❌ Miss,❌ Miss,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),149,2,Berapa orang saksi dibutuhkan dalam perkara ketetapan awal bulan puasa?,4,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),152,2,Bagaimana hukum bersumpah menggunakan makhluk?,34,❌ Miss,❌ Miss,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),3,3,"Pak Arif mempunyai dua anak. Anak yang pertama berumur 7 tahun, sedangkan anak kedua baru berumur 5 tahun. Apakah Pak Arif berkewajiban memerintahkan sholat lima waktu kepada kedua anaknya?",1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),6,3,"Fahmi merupakan santri yang selalu melakukan kesunnahan ketika berwudhu, mulai dari membaca basmalah, berkumur, memasukkan air ke dalam hidung dan kesunnahan-kesunnahan lainnya. Suatu ketika, Fahmi lupa melakukan membaca basmalah di awal wudhu, dan ia teringat setelah berada di tengah-tengah wudhu. Apakah Fahmi tetap disunnahkan membaca basmalah?",78,❌ Miss,❌ Miss,❌ Miss,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),9,3,"Siti merupakan pasien penderita penyakit wasir (ambeien). Menurut penjelasan dokter, Penyakit ambeien adalah munculnya benjolan di anus dan rektum bagian bawah yang bisa menyebabkan rasa sakit, gatal bahkan pendarahan pada dubur. Benjolan yang muncul tersebut merupakan pembuluh darah vena di sekitar anus dan rektum yang membengkak. Suatu hari ketika Siti hendak melaksanakan sholat, ia mendapati bahwa duburnya terjadi pendaharan akibat penyakit wasir (ambeien) tersebut. Sesuai kronologi tersebut, apakah wudhu yang dilakukan Siti menjadi batal?",76,❌ Miss,❌ Miss,❌ Miss,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),12,3,"Pak Imam merupakan salah seorang yang sangat berhati-hati dalam menjaga kesucian pakaiannya dalam sholat. Suatu ketika, ia melakukan sholat dzuhur, namun ia lupa bahwa pakaian yang dikenakannya sudah terkena kotoran burung saat ia berada dalam perjalanan menuju rumah.  Sahkah sholat yang dilakukan oleh Pak Imam?",19,❌ Miss,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),15,3,Nabila merupakan seorang pecinta kucing. Kecintaannya terhadap kucing membuatnya memelihara beberapa kucing yang diletakkan di salah satu ruangan di rumahnya. Ruangan tersebut tentunya tidak bisa terhindarkan dari bekas air seni kucing yang telah mengering. Bagaimana cara mensucikan air seni kucing yang telah mengering tersebut?,137,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),18,3,"Suatu ketka, saat Mas Agil ingin melaksanakan sholat jamaah di Masjid, ia mengetahui ada najis yang menempel di pakaian salah satu seseorang yang sedang sholat. Apa yang harus dilakukan Mas Agil apabila ia mengetahui ada najis yang menempel di pakaian seseorang yang sedang sholat?",165,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),21,3,"Kevin merupakan seorang mualaf yang baru saja masuk Islam 2 bulan lalu. Ia belum banyak mengetahui mengenai kesunnahan yang ada di dalam sholat. Saat melakukan jamaah sholat subuh, ia bingung dan bertanya-tanya karena ada salah satu doa yang dipanjatkan di tengah-tengah sholat yang setelah ia cari tahu nama dari doa tersebut adalah doa Qunut. Apa hukum membaca doa Qunut dalam sholat subuh tersebut?",20,❌ Miss,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),24,3,"Suatu ketika, kang Hanif sedang melakukan sholat isya' berjamaah bersama temannya di kamar. Sangking merdunya bacaan surah yang dilafadzkan oleh temannya, kang Hanif sampai lupa bahwa ia belum membaca surah al-Fatihah di rakaat pertama. Apa yang harus dilakukan kang Hanif?",1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),143,2,Bagaimana hukum gratifikasi terhadap hakim yang memutuskan perkara?,55,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),146,2,Bagaimana hukum mengambil barang milik orang yang memiliki hutang dengan kita namun tidak kunjung membayar?,7,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),149,2,Berapa orang saksi dibutuhkan dalam perkara ketetapan awal bulan puasa?,5,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),152,2,Bagaimana hukum bersumpah menggunakan makhluk?,33,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),3,3,"Pak Arif mempunyai dua anak. Anak yang pertama berumur 7 tahun, sedangkan anak kedua baru berumur 5 tahun. Apakah Pak Arif berkewajiban memerintahkan sholat lima waktu kepada kedua anaknya?",3,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),6,3,"Fahmi merupakan santri yang selalu melakukan kesunnahan ketika berwudhu, mulai dari membaca basmalah, berkumur, memasukkan air ke dalam hidung dan kesunnahan-kesunnahan lainnya. Suatu ketika, Fahmi lupa melakukan membaca basmalah di awal wudhu, dan ia teringat setelah berada di tengah-tengah wudhu. Apakah Fahmi tetap disunnahkan membaca basmalah?",58,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),9,3,"Siti merupakan pasien penderita penyakit wasir (ambeien). Menurut penjelasan dokter, Penyakit ambeien adalah munculnya benjolan di anus dan rektum bagian bawah yang bisa menyebabkan rasa sakit, gatal bahkan pendarahan pada dubur. Benjolan yang muncul tersebut merupakan pembuluh darah vena di sekitar anus dan rektum yang membengkak. Suatu hari ketika Siti hendak melaksanakan sholat, ia mendapati bahwa duburnya terjadi pendaharan akibat penyakit wasir (ambeien) tersebut. Sesuai kronologi tersebut, apakah wudhu yang dilakukan Siti menjadi batal?",17,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),12,3,"Pak Imam merupakan salah seorang yang sangat berhati-hati dalam menjaga kesucian pakaiannya dalam sholat. Suatu ketika, ia melakukan sholat dzuhur, namun ia lupa bahwa pakaian yang dikenakannya sudah terkena kotoran burung saat ia berada dalam perjalanan menuju rumah.  Sahkah sholat yang dilakukan oleh Pak Imam?",42,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),15,3,Nabila merupakan seorang pecinta kucing. Kecintaannya terhadap kucing membuatnya memelihara beberapa kucing yang diletakkan di salah satu ruangan di rumahnya. Ruangan tersebut tentunya tidak bisa terhindarkan dari bekas air seni kucing yang telah mengering. Bagaimana cara mensucikan air seni kucing yang telah mengering tersebut?,74,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),18,3,"Suatu ketka, saat Mas Agil ingin melaksanakan sholat jamaah di Masjid, ia mengetahui ada najis yang menempel di pakaian salah satu seseorang yang sedang sholat. Apa yang harus dilakukan Mas Agil apabila ia mengetahui ada najis yang menempel di pakaian seseorang yang sedang sholat?",162,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),21,3,"Kevin merupakan seorang mualaf yang baru saja masuk Islam 2 bulan lalu. Ia belum banyak mengetahui mengenai kesunnahan yang ada di dalam sholat. Saat melakukan jamaah sholat subuh, ia bingung dan bertanya-tanya karena ada salah satu doa yang dipanjatkan di tengah-tengah sholat yang setelah ia cari tahu nama dari doa tersebut adalah doa Qunut. Apa hukum membaca doa Qunut dalam sholat subuh tersebut?",9,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),24,3,"Suatu ketika, kang Hanif sedang melakukan sholat isya' berjamaah bersama temannya di kamar. Sangking merdunya bacaan surah yang dilafadzkan oleh temannya, kang Hanif sampai lupa bahwa ia belum membaca surah al-Fatihah di rakaat pertama. Apa yang harus dilakukan kang Hanif?",7,✅ Hit,✅ Hit,✅ Hit,✅ Hit
 DistilBERT Base Fine-Tuned (JH-POLO),27,3,"Suatu ketika, saat mas Baihaqy sedang melakukan sholat Isya', ia lupa melakukan duduk tasyahud awal. Ia teringat ketika sudah sempurna melakukan berdiri pada rakaat ketiga, seketika ia duduk kembali ke posisi tasyahud awal untuk memenuhi apa yang ia tinggalkan tadi. Apa tindakan yang dilakukan oleh mas Baihaqy, seperti kembali duduk tasyahud awal setelah sempurna berdiri tersebut diperbolehkan? ",12,❌ Miss,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),30,3,"Pak Yono merupakan seseorang yang awam dalam pengetahuan agama.  Ketika anak pertamanya lahir, ia melakukan adzan dan iqomah kepada anaknya dengan meniru sinetron yang sering ia tonton di televisi tanpa mengerti apa hukum dari melakukan adzan tersebut. Apa hukum melakukan adzan kepada anak yang baru lahir tersebut?",128,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),33,3,"Kang Ghufron merupakan seseorang yang sering melakukan sholat berjamaah. Namun, ia tidak selalu melakukannya di masjid, terkadang ia juga melakukan sholat berjamaah di rumahnya, terkadang juga di tempat kerjanya. Manakah sholat berjamaah yang lebih utama dilakukan oleh Kang Ghufron?",80,❌ Miss,❌ Miss,❌ Miss,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),36,3,"Kang Ilham merupakan seorang santri yang telah belajar di pondok pesantren al-Qur'an bertahun-tahun, sehingga bacaan al-Qur'annya sudah sangat baik (fasih). Saat ia ingin melakukan sholat maghrib berjamaah di mushola kampungnya, ia mendapati bahwa bacaan al-fatihah imam masih banyak kesalahan dalam pengucapannya. Bolehkah Kang Ilham mengikuti sholat maghrib berjamaah bersama imam tersebut?",2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),39,3,"Pak Sugito sedang melakukan jamaah sholat jumat. Saat imam memasuki rakaat kedua, Pak Sugito merasakan perutnya sangat mulas, sehingga menyebabkan ia memisahkan diri dari jamaah sholat jumaat dengan menyempurnakan rakaat keduanya sendiri tanpa mengikuti imam. Apakah yang dilakukan Pak Sugito tersebut diperbolehkan?",73,❌ Miss,❌ Miss,❌ Miss,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),42,3,"Pak Aziz merupakan imam sekalius khatib sholat Jumat di salah satu masjid di Wonosobo. Dalam pelaksanaanya, beliau selalu datang paling akhir, tepatnya setelah adzan pertama dikumandangkan. Apa hukum tindakan yang dilakukan oleh pak Aziz tersebut?",40,❌ Miss,❌ Miss,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),45,3,"Pak Gatot adalah seseorang yang baru saja ditinggal mati istrinya. Dalam proses pemakamannya, Pak Gatot berencana mengkijing/ membangun bangunan permanen di atas kuburan istrinya tanpa ada kebutuhan apa pun. Padahal, tanah yang digunakan adalah tanah wakaf yang tidak hanya digunakan oleh dirinya sendiri, tapi juga digunakan untuk pemakaman umum. Bolehkah mengkijing/ membangun bangunan permanen di atas kuburan?",1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),48,3,"Kang Ihsan merupakan anak yang saleh. Ia selalu mendoakan kedua orang tuanya setiap setelah melakukan sholat lima waktu, pun dalam seminggu sekali ia juga sering menziarahi makam bapaknya yang telah meninggal. Apa hukum melakukan ziarah seperti yang dilakukan Kang Ihsan tersebut?",165,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),51,3,"Pak Sukandar merupakah salah seorang muslim yang terbilang sangat mampu dalam segi ekonomi. Suatu saat, ia sengaja mengakhirkan membayar zakat fitrah tanpa adanya suatu halangan apapun seperti kendala ekonomi maupun tidak adanya seseorang yang berhak menerima zakat tersebut. Apa hukum tindakan mengakhirkan zakat yang dilakukan oleh Pak Sukandar?",150,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),54,3,"Rehan sedang melaksanakan ibadah haji, namun ditengah pelaksanaan ibadah haji, ia kehilangan pakaian ihramnya dan tidak menemukan apapun selain pakaian yang berjahit, apakah ia terkena sanksi?",152,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),57,3,"Fikri adalah panitia penerima dan penyalur zakat di desanya, suatu hari ia memberikan zakat kepada seorang fakir yang dikemudian hari diketahui masih memiliki anak yang mampu menafkahinya, apakah penyaluran zakat tersebut sudah sah?",207,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),60,3,"Diyah membeli telur sebanyak 1 kg untuk keperluan membuat roti, saat penjual menyerahkan telur yang berada di kresek, penjual tidak sengaja menjatuhkannya sebelum Diyah benar-benar menerimanya, dalam kondisi seperti itu siapa yang menanggung kerugiannya?  ",10,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),63,3,"Di dalam kereta api jarak jauh, seorang penumpang ilegal yang tidak memiliki tiket tempat duduk, mengusir penumpang yang sudah duduk sesuai nomor kursinya lalu mengambil alih kursinya, apa status perbuatan yang dilakukannya? ",33,❌ Miss,❌ Miss,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),66,3,"Para ahli astronomi di Cina - yang mayoritas beragama non muslim- mengaku telah melihat bulan baru, kabar tersebut dengan cepat tersebar kepada penduduk Cina yang beragama Islam, dapatkah informasi tersebut dijadikan dasar penetapan awal bulan?",3,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),69,3,"Seorang Muslim makan sahur dengan tujuan agar kuat berpuasa, namun ia lupa melintaskan niat puasa wajib di hatinya, apakah puasanya sah?",56,❌ Miss,❌ Miss,❌ Miss,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),72,3,"seorang kiai langgaran diminta membantu proses akad nikah dengan membimbing calon suami untuk malafalkan qabul nikah berbahasa arab, setelah akad selesai kiai ini meminta sejumlah uang sebagai imbalan atas jasa tersebut, bagaimana status pengambilan upah dalam kasus ini?",64,❌ Miss,❌ Miss,❌ Miss,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),75,3,"Karena masih dalam masa pengantin baru, Mas Jiko tidak dapat menahan diri untuk terus menciumi istrinya saat sedang berpuasa ramadan hingga keluar mani, apakah puasanya tetap sah ? ",153,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),78,3,"Dana dan Dono  adalah kakak beradik yang usianya terlampau jauh, saat ini Dana berusia 28 tahun sedangkan Dono masih berusia 8 tahun. suatu hari Dana menyuruh adiknya, Dono, untuk meminjam kamera kepada paman mereka. Dono pun berhasil mendapatkan kamera itu dari pamannya, saat perjalanan kembali, kamera itu terjatuh dan rusak. Dalam kondisi seperti ini, siapa yang bertanggungjawab atas kerusakan tersebut?",622,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),81,3," Sekolah SMP Harapan Bangsa menerapkan konsep Kantin Kejujuran untuk membentuk karakter siswa menjadi pribadi yang jujur. kantin ini menyediakan seluruh kebutuhan siswa dengan disertai harga yang tercantum jelas di daftarnya. para siswa cukup meletakkan sejumlah uang yang seharga barang yang dibeli pada tempat yang telah disediakan. kondisi ini menimbukan kekhawatiran tentang apakah jual beli yang mereka lakukan sah, padahal tidak ada ijab dan qabul di dalamnya?",627,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),84,3,"seorang petani muda menjual hasil panen gabahnya kepada pengepul. Ia hanya memperihatkan sebagian gabah sebagai contoh untuk meyakinkan pembeli tentang kualitasnya, sementara sisa gabahnya tetap berada dalam karung-karung yang tertutup rapat. dalam hal ini apakah jual beli tersebut sah?",133,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),87,3,"sebut saja nama Toni, dia adalah seorang saudagar sukses yang telah punya banyak pengalaman dibidang jual beli properti. suatu hari, Toni kedatangan teman lama yang senang bermain slot atau judi online bernama Joko. tujuan Joko kemudian diketahui ingin berhutang sebanyak 15 juta dan berjanji akan membayarnya seminggu kemudian. apakah Toni boleh memberikan hutang kepada Joko ketika ada kemungkinan besar Joko tidak akan membayarnya?",210,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),90,3,"karena pertumbuhan penduduk sangat cepat, sebuah desa ingin merenovasi masjid menjadi dua lantai, yang jika dihitung-hitung menghabiskan biaya cukup besar. setelah melakukan muysawarah, biaya ini kemudian diambil dari kas masjid serta sumbangan masyarakat. Selain itu, muncul keinginan untuk menggadaikan sawah wakaf sebagai tambahan biaya renovasi. apakah tindakan ini diperbolehkan? ",306,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),93,3,"Rafi melamar seorang perempuan yang sangat ia cintai. Sebagai bentuk keseriusannya, ia menyerahkan uang sebanyak 10 juta rupiah dan berbagai bingkisan lainnya kepada calon istri melalui walinya. namun kenyataan pahit harus diterima Rafi, cinta Rafi bertepuk sebelah tangan. calon istri ternyata sudah memiliki calon yang lebih pantas menurutnya. apakah Rafi berhak meminta uang dan bingkisan yang telah ia berikan?",61,❌ Miss,❌ Miss,❌ Miss,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),96,3,"Hasan adalah pengusaha makanan cepat saji yang sedang sakit keras. Harta yang dimilikinya sekitar 15 Milyar. Ia ingin menyerahkan sebagian hartanya untuk pembangunan masjid di desanya.  Dalam surat wasiatnya, Hasan menyerahkan sebanyak 7,5 Milyar untuk diserahkan ke masjid. apakah wasiat seperti ini dapat dilaksanakan atau ada batasan tertentu?",376,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),99,3,"Rahmat sedang mendatangi acara walimah saudara laki-lakinya, tanpa sengaja ia duduk di depan seorang gadis non mahram. merasa ada kesempatan ia memadangi gadis ini berulang kali, meskipun tidak ada kebutuhan mendesak untuk melihatnya. dalam kondisi seperti ini bagaimana status pandangan Rahmat menurut hukum?",120,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),102,3,"Hartono menikahi Lim, dengan dihadiri oleh wali dan dua orang saksi, namun setelah akad nikah berlangsung Lim mengaku belum meyelesaikan masa iddah dari pernikahan sebelumnya. bagaimana status akad nikah yang dilakukan oleh Hartono?",3,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),105,3,Seseorang didakwa telah melakukan tindakan kriminal dan dikenai hukuman membayar diyat beberapa ekor unta. Namun kebetulan di daerahnya tidak terdapat unta. Bagaimana ia membayar diyat tersebut,98,❌ Miss,❌ Miss,❌ Miss,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),108,3,Marak terjadi di zaman sekarang pernikahan beda agama. Bagaimana islam memandang hal tersebut?,8,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),111,3,Seorang perempuan ingin menikah dan ia bingung untuk menentukan walinya. Bapaknya dulu merupakan seorang preman kampung meski sekarang sudah taubat. Apakah boleh dia menjadi wali nikah untuk anaknya,8,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),114,3,"Seorang santri sedang kasmaran dengan santriwati. Tiba-tiba santri tersebut melihat sekilas pujaan hatinya ada di depan pondok. Karena ia tidak berani memandangnya secara langsung, ia memandangnya lewat pantulan kaca mobil. Apakah hal tersebut diperbolehkan?",150,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),117,3,"Seorang perempuan baru saja menikah namun dia belum menerima maharnya. Selang satu hari karena suatu hal, tiba-tiba dia dicerai oleh suaminya. Lalu bagaimana status maharnya?",81,❌ Miss,❌ Miss,❌ Miss,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),120,3,Ada seorang laki-laki memberikan sesuatu kepada perempuan yang dilamarnya. Dia bilang kalo ini merupakan mahar pernikahannya nanti. Sementara si perempuan bilang itu cuma hadiah biasa. Perkataan siapa yang dibenarkan?,60,❌ Miss,❌ Miss,❌ Miss,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),123,3,"Seorang laki mengucapkan kepada istri ""Aku khulu kamu"" namun dia tidak menyebutkan nominal tebusan. Apakah si perempuan wajib membayar tebusan? jika iya berapa tebusannya?",64,❌ Miss,❌ Miss,❌ Miss,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),126,3,Seorang kepala rumah tangga berada dalam garis kemiskinan. Dia merasa dirinya tidak bisa memenuhi hak-hak istri dan anaknya. Dia kemudian memutuskan untuk menceraikan istrinya. Bagaimana hukum perceraian dengan latar belakang demikian?,266,❌ Miss,❌ Miss,❌ Miss,❌ Miss
-DistilBERT Base Fine-Tuned (JH-POLO),129,3,Seorang laki-laki telah mentalak tiga istrinya. Apakah boleh baginya untuk rujuk?,98,❌ Miss,❌ Miss,❌ Miss,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),132,3,"Seorang perempuan menikah pada usia 18 tahun, setahun berselang suaminya meninggal. Sebulan setelahnya, selayaknya perempuan seumurannya dia ingin menghibur diri dengan bermain bersama teman-temannya, berdandan, dsb. Apakah hal tersebut dibolehkan?",16,❌ Miss,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),135,3,"Seseorang sedang menjadi tawanan perang. Ia  kemudian dipaksa untuk keluar dari agama islam (murtad) karena jika tidak, ia akan disiksa habis-habisan. Apakah boleh murtad karena kondisi tersebut?",2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),30,3,"Pak Yono merupakan seseorang yang awam dalam pengetahuan agama.  Ketika anak pertamanya lahir, ia melakukan adzan dan iqomah kepada anaknya dengan meniru sinetron yang sering ia tonton di televisi tanpa mengerti apa hukum dari melakukan adzan tersebut. Apa hukum melakukan adzan kepada anak yang baru lahir tersebut?",23,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),33,3,"Kang Ghufron merupakan seseorang yang sering melakukan sholat berjamaah. Namun, ia tidak selalu melakukannya di masjid, terkadang ia juga melakukan sholat berjamaah di rumahnya, terkadang juga di tempat kerjanya. Manakah sholat berjamaah yang lebih utama dilakukan oleh Kang Ghufron?",10,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),36,3,"Kang Ilham merupakan seorang santri yang telah belajar di pondok pesantren al-Qur'an bertahun-tahun, sehingga bacaan al-Qur'annya sudah sangat baik (fasih). Saat ia ingin melakukan sholat maghrib berjamaah di mushola kampungnya, ia mendapati bahwa bacaan al-fatihah imam masih banyak kesalahan dalam pengucapannya. Bolehkah Kang Ilham mengikuti sholat maghrib berjamaah bersama imam tersebut?",11,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),39,3,"Pak Sugito sedang melakukan jamaah sholat jumat. Saat imam memasuki rakaat kedua, Pak Sugito merasakan perutnya sangat mulas, sehingga menyebabkan ia memisahkan diri dari jamaah sholat jumaat dengan menyempurnakan rakaat keduanya sendiri tanpa mengikuti imam. Apakah yang dilakukan Pak Sugito tersebut diperbolehkan?",41,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),42,3,"Pak Aziz merupakan imam sekalius khatib sholat Jumat di salah satu masjid di Wonosobo. Dalam pelaksanaanya, beliau selalu datang paling akhir, tepatnya setelah adzan pertama dikumandangkan. Apa hukum tindakan yang dilakukan oleh pak Aziz tersebut?",8,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),45,3,"Pak Gatot adalah seseorang yang baru saja ditinggal mati istrinya. Dalam proses pemakamannya, Pak Gatot berencana mengkijing/ membangun bangunan permanen di atas kuburan istrinya tanpa ada kebutuhan apa pun. Padahal, tanah yang digunakan adalah tanah wakaf yang tidak hanya digunakan oleh dirinya sendiri, tapi juga digunakan untuk pemakaman umum. Bolehkah mengkijing/ membangun bangunan permanen di atas kuburan?",2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),48,3,"Kang Ihsan merupakan anak yang saleh. Ia selalu mendoakan kedua orang tuanya setiap setelah melakukan sholat lima waktu, pun dalam seminggu sekali ia juga sering menziarahi makam bapaknya yang telah meninggal. Apa hukum melakukan ziarah seperti yang dilakukan Kang Ihsan tersebut?",215,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),51,3,"Pak Sukandar merupakah salah seorang muslim yang terbilang sangat mampu dalam segi ekonomi. Suatu saat, ia sengaja mengakhirkan membayar zakat fitrah tanpa adanya suatu halangan apapun seperti kendala ekonomi maupun tidak adanya seseorang yang berhak menerima zakat tersebut. Apa hukum tindakan mengakhirkan zakat yang dilakukan oleh Pak Sukandar?",2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),54,3,"Rehan sedang melaksanakan ibadah haji, namun ditengah pelaksanaan ibadah haji, ia kehilangan pakaian ihramnya dan tidak menemukan apapun selain pakaian yang berjahit, apakah ia terkena sanksi?",268,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),57,3,"Fikri adalah panitia penerima dan penyalur zakat di desanya, suatu hari ia memberikan zakat kepada seorang fakir yang dikemudian hari diketahui masih memiliki anak yang mampu menafkahinya, apakah penyaluran zakat tersebut sudah sah?",112,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),60,3,"Diyah membeli telur sebanyak 1 kg untuk keperluan membuat roti, saat penjual menyerahkan telur yang berada di kresek, penjual tidak sengaja menjatuhkannya sebelum Diyah benar-benar menerimanya, dalam kondisi seperti itu siapa yang menanggung kerugiannya?  ",2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),63,3,"Di dalam kereta api jarak jauh, seorang penumpang ilegal yang tidak memiliki tiket tempat duduk, mengusir penumpang yang sudah duduk sesuai nomor kursinya lalu mengambil alih kursinya, apa status perbuatan yang dilakukannya? ",35,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),66,3,"Para ahli astronomi di Cina - yang mayoritas beragama non muslim- mengaku telah melihat bulan baru, kabar tersebut dengan cepat tersebar kepada penduduk Cina yang beragama Islam, dapatkah informasi tersebut dijadikan dasar penetapan awal bulan?",1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),69,3,"Seorang Muslim makan sahur dengan tujuan agar kuat berpuasa, namun ia lupa melintaskan niat puasa wajib di hatinya, apakah puasanya sah?",60,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),72,3,"seorang kiai langgaran diminta membantu proses akad nikah dengan membimbing calon suami untuk malafalkan qabul nikah berbahasa arab, setelah akad selesai kiai ini meminta sejumlah uang sebagai imbalan atas jasa tersebut, bagaimana status pengambilan upah dalam kasus ini?",40,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),75,3,"Karena masih dalam masa pengantin baru, Mas Jiko tidak dapat menahan diri untuk terus menciumi istrinya saat sedang berpuasa ramadan hingga keluar mani, apakah puasanya tetap sah ? ",95,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),78,3,"Dana dan Dono  adalah kakak beradik yang usianya terlampau jauh, saat ini Dana berusia 28 tahun sedangkan Dono masih berusia 8 tahun. suatu hari Dana menyuruh adiknya, Dono, untuk meminjam kamera kepada paman mereka. Dono pun berhasil mendapatkan kamera itu dari pamannya, saat perjalanan kembali, kamera itu terjatuh dan rusak. Dalam kondisi seperti ini, siapa yang bertanggungjawab atas kerusakan tersebut?",427,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),81,3," Sekolah SMP Harapan Bangsa menerapkan konsep Kantin Kejujuran untuk membentuk karakter siswa menjadi pribadi yang jujur. kantin ini menyediakan seluruh kebutuhan siswa dengan disertai harga yang tercantum jelas di daftarnya. para siswa cukup meletakkan sejumlah uang yang seharga barang yang dibeli pada tempat yang telah disediakan. kondisi ini menimbukan kekhawatiran tentang apakah jual beli yang mereka lakukan sah, padahal tidak ada ijab dan qabul di dalamnya?",561,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),84,3,"seorang petani muda menjual hasil panen gabahnya kepada pengepul. Ia hanya memperihatkan sebagian gabah sebagai contoh untuk meyakinkan pembeli tentang kualitasnya, sementara sisa gabahnya tetap berada dalam karung-karung yang tertutup rapat. dalam hal ini apakah jual beli tersebut sah?",423,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),87,3,"sebut saja nama Toni, dia adalah seorang saudagar sukses yang telah punya banyak pengalaman dibidang jual beli properti. suatu hari, Toni kedatangan teman lama yang senang bermain slot atau judi online bernama Joko. tujuan Joko kemudian diketahui ingin berhutang sebanyak 15 juta dan berjanji akan membayarnya seminggu kemudian. apakah Toni boleh memberikan hutang kepada Joko ketika ada kemungkinan besar Joko tidak akan membayarnya?",228,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),90,3,"karena pertumbuhan penduduk sangat cepat, sebuah desa ingin merenovasi masjid menjadi dua lantai, yang jika dihitung-hitung menghabiskan biaya cukup besar. setelah melakukan muysawarah, biaya ini kemudian diambil dari kas masjid serta sumbangan masyarakat. Selain itu, muncul keinginan untuk menggadaikan sawah wakaf sebagai tambahan biaya renovasi. apakah tindakan ini diperbolehkan? ",102,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),93,3,"Rafi melamar seorang perempuan yang sangat ia cintai. Sebagai bentuk keseriusannya, ia menyerahkan uang sebanyak 10 juta rupiah dan berbagai bingkisan lainnya kepada calon istri melalui walinya. namun kenyataan pahit harus diterima Rafi, cinta Rafi bertepuk sebelah tangan. calon istri ternyata sudah memiliki calon yang lebih pantas menurutnya. apakah Rafi berhak meminta uang dan bingkisan yang telah ia berikan?",24,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),96,3,"Hasan adalah pengusaha makanan cepat saji yang sedang sakit keras. Harta yang dimilikinya sekitar 15 Milyar. Ia ingin menyerahkan sebagian hartanya untuk pembangunan masjid di desanya.  Dalam surat wasiatnya, Hasan menyerahkan sebanyak 7,5 Milyar untuk diserahkan ke masjid. apakah wasiat seperti ini dapat dilaksanakan atau ada batasan tertentu?",337,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),99,3,"Rahmat sedang mendatangi acara walimah saudara laki-lakinya, tanpa sengaja ia duduk di depan seorang gadis non mahram. merasa ada kesempatan ia memadangi gadis ini berulang kali, meskipun tidak ada kebutuhan mendesak untuk melihatnya. dalam kondisi seperti ini bagaimana status pandangan Rahmat menurut hukum?",97,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),102,3,"Hartono menikahi Lim, dengan dihadiri oleh wali dan dua orang saksi, namun setelah akad nikah berlangsung Lim mengaku belum meyelesaikan masa iddah dari pernikahan sebelumnya. bagaimana status akad nikah yang dilakukan oleh Hartono?",4,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),105,3,Seseorang didakwa telah melakukan tindakan kriminal dan dikenai hukuman membayar diyat beberapa ekor unta. Namun kebetulan di daerahnya tidak terdapat unta. Bagaimana ia membayar diyat tersebut,48,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),108,3,Marak terjadi di zaman sekarang pernikahan beda agama. Bagaimana islam memandang hal tersebut?,22,❌ Miss,❌ Miss,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),111,3,Seorang perempuan ingin menikah dan ia bingung untuk menentukan walinya. Bapaknya dulu merupakan seorang preman kampung meski sekarang sudah taubat. Apakah boleh dia menjadi wali nikah untuk anaknya,3,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),114,3,"Seorang santri sedang kasmaran dengan santriwati. Tiba-tiba santri tersebut melihat sekilas pujaan hatinya ada di depan pondok. Karena ia tidak berani memandangnya secara langsung, ia memandangnya lewat pantulan kaca mobil. Apakah hal tersebut diperbolehkan?",312,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),117,3,"Seorang perempuan baru saja menikah namun dia belum menerima maharnya. Selang satu hari karena suatu hal, tiba-tiba dia dicerai oleh suaminya. Lalu bagaimana status maharnya?",180,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),120,3,Ada seorang laki-laki memberikan sesuatu kepada perempuan yang dilamarnya. Dia bilang kalo ini merupakan mahar pernikahannya nanti. Sementara si perempuan bilang itu cuma hadiah biasa. Perkataan siapa yang dibenarkan?,4,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),123,3,"Seorang laki mengucapkan kepada istri ""Aku khulu kamu"" namun dia tidak menyebutkan nominal tebusan. Apakah si perempuan wajib membayar tebusan? jika iya berapa tebusannya?",58,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),126,3,Seorang kepala rumah tangga berada dalam garis kemiskinan. Dia merasa dirinya tidak bisa memenuhi hak-hak istri dan anaknya. Dia kemudian memutuskan untuk menceraikan istrinya. Bagaimana hukum perceraian dengan latar belakang demikian?,178,❌ Miss,❌ Miss,❌ Miss,❌ Miss
+DistilBERT Base Fine-Tuned (JH-POLO),129,3,Seorang laki-laki telah mentalak tiga istrinya. Apakah boleh baginya untuk rujuk?,85,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),132,3,"Seorang perempuan menikah pada usia 18 tahun, setahun berselang suaminya meninggal. Sebulan setelahnya, selayaknya perempuan seumurannya dia ingin menghibur diri dengan bermain bersama teman-temannya, berdandan, dsb. Apakah hal tersebut dibolehkan?",11,❌ Miss,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),135,3,"Seseorang sedang menjadi tawanan perang. Ia  kemudian dipaksa untuk keluar dari agama islam (murtad) karena jika tidak, ia akan disiksa habis-habisan. Apakah boleh murtad karena kondisi tersebut?",3,✅ Hit,✅ Hit,✅ Hit,✅ Hit
 DistilBERT Base Fine-Tuned (JH-POLO),138,3,"sebelum menikah, seseorang perempuan terbiasa hidup mewah. Setelah menikah ternyata suaminya merupakan laki-laki yang pas-pasan secara finansial. Meskipun suami dapat mencukupi kebutuhan primer istri, tapi si istri merasa belum puas dan apa yang diberikan oleh si suami belum bisa mencukupi gaya hidupnya. Apakah boleh bagi si istri untuk mengajukan faskh?",1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
 DistilBERT Base Fine-Tuned (JH-POLO),141,3,Seseorang telah memenuhi syarat untuk bisa diangkat sebagai Qodli. Namun ia memiliki kendala dalam penglihatannya. Apakah ia tetap boleh diangkat sebagai Qodli?,1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),144,3,"Seorang pelaku kriminal sedang diadili oleh seorang hakim yang ternyata adalah kawan lamanya. Hakim memutuskan hukuman yang cukup ringan bagi pelaku. Selang beberapa tahun, setelah pelaku kriminal bebas, ia pergi ke rumah hakim dengan membawa buah tangan. Apakah boleh bagi Hakim untuk menerimanya?",66,❌ Miss,❌ Miss,❌ Miss,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),147,3,Andi memiliki hutang terhadap Budi yang tidak kunjung dilunasi. Apakah boleh bagi Budi untuk mengambil harta Andi tanpa terlebih dahulu dilaporkan ke hakim?,2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),150,3,Seseorang menyaksikan satu orang laki-laki dan perempuan keluar dari kamar kos. Lalu ia menuduh keduanya telah berzina. Apakah kesaksiannya dapat dibenarkan?,3,✅ Hit,✅ Hit,✅ Hit,✅ Hit
-DistilBERT Base Fine-Tuned (JH-POLO),153,3,"Seseorang mengucapkan sumpah atas nama Allah, kemudian setelahnya ia mengatakan bahwa dirinya tidak bermaksud bersumpah.  Bagaimana hukum sumpahnya?",2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),144,3,"Seorang pelaku kriminal sedang diadili oleh seorang hakim yang ternyata adalah kawan lamanya. Hakim memutuskan hukuman yang cukup ringan bagi pelaku. Selang beberapa tahun, setelah pelaku kriminal bebas, ia pergi ke rumah hakim dengan membawa buah tangan. Apakah boleh bagi Hakim untuk menerimanya?",88,❌ Miss,❌ Miss,❌ Miss,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),147,3,Andi memiliki hutang terhadap Budi yang tidak kunjung dilunasi. Apakah boleh bagi Budi untuk mengambil harta Andi tanpa terlebih dahulu dilaporkan ke hakim?,3,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),150,3,Seseorang menyaksikan satu orang laki-laki dan perempuan keluar dari kamar kos. Lalu ia menuduh keduanya telah berzina. Apakah kesaksiannya dapat dibenarkan?,2,✅ Hit,✅ Hit,✅ Hit,✅ Hit
+DistilBERT Base Fine-Tuned (JH-POLO),153,3,"Seseorang mengucapkan sumpah atas nama Allah, kemudian setelahnya ia mengatakan bahwa dirinya tidak bermaksud bersumpah.  Bagaimana hukum sumpahnya?",1,✅ Hit,✅ Hit,✅ Hit,✅ Hit
