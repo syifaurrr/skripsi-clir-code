@@ -1,0 +1,6 @@
+,MRR,MRR,MRR,Success@10 (%),Success@10 (%),Success@10 (%),Success@20 (%),Success@20 (%),Success@20 (%),Success@50 (%),Success@50 (%),Success@50 (%),Success@100 (%),Success@100 (%),Success@100 (%)
+,mean,max,min,mean,max,min,mean,max,min,mean,max,min,mean,max,min
+Skenario,,,,,,,,,,,,,,,
+1. BM25 (Sparse),0.26,0.36,0.16,42.65,56.86,26.8,51.64,66.67,33.99,66.66,82.35,52.94,78.6,90.2,66.01
+2. Cross-Lingual (Dense),0.13,0.3,0.01,22.22,50.98,1.31,29.19,59.48,4.58,39.22,67.32,13.73,52.94,84.31,28.76
+3. AraDPR (Monolingual),0.11,0.14,0.07,23.2,28.76,17.65,33.34,37.91,28.76,50.0,54.25,45.75,65.68,70.59,60.78

@@ -1,0 +1,154 @@
+qid,query_type,query,AraDPR (Gemini LLM) (Rank),AraDPR (Google NMT) (Rank),BM25 (Gemini LLM) (Rank),BM25 (Google NMT) (Rank),BM25+RM3 (Gemini LLM) (Rank),BM25+RM3 (Google NMT) (Rank),Baseline (DistilBERT Base) (Rank),Baseline (mmBERT-base) (Rank),Baseline (mmBERT-small) (Rank),DistilBERT Base Fine-Tuned (JH-POLO) (Rank),mmBERT-base Fine-Tuned (JH-POLO) (Rank),mmBERT-small Fine-Tuned (JH-POLO) (Rank)
+1,1,Kewajiban orang tua untuk memerintahkan sholat fardhu kepada anaknya yang telah berumur 7 tahun,8,104,1,20,1,10,29,346,14,9,3,1
+2,2,Bagaimana hukum memerintahkan sholat lima waktu bagi orang tua kepada anak?,25,160,58,64,70,90,42,437,61,2,3,1
+3,3,"Pak Arif mempunyai dua anak. Anak yang pertama berumur 7 tahun, sedangkan anak kedua baru berumur 5 tahun. Apakah Pak Arif berkewajiban memerintahkan sholat lima waktu kepada kedua anaknya?",57,118,34,119,18,69,46,81,14,3,4,1
+4,1,Kesunnahan membaca basmalah dalam wudhu,157,37,24,4,31,5,14,179,67,40,15,34
+5,2,Bagaimana hukum membaca basmalah di tengah-tengah wudhu?,364,214,2,28,5,19,37,149,22,65,9,27
+6,3,"Fahmi merupakan santri yang selalu melakukan kesunnahan ketika berwudhu, mulai dari membaca basmalah, berkumur, memasukkan air ke dalam hidung dan kesunnahan-kesunnahan lainnya. Suatu ketika, Fahmi lupa melakukan membaca basmalah di awal wudhu, dan ia teringat setelah berada di tengah-tengah wudhu. Apakah Fahmi tetap disunnahkan membaca basmalah?",212,189,8,2,12,2,63,63,60,58,3,22
+7,1,Alasan-alasan yang membatalkan wudhu,3,4,1,1,1,1,395,501,214,5,1,1
+8,2,Apakah darah yang keluar dari anus (dubur) karena penyakit wasir (ambeien) dapat membatalkan wudhu?,11,16,1,4,1,4,405,290,124,1,1,9
+9,3,"Siti merupakan pasien penderita penyakit wasir (ambeien). Menurut penjelasan dokter, Penyakit ambeien adalah munculnya benjolan di anus dan rektum bagian bawah yang bisa menyebabkan rasa sakit, gatal bahkan pendarahan pada dubur. Benjolan yang muncul tersebut merupakan pembuluh darah vena di sekitar anus dan rektum yang membengkak. Suatu hari ketika Siti hendak melaksanakan sholat, ia mendapati bahwa duburnya terjadi pendaharan akibat penyakit wasir (ambeien) tersebut. Sesuai kronologi tersebut, apakah wudhu yang dilakukan Siti menjadi batal?",58,132,1,128,1,69,352,277,323,17,2,10
+10,1,Syarat sah sholat yang kedua,55,43,5,4,5,4,266,58,119,127,133,70
+11,2,Bagaimana hukum melakukan sholat dengan memakai pakaian najis dalam keadaan lupa? ,14,29,8,4,7,9,364,77,16,40,1,4
+12,3,"Pak Imam merupakan salah seorang yang sangat berhati-hati dalam menjaga kesucian pakaiannya dalam sholat. Suatu ketika, ia melakukan sholat dzuhur, namun ia lupa bahwa pakaian yang dikenakannya sudah terkena kotoran burung saat ia berada dalam perjalanan menuju rumah.  Sahkah sholat yang dilakukan oleh Pak Imam?",61,109,74,36,74,73,305,20,73,42,3,20
+13,1,Tata cara mensucikan najis (air seni) yang telah kering,2,15,1,Tidak Ketemu,1,65,435,151,397,35,89,60
+14,2,Bagaiamana cara mensucikan najis berupa air seni yang telah mengering di lantai?,1,12,1,1,1,1,493,153,445,57,98,49
+15,3,Nabila merupakan seorang pecinta kucing. Kecintaannya terhadap kucing membuatnya memelihara beberapa kucing yang diletakkan di salah satu ruangan di rumahnya. Ruangan tersebut tentunya tidak bisa terhindarkan dari bekas air seni kucing yang telah mengering. Bagaimana cara mensucikan air seni kucing yang telah mengering tersebut?,9,22,1,83,1,73,347,315,247,74,67,103
+16,1,Kewajiban mengingatkan seseorang yang pakaiannya terkena najis,335,7,3,248,3,184,83,181,494,72,42,217
+17,2,"Bagaiamana hukum mengingatkan seseorang yang hendak melaksanakan sholat, sedang pakaiannya terkena najis?",31,14,3,162,2,151,111,339,459,23,20,71
+18,3,"Suatu ketka, saat Mas Agil ingin melaksanakan sholat jamaah di Masjid, ia mengetahui ada najis yang menempel di pakaian salah satu seseorang yang sedang sholat. Apa yang harus dilakukan Mas Agil apabila ia mengetahui ada najis yang menempel di pakaian seseorang yang sedang sholat?",7,52,7,83,10,98,189,618,629,162,28,83
+19,1,Kesunahan membaca doa qunut di dalam sholat subuh,39,43,31,79,26,48,19,99,137,3,1,1
+20,2,Apa hukum membaca doa qunut di dalam sholat subuh?,99,73,51,358,36,358,32,159,170,2,1,3
+21,3,"Kevin merupakan seorang mualaf yang baru saja masuk Islam 2 bulan lalu. Ia belum banyak mengetahui mengenai kesunnahan yang ada di dalam sholat. Saat melakukan jamaah sholat subuh, ia bingung dan bertanya-tanya karena ada salah satu doa yang dipanjatkan di tengah-tengah sholat yang setelah ia cari tahu nama dari doa tersebut adalah doa Qunut. Apa hukum membaca doa Qunut dalam sholat subuh tersebut?",50,3,36,29,26,24,84,369,315,9,2,27
+22,1,Solusi bagi makmum ketika lupa membaca surah al-Fatihah dalam sholat berjamaah,35,107,9,9,10,7,85,34,13,13,68,30
+23,2,Apa yang harus dilakukan makmum ketika lupa membaca surah al-Fatihah dalam sholat berjamaah?,50,44,11,19,15,12,85,25,10,10,61,28
+24,3,"Suatu ketika, kang Hanif sedang melakukan sholat isya' berjamaah bersama temannya di kamar. Sangking merdunya bacaan surah yang dilafadzkan oleh temannya, kang Hanif sampai lupa bahwa ia belum membaca surah al-Fatihah di rakaat pertama. Apa yang harus dilakukan kang Hanif?",7,7,23,55,25,59,291,22,8,7,86,15
+25,1,Hukum melakukan sunnah ab'ad yang terlupakan setelah terlanjur melakukan rukun sholat,293,73,9,236,4,191,207,591,388,15,2,5
+26,2,"Bagaimana hukum kembali melakukan tasyahud awal yang terlupakan, setelah terlanjur berdiri pada rakaat ketiga?",150,233,8,11,8,7,98,614,538,25,3,8
+27,3,"Suatu ketika, saat mas Baihaqy sedang melakukan sholat Isya', ia lupa melakukan duduk tasyahud awal. Ia teringat ketika sudah sempurna melakukan berdiri pada rakaat ketiga, seketika ia duduk kembali ke posisi tasyahud awal untuk memenuhi apa yang ia tinggalkan tadi. Apa tindakan yang dilakukan oleh mas Baihaqy, seperti kembali duduk tasyahud awal setelah sempurna berdiri tersebut diperbolehkan? ",39,40,4,2,5,2,65,476,250,12,1,2
+28,1,Kesunnahan adzan pada selain sholat fardhu,485,285,63,33,45,42,363,539,423,295,37,156
+29,2,Apakah hukum melakukan adzan pada selain sholat lima waktu? ,88,281,161,118,190,65,383,322,343,258,9,44
+30,3,"Pak Yono merupakan seseorang yang awam dalam pengetahuan agama.  Ketika anak pertamanya lahir, ia melakukan adzan dan iqomah kepada anaknya dengan meniru sinetron yang sering ia tonton di televisi tanpa mengerti apa hukum dari melakukan adzan tersebut. Apa hukum melakukan adzan kepada anak yang baru lahir tersebut?",496,382,5,31,26,46,145,64,57,23,15,62
+31,1,Keafdholan melakukan sholat berjamaah di masjid bagi laki-laki,2,2,1,1,1,1,285,122,310,19,74,7
+32,2,Apakah melakukan sholat berjamaah di masjid lebih utama dibandingkan di rumah bagi seorang laki-laki?,3,7,8,16,8,21,257,114,176,16,51,12
+33,3,"Kang Ghufron merupakan seseorang yang sering melakukan sholat berjamaah. Namun, ia tidak selalu melakukannya di masjid, terkadang ia juga melakukan sholat berjamaah di rumahnya, terkadang juga di tempat kerjanya. Manakah sholat berjamaah yang lebih utama dilakukan oleh Kang Ghufron?",30,26,23,29,29,27,363,56,117,10,33,18
+34,1,Ketidak bolehan mengikuti imam yang ummi,30,20,2,32,2,47,92,184,422,1,9,2
+35,2,Apakah seseorang yang bacaan al-fatihahnya baik diperbolehkan mengikuti seorang imam yang bacaan al-fatihahnya buruk? ,136,155,2,19,2,15,186,390,315,19,14,5
+36,3,"Kang Ilham merupakan seorang santri yang telah belajar di pondok pesantren al-Qur'an bertahun-tahun, sehingga bacaan al-Qur'annya sudah sangat baik (fasih). Saat ia ingin melakukan sholat maghrib berjamaah di mushola kampungnya, ia mendapati bahwa bacaan al-fatihah imam masih banyak kesalahan dalam pengucapannya. Bolehkah Kang Ilham mengikuti sholat maghrib berjamaah bersama imam tersebut?",67,68,105,178,132,154,299,312,330,11,15,5
+37,1,Kebolehan mufaroqoh dari jamaah sholat jumat pada rakaat kedua,2,2,4,2,3,2,51,235,199,18,140,117
+38,2,Apakah memisahkan diri dari sholat jamaah jumat di rakaat kedua diperbolehkan?,2,1,22,13,10,14,15,191,141,15,178,61
+39,3,"Pak Sugito sedang melakukan jamaah sholat jumat. Saat imam memasuki rakaat kedua, Pak Sugito merasakan perutnya sangat mulas, sehingga menyebabkan ia memisahkan diri dari jamaah sholat jumaat dengan menyempurnakan rakaat keduanya sendiri tanpa mengikuti imam. Apakah yang dilakukan Pak Sugito tersebut diperbolehkan?",9,74,2,10,2,9,4,174,80,41,81,55
+40,1,Kesunnahan imam/khatib ta'khir pada sholat Jumat,1,1,1,101,1,115,94,315,25,5,2,23
+41,2,Bagaimana hukum mengakhirkan kedatangan bagi imam/khatib dalam pelaksanaan sholat Jumat ?,1,4,8,556,8,396,285,331,19,2,3,2
+42,3,"Pak Aziz merupakan imam sekalius khatib sholat Jumat di salah satu masjid di Wonosobo. Dalam pelaksanaanya, beliau selalu datang paling akhir, tepatnya setelah adzan pertama dikumandangkan. Apa hukum tindakan yang dilakukan oleh pak Aziz tersebut?",16,5,100,81,147,120,96,234,37,8,3,13
+43,1,Keharaman mengkijing/ membangun bangunan permanen di atas kuburan,3,2,2,2,1,2,449,73,31,1,1,1
+44,2,Bagaimana hukum mengkijing/ membangun bangunan permanen di atas kuburan?,4,19,1,3,1,3,544,78,52,1,1,1
+45,3,"Pak Gatot adalah seseorang yang baru saja ditinggal mati istrinya. Dalam proses pemakamannya, Pak Gatot berencana mengkijing/ membangun bangunan permanen di atas kuburan istrinya tanpa ada kebutuhan apa pun. Padahal, tanah yang digunakan adalah tanah wakaf yang tidak hanya digunakan oleh dirinya sendiri, tapi juga digunakan untuk pemakaman umum. Bolehkah mengkijing/ membangun bangunan permanen di atas kuburan?",34,11,1,1,1,1,600,351,535,2,1,1
+46,1,Kesunnahan melakukan ziarah kubur bagi laki-laki,19,48,1,1,1,1,177,33,38,177,57,34
+47,2,Apa hukum melakukan ziarah kubur bagi laki-laki?,58,147,1,1,1,1,352,45,169,370,57,24
+48,3,"Kang Ihsan merupakan anak yang saleh. Ia selalu mendoakan kedua orang tuanya setiap setelah melakukan sholat lima waktu, pun dalam seminggu sekali ia juga sering menziarahi makam bapaknya yang telah meninggal. Apa hukum melakukan ziarah seperti yang dilakukan Kang Ihsan tersebut?",8,17,37,80,28,64,335,66,217,215,63,30
+49,1,Keharaman ta'khir membayar zakat fitrah di hari raya Idul Fitri tanpa adanya uzur,20,21,1,2,1,2,372,70,93,1,1,3
+50,2,Apakah diperbolehkah mengakhirkan membayar zakat fitrah tanpa adanya halangan?,11,61,1,11,1,11,427,69,161,2,2,3
+51,3,"Pak Sukandar merupakah salah seorang muslim yang terbilang sangat mampu dalam segi ekonomi. Suatu saat, ia sengaja mengakhirkan membayar zakat fitrah tanpa adanya suatu halangan apapun seperti kendala ekonomi maupun tidak adanya seseorang yang berhak menerima zakat tersebut. Apa hukum tindakan mengakhirkan zakat yang dilakukan oleh Pak Sukandar?",25,177,2,42,2,37,482,120,253,2,3,2
+52,1,Memakai gamis saat ihram,25,86,1,1,1,1,453,104,284,111,173,130
+53,2,Apa denda bagi orang yang melakukan perbuatan yang diharamkan ketika haji?,18,94,1,325,1,403,592,332,529,98,100,191
+54,3,"Rehan sedang melaksanakan ibadah haji, namun ditengah pelaksanaan ibadah haji, ia kehilangan pakaian ihramnya dan tidak menemukan apapun selain pakaian yang berjahit, apakah ia terkena sanksi?",54,78,11,44,30,46,614,321,414,268,163,69
+55,1,Syarat-syarat penerima zakat,12,12,21,21,19,19,296,362,435,174,234,148
+56,2,Apa hukum memberikan zakat kepada orang kafir?,8,7,5,27,6,20,170,65,20,19,72,75
+57,3,"Fikri adalah panitia penerima dan penyalur zakat di desanya, suatu hari ia memberikan zakat kepada seorang fakir yang dikemudian hari diketahui masih memiliki anak yang mampu menafkahinya, apakah penyaluran zakat tersebut sudah sah?",72,25,6,1,4,1,500,34,44,112,100,240
+58,1,Barang belum diterima sudah dijual kembali,2,31,1,87,1,67,414,599,510,2,1,1
+59,2,kapan pembeli dianggap menerima rumah yang ia beli?,406,161,1,22,1,7,333,568,343,3,1,1
+60,3,"Diyah membeli telur sebanyak 1 kg untuk keperluan membuat roti, saat penjual menyerahkan telur yang berada di kresek, penjual tidak sengaja menjatuhkannya sebelum Diyah benar-benar menerimanya, dalam kondisi seperti itu siapa yang menanggung kerugiannya?  ",24,51,11,50,6,25,89,500,209,2,3,14
+61,1,Kewajiban orang yang ghasab,147,387,3,Tidak Ketemu,2,182,502,395,12,10,6,1
+62,2,hukum menggunakan barang orang lain tanpa izin,52,348,524,7,301,7,493,239,18,15,5,1
+63,3,"Di dalam kereta api jarak jauh, seorang penumpang ilegal yang tidak memiliki tiket tempat duduk, mengusir penumpang yang sudah duduk sesuai nomor kursinya lalu mengambil alih kursinya, apa status perbuatan yang dilakukannya? ",489,484,88,613,123,623,611,456,146,35,2,11
+64,1,Penetapan awal bulan ramadhan ,1,3,1,3,1,3,95,52,20,4,1,2
+65,2,Kapan pertama kali puasa ramadhan diwajibkan dalam Islam?,2,4,8,18,6,10,304,118,19,4,1,2
+66,3,"Para ahli astronomi di Cina - yang mayoritas beragama non muslim- mengaku telah melihat bulan baru, kabar tersebut dengan cepat tersebar kepada penduduk Cina yang beragama Islam, dapatkah informasi tersebut dijadikan dasar penetapan awal bulan?",142,44,1,1,1,1,367,133,87,1,3,6
+67,1,Syarat wajib puasa,7,20,12,Tidak Ketemu,12,155,487,271,403,137,9,142
+68,2,Mengapa wanita yang sedang haid atau nifas dilarang untuk berpuasa?,10,13,3,294,5,285,67,172,172,77,10,59
+69,3,"Seorang Muslim makan sahur dengan tujuan agar kuat berpuasa, namun ia lupa melintaskan niat puasa wajib di hatinya, apakah puasanya sah?",1,3,1,2,1,2,184,124,223,60,5,149
+70,1, syarat barang yang sah disewakan,143,192,64,3,48,3,147,168,70,2,1,1
+71,2,Bolehkah menyewa seseorang hanya untuk menawarkan barang dagangan?,51,465,2,45,2,49,84,324,132,1,1,1
+72,3,"seorang kiai langgaran diminta membantu proses akad nikah dengan membimbing calon suami untuk malafalkan qabul nikah berbahasa arab, setelah akad selesai kiai ini meminta sejumlah uang sebagai imbalan atas jasa tersebut, bagaimana status pengambilan upah dalam kasus ini?",66,113,1,58,1,44,68,311,209,40,5,104
+73,1,mabuk perjalanan saat berpuasa,312,170,Tidak Ketemu,Tidak Ketemu,103,221,358,333,320,144,523,417
+74,2,apakah mimpi basah dapat membatalkan puasa?,63,58,11,7,11,10,124,130,130,84,578,432
+75,3,"Karena masih dalam masa pengantin baru, Mas Jiko tidak dapat menahan diri untuk terus menciumi istrinya saat sedang berpuasa ramadan hingga keluar mani, apakah puasanya tetap sah ? ",38,219,25,72,54,87,299,199,84,95,373,288
+76,1,barang yang tidak boleh dipinjamkan,1,255,51,493,39,558,201,170,464,273,21,181
+77,2,apa yang menjadi tanggung jawab peminjam saat barang pinjaman rusak?,23,49,3,2,3,2,267,257,403,134,191,433
+78,3,"Dana dan Dono  adalah kakak beradik yang usianya terlampau jauh, saat ini Dana berusia 28 tahun sedangkan Dono masih berusia 8 tahun. suatu hari Dana menyuruh adiknya, Dono, untuk meminjam kamera kepada paman mereka. Dono pun berhasil mendapatkan kamera itu dari pamannya, saat perjalanan kembali, kamera itu terjatuh dan rusak. Dalam kondisi seperti ini, siapa yang bertanggungjawab atas kerusakan tersebut?",334,253,54,304,53,262,309,371,517,427,295,466
+79,1,jual beli dengan ijab qabul main-main,201,256,4,30,4,41,120,386,138,203,15,46
+80,2,mengapa pada jual beli harus ada akad?,86,193,60,39,55,43,100,151,2,229,11,166
+81,3," Sekolah SMP Harapan Bangsa menerapkan konsep Kantin Kejujuran untuk membentuk karakter siswa menjadi pribadi yang jujur. kantin ini menyediakan seluruh kebutuhan siswa dengan disertai harga yang tercantum jelas di daftarnya. para siswa cukup meletakkan sejumlah uang yang seharga barang yang dibeli pada tempat yang telah disediakan. kondisi ini menimbukan kekhawatiran tentang apakah jual beli yang mereka lakukan sah, padahal tidak ada ijab dan qabul di dalamnya?",439,532,93,107,36,176,184,22,13,561,5,253
+82,1,menjual pupuk kandang,107,243,14,21,5,13,11,250,276,38,61,194
+83,2,apa hukum membeli barang yang belum pernah dilihat oleh pembeli?,119,226,19,32,21,29,165,515,543,469,93,575
+84,3,"seorang petani muda menjual hasil panen gabahnya kepada pengepul. Ia hanya memperihatkan sebagian gabah sebagai contoh untuk meyakinkan pembeli tentang kualitasnya, sementara sisa gabahnya tetap berada dalam karung-karung yang tertutup rapat. dalam hal ini apakah jual beli tersebut sah?",184,315,2,23,2,20,143,607,553,423,93,399
+85,1,berhutang untuk maksiat,487,447,Tidak Ketemu,Tidak Ketemu,Tidak Ketemu,Tidak Ketemu,110,529,518,188,4,70
+86,2,mana yang lebih utama antara memberikan hutang atau bersedekah?,232,282,2,Tidak Ketemu,2,274,59,377,391,5,4,7
+87,3,"sebut saja nama Toni, dia adalah seorang saudagar sukses yang telah punya banyak pengalaman dibidang jual beli properti. suatu hari, Toni kedatangan teman lama yang senang bermain slot atau judi online bernama Joko. tujuan Joko kemudian diketahui ingin berhutang sebanyak 15 juta dan berjanji akan membayarnya seminggu kemudian. apakah Toni boleh memberikan hutang kepada Joko ketika ada kemungkinan besar Joko tidak akan membayarnya?",392,429,217,129,319,187,134,290,281,228,7,14
+88,1,menggadaikan barang pinjaman ,129,151,1,7,3,7,94,169,290,183,124,87
+89,2,apakah bisa orang tua menggadaikan harta anaknya?,148,58,1,1,1,1,88,291,399,168,145,72
+90,3,"karena pertumbuhan penduduk sangat cepat, sebuah desa ingin merenovasi masjid menjadi dua lantai, yang jika dihitung-hitung menghabiskan biaya cukup besar. setelah melakukan muysawarah, biaya ini kemudian diambil dari kas masjid serta sumbangan masyarakat. Selain itu, muncul keinginan untuk menggadaikan sawah wakaf sebagai tambahan biaya renovasi. apakah tindakan ini diperbolehkan? ",305,232,176,59,150,15,101,477,471,102,89,211
+91,1,hantaran lamaran ,94,223,12,Tidak Ketemu,12,5,318,38,223,528,11,4
+92,2,bolehkan menerima pemberian dari orang yang telah kita selamatkan?,32,73,6,101,4,76,328,16,272,5,1,1
+93,3,"Rafi melamar seorang perempuan yang sangat ia cintai. Sebagai bentuk keseriusannya, ia menyerahkan uang sebanyak 10 juta rupiah dan berbagai bingkisan lainnya kepada calon istri melalui walinya. namun kenyataan pahit harus diterima Rafi, cinta Rafi bertepuk sebelah tangan. calon istri ternyata sudah memiliki calon yang lebih pantas menurutnya. apakah Rafi berhak meminta uang dan bingkisan yang telah ia berikan?",5,6,36,112,59,173,422,148,458,24,10,10
+94,1,wasiatnya anak kecil,6,104,1,Tidak Ketemu,1,Tidak Ketemu,540,98,86,86,18,422
+95,2,berapa batas maksimal wasiat?,73,73,333,333,83,83,367,111,150,17,2,610
+96,3,"Hasan adalah pengusaha makanan cepat saji yang sedang sakit keras. Harta yang dimilikinya sekitar 15 Milyar. Ia ingin menyerahkan sebagian hartanya untuk pembangunan masjid di desanya.  Dalam surat wasiatnya, Hasan menyerahkan sebanyak 7,5 Milyar untuk diserahkan ke masjid. apakah wasiat seperti ini dapat dilaksanakan atau ada batasan tertentu?",13,24,61,15,47,11,380,32,115,337,7,217
+97,1,melihat kelamin perempuan yang belum baligh,1,14,1,32,1,4,53,331,480,464,54,208
+98,2,apakah suara perempuan termasuk aurat?,13,9,60,61,51,69,25,211,478,245,185,347
+99,3,"Rahmat sedang mendatangi acara walimah saudara laki-lakinya, tanpa sengaja ia duduk di depan seorang gadis non mahram. merasa ada kesempatan ia memadangi gadis ini berulang kali, meskipun tidak ada kebutuhan mendesak untuk melihatnya. dalam kondisi seperti ini bagaimana status pandangan Rahmat menurut hukum?",162,440,47,150,25,160,81,572,589,97,28,297
+100,1,mahar tidak disebutkan ketika akad nikah,257,105,3,14,4,11,575,53,124,1,1,1
+101,2,bagaimana jika salah menyebutkan nama calon istri ketika qabul nikah?,46,25,16,22,26,18,314,11,41,1,1,10
+102,3,"Hartono menikahi Lim, dengan dihadiri oleh wali dan dua orang saksi, namun setelah akad nikah berlangsung Lim mengaku belum meyelesaikan masa iddah dari pernikahan sebelumnya. bagaimana status akad nikah yang dilakukan oleh Hartono?",106,29,22,211,15,248,385,88,136,4,1,7
+103,1,Diyat unta untuk pelaku pembunuhan,49,25,28,63,25,51,13,26,16,68,4,5
+104,2,bagaimana jika seseorang yang terkena denda berupa unta tapi dia tidak menemukan unta di daerahnya?,31,76,82,150,88,105,40,217,433,79,74,2
+105,3,Seseorang didakwa telah melakukan tindakan kriminal dan dikenai hukuman membayar diyat beberapa ekor unta. Namun kebetulan di daerahnya tidak terdapat unta. Bagaimana ia membayar diyat tersebut,59,109,64,271,68,185,3,377,351,48,5,2
+106,1,nikahnya perempuan dzimmi,2,238,1,65,1,72,74,9,375,43,51,8
+107,2,Apa saja syarat perempuan yang boleh dinikahi,302,310,201,154,195,222,203,39,261,12,9,5
+108,3,Marak terjadi di zaman sekarang pernikahan beda agama. Bagaimana islam memandang hal tersebut?,17,111,12,97,13,57,27,69,188,22,2,1
+109,1,orang-orang yang tidak boleh menjadi wali nikah,1,110,10,499,9,553,218,135,154,1,2,1
+110,2,Apa saja syarat wali nikah,66,223,364,505,268,502,289,175,70,5,2,2
+111,3,Seorang perempuan ingin menikah dan ia bingung untuk menentukan walinya. Bapaknya dulu merupakan seorang preman kampung meski sekarang sudah taubat. Apakah boleh dia menjadi wali nikah untuk anaknya,85,143,94,33,68,26,115,102,47,3,4,1
+112,1,hukum laki-laki memandang ajnabi,20,80,3,3,2,2,131,202,393,178,22,112
+113,2,Bagaimana hukum melihat alat kelamin anak kecil?,78,9,1,45,1,59,89,444,447,293,41,142
+114,3,"Seorang santri sedang kasmaran dengan santriwati. Tiba-tiba santri tersebut melihat sekilas pujaan hatinya ada di depan pondok. Karena ia tidak berani memandangnya secara langsung, ia memandangnya lewat pantulan kaca mobil. Apakah hal tersebut diperbolehkan?",451,310,4,7,3,3,53,589,589,312,14,264
+115,1,mahar misil,112,360,2,2,2,3,518,393,339,615,568,257
+116,2,Apa itu maskawin sepadan?,153,587,5,9,3,10,297,434,297,388,295,378
+117,3,"Seorang perempuan baru saja menikah namun dia belum menerima maharnya. Selang satu hari karena suatu hal, tiba-tiba dia dicerai oleh suaminya. Lalu bagaimana status maharnya?",56,36,166,19,144,12,172,398,420,180,58,34
+118,1,Walimah ursy,167,408,3,Tidak Ketemu,3,304,369,47,141,408,168,273
+119,2,Bagaimana hukum resepsi pernikahan,161,88,1,209,1,214,397,5,86,87,4,49
+120,3,Ada seorang laki-laki memberikan sesuatu kepada perempuan yang dilamarnya. Dia bilang kalo ini merupakan mahar pernikahannya nanti. Sementara si perempuan bilang itu cuma hadiah biasa. Perkataan siapa yang dibenarkan?,50,19,228,33,283,29,373,90,312,4,2,1
+121,1,definisi khulu',304,540,2,33,2,169,252,302,503,1,40,28
+122,2,Apa hukum cerai tebus,414,97,2,28,2,33,222,249,600,39,1,4
+123,3,"Seorang laki mengucapkan kepada istri ""Aku khulu kamu"" namun dia tidak menyebutkan nominal tebusan. Apakah si perempuan wajib membayar tebusan? jika iya berapa tebusannya?",128,157,5,291,2,386,149,355,306,58,7,7
+124,1,Talak,3,3,2,2,4,4,150,54,36,282,221,305
+125,2,Apa hukum perceraian?,14,6,47,30,37,35,203,12,45,333,89,235
+126,3,Seorang kepala rumah tangga berada dalam garis kemiskinan. Dia merasa dirinya tidak bisa memenuhi hak-hak istri dan anaknya. Dia kemudian memutuskan untuk menceraikan istrinya. Bagaimana hukum perceraian dengan latar belakang demikian?,284,129,7,165,5,125,402,44,162,178,201,398
+127,1,Syarat Ruju',526,563,43,Tidak Ketemu,39,Tidak Ketemu,229,575,562,481,551,494
+128,2,Apa saja syarat rujuk setelah bercerai?,30,83,19,78,14,77,362,481,240,421,116,30
+129,3,Seorang laki-laki telah mentalak tiga istrinya. Apakah boleh baginya untuk rujuk?,448,493,178,96,49,106,308,580,436,85,237,71
+130,1,Iddahnya perempuan yang ditinggal suaminya,3,5,1,1,1,2,37,176,223,22,18,23
+131,2,Apa saja pantangan bagi seorang perempuan yang ditinggal mati suaminya?,4,21,1,520,1,577,127,171,213,31,26,29
+132,3,"Seorang perempuan menikah pada usia 18 tahun, setahun berselang suaminya meninggal. Sebulan setelahnya, selayaknya perempuan seumurannya dia ingin menghibur diri dengan bermain bersama teman-temannya, berdandan, dsb. Apakah hal tersebut dibolehkan?",9,7,1,2,1,2,169,533,364,11,31,16
+133,1,Definisi Riddah,1,53,5,Tidak Ketemu,8,Tidak Ketemu,360,205,139,5,2,1
+134,2,Apa tebusan yang perlu dikeluarkan oleh seseorang yang membunuh orang islam secara sengaja?,27,10,10,7,13,10,318,113,99,7,5,1
+135,3,"Seseorang sedang menjadi tawanan perang. Ia  kemudian dipaksa untuk keluar dari agama islam (murtad) karena jika tidak, ia akan disiksa habis-habisan. Apakah boleh murtad karena kondisi tersebut?",25,23,161,237,165,204,350,125,207,3,1,2
+136,1,penyebab faskh nikah,10,13,1,Tidak Ketemu,1,Tidak Ketemu,228,35,56,7,2,12
+137,2,Bagaimana hukum membatalkan pernikahan yang diajukan oleh istri karena suami tidak mampu mencukupi kebutuhan istri,1,39,1,151,1,117,432,122,139,13,1,1
+138,3,"sebelum menikah, seseorang perempuan terbiasa hidup mewah. Setelah menikah ternyata suaminya merupakan laki-laki yang pas-pasan secara finansial. Meskipun suami dapat mencukupi kebutuhan primer istri, tapi si istri merasa belum puas dan apa yang diberikan oleh si suami belum bisa mencukupi gaya hidupnya. Apakah boleh bagi si istri untuk mengajukan faskh?",4,12,15,63,16,102,481,159,164,1,2,10
+139,1,syarat menjadi Qodli,586,119,62,264,62,352,6,125,28,1,3,2
+140,2,Apa saja syarat seorang hakim dalam sistem hukum Islam?,231,12,157,101,162,127,17,151,312,5,1,2
+141,3,Seseorang telah memenuhi syarat untuk bisa diangkat sebagai Qodli. Namun ia memiliki kendala dalam penglihatannya. Apakah ia tetap boleh diangkat sebagai Qodli?,5,54,22,4,19,2,70,322,336,1,2,1
+142,1,Hadiyyah Qodli,100,61,2,Tidak Ketemu,2,Tidak Ketemu,547,418,500,549,234,424
+143,2,Bagaimana hukum gratifikasi terhadap hakim yang memutuskan perkara?,4,18,1,185,1,150,371,108,155,55,61,366
+144,3,"Seorang pelaku kriminal sedang diadili oleh seorang hakim yang ternyata adalah kawan lamanya. Hakim memutuskan hukuman yang cukup ringan bagi pelaku. Selang beberapa tahun, setelah pelaku kriminal bebas, ia pergi ke rumah hakim dengan membawa buah tangan. Apakah boleh bagi Hakim untuk menerimanya?",4,10,70,38,35,75,357,32,21,88,25,410
+145,1,perkara-perkara yang wajib dilaporkan ke hakim,80,34,11,79,13,98,53,416,148,46,52,19
+146,2,Bagaimana hukum mengambil barang milik orang yang memiliki hutang dengan kita namun tidak kunjung membayar?,21,28,79,22,7,20,45,432,224,7,1,6
+147,3,Andi memiliki hutang terhadap Budi yang tidak kunjung dilunasi. Apakah boleh bagi Budi untuk mengambil harta Andi tanpa terlebih dahulu dilaporkan ke hakim?,29,27,27,48,39,62,105,429,177,3,1,3
+148,1,Syahadah terhadap perzinaan,1,4,2,1,2,1,292,37,220,31,131,264
+149,2,Berapa orang saksi dibutuhkan dalam perkara ketetapan awal bulan puasa?,443,208,19,432,23,414,261,12,219,5,14,14
+150,3,Seseorang menyaksikan satu orang laki-laki dan perempuan keluar dari kamar kos. Lalu ia menuduh keduanya telah berzina. Apakah kesaksiannya dapat dibenarkan?,10,26,1,1,1,1,255,87,325,2,11,94
+151,1,Qosam dengan lafadh selain nama Allah,18,60,23,570,12,534,218,292,157,3,2,1
+152,2,Bagaimana hukum bersumpah menggunakan makhluk?,92,212,1,9,1,8,49,325,98,33,1,1
+153,3,"Seseorang mengucapkan sumpah atas nama Allah, kemudian setelahnya ia mengatakan bahwa dirinya tidak bermaksud bersumpah.  Bagaimana hukum sumpahnya?",4,10,3,245,4,282,28,152,65,1,1,1

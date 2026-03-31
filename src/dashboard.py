@@ -260,7 +260,7 @@ def load_data():
 
     
 
-    # Pivot untuk analisis
+    # Pivot untuk analisis (binary hit/miss)
 
     detail_pivot = df_detail.pivot_table(
 
@@ -276,6 +276,30 @@ def load_data():
 
     
 
+    # Pivot untuk ranking (menyimpan rank_ditemukan per model)
+
+    rank_pivot = df_detail.pivot_table(
+
+        index='qid',
+
+        columns='name',
+
+        values='rank_ditemukan',
+
+        aggfunc='first'
+
+    ).reset_index()
+
+    
+
+    # Rename columns di rank_pivot untuk membedakan dengan detail_pivot
+
+    rank_cols = {col: f"{col}_rank" for col in rank_pivot.columns if col != 'qid'}
+
+    rank_pivot = rank_pivot.rename(columns=rank_cols)
+
+    
+
     # Merge dengan queries
 
     result = df_queries[['qid', 'query', 'query_type']].merge(
@@ -286,9 +310,15 @@ def load_data():
 
     
 
-    # Get model names
+    # Merge dengan rank data
 
-    model_names = [c for c in result.columns if c not in ['qid', 'query', 'query_type']]
+    result = result.merge(rank_pivot, on='qid', how='left')
+
+    
+
+    # Get model names (hanya kolom binary, bukan rank)
+
+    model_names = [c for c in result.columns if c not in ['qid', 'query', 'query_type'] and not c.endswith('_rank')]
 
     
 
@@ -471,6 +501,46 @@ def hit_rate_by_query_type(result_df, model_cols):
 # HELPER FUNCTIONS
 
 # ============================================================================
+
+def format_rank_display(df, model_a, model_b):
+    """
+    Format dataframe untuk menampilkan peringkat passage alih-alih 0/1.
+    Menggunakan kolom rank (jika tersedia) atau menampilkan status Berhasil/Gagal.
+    """
+    rank_col_a = f"{model_a}_rank"
+    rank_col_b = f"{model_b}_rank"
+    
+    display_df = df[['qid', 'query_type', 'query']].copy()
+    
+    # Format kolom Model A
+    if rank_col_a in df.columns:
+        # Tampilkan peringkat jika <= 10 (berhasil), atau "Gagal (>10)"
+        def format_rank_a(x):
+            if pd.isna(x):
+                return "❌ Gagal"
+            if isinstance(x, str):
+                return f"❌ Gagal ({x})"
+            return f"✅ Rank {int(x)}" if int(x) <= 10 else f"❌ Gagal (Rank {int(x)})"
+        display_df[model_a] = df[rank_col_a].apply(format_rank_a)
+    else:
+        # Fallback ke 0/1 jika rank tidak tersedia
+        display_df[model_a] = df[model_a].apply(lambda x: "✅ Berhasil" if x == 1 else "❌ Gagal")
+    
+    # Format kolom Model B
+    if rank_col_b in df.columns:
+        def format_rank_b(x):
+            if pd.isna(x):
+                return "❌ Gagal"
+            if isinstance(x, str):
+                return f"❌ Gagal ({x})"
+            return f"✅ Rank {int(x)}" if int(x) <= 10 else f"❌ Gagal (Rank {int(x)})"
+        display_df[model_b] = df[rank_col_b].apply(format_rank_b)
+    else:
+        display_df[model_b] = df[model_b].apply(lambda x: "✅ Berhasil" if x == 1 else "❌ Gagal")
+    
+    return display_df
+
+
 
 import pyperclip
 
@@ -932,9 +1002,17 @@ def main():
 
                 if len(comparison_df) > 0:
 
-                    display_cols = ['qid', 'query_type', 'query', model_a, model_b]
+                    # Format tampilan dengan peringkat
 
-                    st.dataframe(comparison_df[display_cols], use_container_width=True)
+                    display_df = format_rank_display(comparison_df, model_a, model_b)
+
+                    st.dataframe(display_df, use_container_width=True)
+
+                    
+
+                    # Legend untuk interpretasi
+
+                    st.caption("📋 **Keterangan:** ✅ Rank N = Passage relevan ditemukan di peringkat N | ❌ Gagal = Passage relevan tidak ditemukan di top-10")
 
                     
 
@@ -1006,9 +1084,17 @@ def main():
 
                 if len(comparison_df) > 0:
 
-                    display_cols = ['qid', 'query_type', 'query', model_a, model_b]
+                    # Format tampilan dengan peringkat
 
-                    st.dataframe(comparison_df[display_cols], use_container_width=True)
+                    display_df = format_rank_display(comparison_df, model_a, model_b)
+
+                    st.dataframe(display_df, use_container_width=True)
+
+                    
+
+                    # Legend untuk interpretasi
+
+                    st.caption("📋 **Keterangan:** ✅ Rank N = Passage relevan ditemukan di peringkat N | ❌ Gagal = Passage relevan tidak ditemukan di top-10")
 
                     
 
@@ -1088,9 +1174,17 @@ def main():
 
                 if len(comparison_df) > 0:
 
-                    display_cols = ['qid', 'query_type', 'query', model_a, model_b]
+                    # Format tampilan dengan peringkat
 
-                    st.dataframe(comparison_df[display_cols], use_container_width=True)
+                    display_df = format_rank_display(comparison_df, model_a, model_b)
+
+                    st.dataframe(display_df, use_container_width=True)
+
+                    
+
+                    # Legend untuk interpretasi
+
+                    st.caption("📋 **Keterangan:** ✅ Rank N = Passage relevan ditemukan di peringkat N | ❌ Gagal = Passage relevan tidak ditemukan di top-10")
 
                     
 
@@ -1174,9 +1268,17 @@ def main():
 
                 if len(comparison_df) > 0:
 
-                    display_cols = ['qid', 'query_type', 'query', model_a, model_b]
+                    # Format tampilan dengan peringkat
 
-                    st.dataframe(comparison_df[display_cols], use_container_width=True)
+                    display_df = format_rank_display(comparison_df, model_a, model_b)
+
+                    st.dataframe(display_df, use_container_width=True)
+
+                    
+
+                    # Legend untuk interpretasi
+
+                    st.caption("📋 **Keterangan:** ✅ Rank N = Passage relevan ditemukan di peringkat N | ❌ Gagal = Passage relevan tidak ditemukan di top-10")
 
                     
 
@@ -1658,7 +1760,7 @@ def main():
 
                 markers=True,
 
-                title="Success@k Curve untuk Semua Model",
+                title="Kurva Success@k: Perbandingan Performa Retrieval pada Berbagai Cut-off",
 
                 labels={'k': 'Cutoff (k)', 'Success Rate': 'Success Rate (%)'}
 
@@ -1686,7 +1788,7 @@ def main():
 
                 markers=True,
 
-                title="Success@k Curve - Top 5 Model (berdasarkan MRR)",
+                title="Kurva Success@k: Top 5 Model Terbaik (berdasarkan MRR)",
 
                 labels={'k': 'Cutoff (k)', 'Success Rate': 'Success Rate (%)'}
 
@@ -1694,7 +1796,7 @@ def main():
 
         
 
-        fig.update_traces(line_width=3, marker_size=10)
+        fig.update_traces(line_width=1.5, marker_size=8)
 
         fig.update_layout(
 
@@ -1704,7 +1806,9 @@ def main():
 
         )
 
-        fig = apply_plot_theme(fig, colors)
+        # Get the title from the figure before applying theme
+        current_title = fig.layout.title.text if fig.layout.title else "Kurva Success@k"
+        fig = apply_plot_theme(fig, colors, title=current_title)
 
         st.plotly_chart(fig, use_container_width=True)
 

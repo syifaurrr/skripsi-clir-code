@@ -1,0 +1,13 @@
+Skenario,Model,MRR,Success@10 (%),Success@20 (%),Success@50 (%),Success@100 (%)
+1. BM25 (Sparse),BM25+RM3 (Gemini LLM),0.3602,56.86,66.67,82.35,90.2
+1. BM25 (Sparse),BM25 (Gemini LLM),0.3568,56.21,65.36,77.78,90.2
+1. BM25 (Sparse),BM25+RM3 (Google NMT),0.1586,30.72,40.52,52.94,67.97
+1. BM25 (Sparse),BM25 (Google NMT),0.1562,26.8,33.99,53.59,66.01
+2. Cross-Lingual (Dense),mmBERT-base Fine-Tuned (JH-POLO),0.2976,50.98,59.48,67.32,84.31
+2. Cross-Lingual (Dense),mmBERT-small Fine-Tuned (JH-POLO),0.259,41.83,49.67,62.09,71.9
+2. Cross-Lingual (Dense),DistilBERT Base Fine-Tuned (JH-POLO),0.1853,35.29,45.75,59.48,71.9
+2. Cross-Lingual (Dense),Baseline (DistilBERT Base),0.0149,1.96,5.88,13.73,31.37
+2. Cross-Lingual (Dense),Baseline (mmBERT-small),0.0167,1.96,9.8,17.65,29.41
+2. Cross-Lingual (Dense),Baseline (mmBERT-base),0.0127,1.31,4.58,15.03,28.76
+3. AraDPR (Monolingual),AraDPR (Gemini LLM),0.1437,28.76,37.91,54.25,70.59
+3. AraDPR (Monolingual),AraDPR (Google NMT),0.0685,17.65,28.76,45.75,60.78
