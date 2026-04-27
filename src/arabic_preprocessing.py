@@ -53,7 +53,11 @@ def normalize_bm25(text):
 
     # 1. Gunakan fungsi standar IR PyArabic (Hamza, Alif, Ta' Marbutah, Harakat)
     # Teks akan menjadi seragam secara bentuk dasar
-    text = araby.normalize_searchtext(text) 
+    text = araby.strip_tashkeel(text)        # Remove harakat (diacritics)
+    text = araby.strip_tatweel(text)         # Remove tatweel (kashida stretches)
+    text = araby.normalize_hamza(text)       # Normalize hamza forms → ا
+    text = araby.normalize_ligature(text)    # Normalize ligatures (لا etc.)
+    text = araby.normalize_teh(text)         # Normalize Ta' Marbutah ة → ه
     
     # 2. Injeksi pembersih noise khusus korpus turats / OCR
     text = re.sub(r'[گڪ]', 'ك', text)
