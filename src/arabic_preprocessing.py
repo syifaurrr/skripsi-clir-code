@@ -101,7 +101,7 @@ def light_stemming(text):
 def preprocess_pipeline(text):
     """Fungsi utama yang dipanggil oleh PyTerrier"""
     # Langkah 1: Normalisasi karakter dasar
-    text = normalize_arabic(text)
+    text = normalize_bm25(text)
     # Langkah 2: Light Stemming dengan Tashaphyne
     text = light_stemming(text)
     return text
